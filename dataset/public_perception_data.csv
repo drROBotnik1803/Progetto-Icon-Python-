@@ -1,0 +1,2185 @@
+Respondent ID,Age Group,Education,Income Bracket,Living Area,Prior ADR Exposure,Tech Familiarity (1-5),General ADR Attitude (1-5),Privacy Concerns,Safety Concerns,Job Displacement,Public Space Impact,Reliability Concerns
+1,18-30,Graduate Degree,60k-100k,Suburban,Seen,4.6,3.7,5.0,3.1,3.2,2.8,2.5
+2,18-30,High School,>150k,Rural,None,3.1,2.3,4.1,3.0,4.3,3.0,3.0
+3,18-30,Graduate Degree,30k-60k,Urban,Interacted,3.2,4.1,4.6,3.1,4.2,3.7,3.1
+4,18-30,Bachelor's,60k-100k,Suburban,Seen,4.2,5.0,4.2,2.4,3.4,3.1,3.3
+5,18-30,Bachelor's,60k-100k,Suburban,Interacted,3.1,3.5,4.3,3.2,3.3,2.0,3.1
+6,18-30,Some College,30k-60k,Suburban,Seen,3.2,3.6,3.9,2.9,4.4,2.8,2.5
+7,18-30,Bachelor's,<30k,Urban,Seen,4.2,4.1,5.0,4.0,4.6,3.2,3.0
+8,18-30,Some College,30k-60k,Urban,Seen,3.4,3.0,3.9,3.4,4.3,2.2,2.8
+9,18-30,Some College,60k-100k,Suburban,None,2.8,2.8,4.4,3.9,3.2,3.7,2.6
+10,18-30,High School,30k-60k,Suburban,None,3.4,3.2,5.0,3.0,3.3,3.6,2.3
+11,18-30,Some College,60k-100k,Suburban,Interacted,3.9,2.8,4.4,3.6,3.8,2.8,3.3
+12,18-30,Bachelor's,30k-60k,Suburban,Seen,3.6,3.1,4.8,3.0,4.2,2.9,2.7
+13,18-30,Bachelor's,<30k,Suburban,Interacted,4.3,3.6,3.9,2.9,4.4,3.5,3.2
+14,18-30,High School,100k-150k,Suburban,Seen,4.2,3.5,4.6,3.1,4.0,3.4,2.7
+15,18-30,Graduate Degree,30k-60k,Suburban,None,4.6,3.3,4.0,3.2,3.9,3.3,2.7
+16,18-30,High School,>150k,Urban,Seen,3.1,4.3,4.6,3.3,3.8,2.8,3.3
+17,18-30,Some College,30k-60k,Suburban,None,5.0,3.4,4.6,3.4,3.6,2.8,2.0
+18,18-30,High School,<30k,Suburban,None,3.4,3.2,4.6,2.7,4.0,2.9,2.7
+19,18-30,High School,>150k,Urban,Seen,5.0,3.6,4.8,2.9,3.6,3.5,2.0
+20,18-30,Some College,<30k,Urban,Seen,3.7,3.6,4.2,3.3,3.5,3.1,3.8
+21,18-30,Some College,100k-150k,Urban,Interacted,4.1,3.6,4.2,3.6,4.1,2.8,4.1
+22,18-30,Bachelor's,60k-100k,Rural,None,2.1,2.5,5.0,4.2,3.5,2.4,2.7
+23,18-30,Bachelor's,<30k,Rural,Interacted,5.0,4.4,3.2,3.3,4.2,3.3,3.4
+24,18-30,Graduate Degree,<30k,Urban,Seen,3.7,4.0,4.1,3.7,3.7,1.9,3.7
+25,18-30,Some College,30k-60k,Urban,Interacted,2.5,2.7,4.3,3.3,4.7,3.0,2.8
+26,18-30,Bachelor's,60k-100k,Urban,None,4.7,3.6,4.5,3.3,3.5,3.6,3.1
+27,18-30,Bachelor's,60k-100k,Rural,Seen,3.5,2.5,3.7,3.0,4.6,3.2,2.8
+28,18-30,Some College,>150k,Urban,Seen,2.4,3.0,4.9,3.9,3.9,3.6,2.3
+29,18-30,Some College,>150k,Suburban,Seen,4.2,3.9,4.8,2.4,3.8,2.8,2.4
+30,18-30,Some College,60k-100k,Urban,Interacted,3.4,3.0,4.1,2.8,3.5,2.7,2.5
+31,18-30,Some College,60k-100k,Urban,Interacted,4.3,3.6,4.5,3.7,4.3,2.5,2.6
+32,18-30,Some College,60k-100k,Urban,Seen,5.0,4.4,3.6,3.9,3.8,3.1,3.2
+33,18-30,High School,30k-60k,Suburban,Seen,3.3,2.9,3.8,2.6,3.8,2.8,2.5
+34,18-30,Graduate Degree,60k-100k,Suburban,Seen,5.0,4.1,4.0,3.1,4.6,2.8,2.6
+35,18-30,Some College,<30k,Urban,Interacted,3.9,3.6,4.9,2.4,2.9,3.3,3.0
+36,18-30,High School,30k-60k,Urban,Interacted,4.0,3.8,4.1,2.8,3.5,2.8,2.6
+37,18-30,High School,30k-60k,Rural,None,4.0,4.3,4.3,3.2,3.5,2.5,3.3
+38,18-30,Some College,100k-150k,Urban,None,4.0,2.9,5.0,2.7,3.0,2.0,3.0
+39,18-30,Some College,60k-100k,Urban,Seen,4.4,4.2,5.0,2.3,3.8,2.6,2.7
+40,18-30,Bachelor's,30k-60k,Urban,None,3.9,3.2,4.6,3.4,3.8,3.0,2.7
+41,18-30,Bachelor's,100k-150k,Urban,None,4.6,2.4,3.9,3.4,3.7,2.6,3.3
+42,18-30,Graduate Degree,30k-60k,Suburban,None,3.8,4.1,4.4,2.1,3.4,1.9,2.8
+43,18-30,High School,100k-150k,Urban,None,4.3,2.9,4.6,3.1,3.5,2.9,3.1
+44,18-30,Bachelor's,60k-100k,Suburban,Seen,4.5,3.2,4.0,3.2,4.0,2.6,2.6
+45,18-30,High School,60k-100k,Suburban,Seen,3.4,3.8,4.0,3.5,4.5,2.6,2.8
+46,18-30,Bachelor's,60k-100k,Suburban,None,4.3,3.4,4.7,2.7,3.3,1.9,3.7
+47,18-30,High School,60k-100k,Suburban,None,4.2,3.5,4.1,3.1,4.8,3.1,3.1
+48,18-30,Bachelor's,30k-60k,Suburban,Interacted,2.4,4.1,3.6,2.6,3.8,2.8,3.5
+49,18-30,High School,30k-60k,Suburban,Interacted,3.1,2.8,4.6,1.9,3.8,3.1,3.6
+50,18-30,Some College,<30k,Urban,Seen,5.0,4.4,4.1,1.8,3.9,2.7,3.3
+51,18-30,High School,60k-100k,Urban,Seen,3.9,3.1,3.8,3.0,3.9,2.9,2.7
+52,18-30,Graduate Degree,30k-60k,Urban,Interacted,3.6,4.4,4.5,3.1,3.6,2.4,3.1
+53,18-30,Some College,30k-60k,Urban,Interacted,4.2,4.3,3.6,3.2,4.0,2.7,2.9
+54,18-30,Some College,<30k,Urban,Seen,3.4,3.6,3.5,3.6,4.5,3.2,2.4
+55,18-30,Bachelor's,30k-60k,Urban,Seen,3.0,2.9,4.6,2.6,4.0,2.9,3.8
+56,18-30,Graduate Degree,<30k,Urban,Interacted,3.4,4.1,3.7,3.3,3.3,3.3,2.9
+57,18-30,Some College,30k-60k,Suburban,Seen,3.4,3.8,4.6,2.4,4.5,1.7,2.1
+58,18-30,Bachelor's,30k-60k,Urban,Seen,3.9,3.4,4.2,3.3,3.0,2.1,3.4
+59,18-30,Graduate Degree,60k-100k,Urban,Seen,4.2,4.4,3.4,3.4,4.9,3.2,2.8
+60,18-30,Bachelor's,<30k,Rural,Interacted,4.2,3.5,5.0,2.2,3.3,2.5,3.0
+61,18-30,High School,60k-100k,Urban,Interacted,2.4,4.4,3.4,2.7,4.6,2.4,3.3
+62,18-30,Graduate Degree,60k-100k,Urban,None,4.7,3.2,4.0,2.8,4.0,4.1,3.0
+63,18-30,High School,<30k,Suburban,None,4.2,2.8,5.0,3.1,3.1,2.6,3.2
+64,18-30,Bachelor's,30k-60k,Urban,Seen,4.1,3.8,4.7,3.1,4.2,2.9,2.3
+65,18-30,Bachelor's,60k-100k,Suburban,Interacted,3.9,4.0,4.0,3.4,3.1,2.8,3.4
+66,18-30,Graduate Degree,>150k,Suburban,Seen,3.9,3.2,4.1,3.1,3.9,3.3,2.7
+67,18-30,High School,<30k,Urban,None,2.3,2.5,3.7,3.7,3.8,2.9,3.2
+68,18-30,Bachelor's,100k-150k,Suburban,None,5.0,3.4,4.7,3.1,4.4,2.5,3.7
+69,18-30,Graduate Degree,>150k,Suburban,Seen,3.2,2.7,3.4,2.2,3.5,3.2,2.8
+70,18-30,High School,<30k,Urban,Seen,4.6,3.6,3.7,3.1,4.0,3.6,2.5
+71,18-30,Graduate Degree,30k-60k,Suburban,Interacted,3.3,3.9,4.8,3.9,3.1,2.8,2.7
+72,18-30,Some College,<30k,Rural,Seen,3.4,3.6,3.9,3.8,3.6,2.4,3.2
+73,18-30,High School,60k-100k,Suburban,Seen,4.7,3.3,3.8,3.2,3.7,3.1,3.3
+74,18-30,Some College,30k-60k,Urban,None,3.8,3.8,4.3,3.1,4.8,2.5,3.1
+75,18-30,Some College,60k-100k,Suburban,None,4.0,3.8,4.9,2.5,3.1,3.0,3.1
+76,18-30,Graduate Degree,60k-100k,Suburban,Seen,3.7,3.5,4.4,3.6,4.5,3.5,3.3
+77,18-30,Some College,60k-100k,Urban,Seen,2.6,3.1,4.4,3.3,3.8,2.8,3.4
+78,18-30,Some College,60k-100k,Suburban,None,3.7,3.4,4.2,2.9,4.0,2.9,3.8
+79,18-30,Bachelor's,>150k,Urban,None,3.9,2.4,4.3,3.3,3.8,2.6,2.8
+80,18-30,Bachelor's,<30k,Rural,Interacted,3.4,4.5,4.7,2.8,4.1,3.6,3.0
+81,18-30,Some College,>150k,Urban,Interacted,4.8,3.9,3.6,3.0,4.2,3.3,3.6
+82,18-30,Graduate Degree,30k-60k,Suburban,Seen,3.6,3.6,3.6,2.3,3.6,2.8,3.1
+83,18-30,High School,<30k,Suburban,Interacted,3.6,4.0,4.7,2.9,4.2,2.8,3.1
+84,18-30,Bachelor's,100k-150k,Suburban,Interacted,3.3,4.5,4.6,3.2,4.3,2.8,3.7
+85,18-30,High School,30k-60k,Urban,Seen,3.8,3.3,3.4,3.4,3.6,3.3,2.9
+86,18-30,Some College,60k-100k,Urban,None,3.8,2.7,3.9,3.5,4.1,2.3,3.0
+87,18-30,Bachelor's,60k-100k,Suburban,None,3.2,3.2,3.8,3.1,3.8,2.8,2.9
+88,18-30,Bachelor's,100k-150k,Urban,Interacted,4.4,4.1,3.7,3.8,4.4,2.8,2.7
+89,18-30,Bachelor's,100k-150k,Urban,Seen,5.0,3.6,4.3,3.6,3.8,3.5,3.2
+90,18-30,High School,30k-60k,Urban,Seen,3.8,4.5,4.3,2.9,4.1,3.1,2.7
+91,18-30,Bachelor's,60k-100k,Urban,Interacted,3.7,4.2,3.6,3.4,3.6,2.9,3.5
+92,18-30,Some College,30k-60k,Urban,None,4.7,3.5,4.6,3.2,4.4,3.6,2.8
+93,18-30,Graduate Degree,30k-60k,Urban,Seen,4.4,3.8,4.6,3.2,4.2,2.2,3.7
+94,18-30,Graduate Degree,<30k,Urban,Seen,4.4,2.2,3.9,3.1,4.5,3.1,2.8
+95,18-30,Some College,60k-100k,Urban,Seen,3.2,2.5,4.4,3.1,4.3,2.2,3.6
+96,18-30,High School,<30k,Suburban,None,5.0,4.0,4.1,3.6,3.7,2.0,2.8
+97,18-30,High School,<30k,Urban,Seen,4.8,3.6,4.6,3.7,4.5,2.8,3.2
+98,18-30,High School,30k-60k,Urban,Seen,3.9,2.5,4.4,3.5,3.9,3.2,3.0
+99,18-30,High School,<30k,Rural,Seen,5.0,3.4,4.3,3.3,3.8,3.3,1.9
+100,18-30,High School,30k-60k,Suburban,Interacted,3.6,3.8,4.4,3.4,3.4,2.5,4.0
+101,18-30,Bachelor's,100k-150k,Rural,Seen,3.9,3.6,4.2,4.1,4.4,3.0,2.8
+102,18-30,Bachelor's,30k-60k,Suburban,Seen,3.7,3.6,4.4,3.9,3.3,3.0,2.6
+103,18-30,Graduate Degree,100k-150k,Suburban,None,4.3,3.7,4.5,3.3,3.1,2.3,3.5
+104,18-30,Some College,100k-150k,Urban,Interacted,5.0,3.7,4.5,3.0,3.9,2.3,2.3
+105,18-30,Some College,30k-60k,Urban,Interacted,5.0,3.0,3.6,2.8,4.0,2.4,3.5
+106,18-30,Graduate Degree,60k-100k,Suburban,Seen,4.9,4.1,3.9,2.4,3.1,3.3,4.2
+107,18-30,Bachelor's,60k-100k,Rural,Seen,3.0,2.8,4.1,3.3,3.8,3.1,3.0
+108,18-30,Some College,100k-150k,Suburban,Seen,3.0,3.1,3.7,3.6,3.1,2.3,3.5
+109,18-30,High School,60k-100k,Urban,Seen,3.7,3.1,5.0,3.2,4.0,2.3,3.7
+110,18-30,Bachelor's,>150k,Suburban,Interacted,2.7,4.3,4.2,3.1,3.9,2.4,2.7
+111,18-30,Bachelor's,>150k,Urban,Seen,3.1,3.4,4.6,2.7,4.3,2.5,3.9
+112,18-30,Some College,60k-100k,Urban,Seen,3.8,3.4,3.8,3.4,4.1,2.7,2.9
+113,18-30,Bachelor's,60k-100k,Urban,Interacted,3.2,2.8,4.9,2.3,4.1,2.8,3.2
+114,18-30,Bachelor's,60k-100k,Rural,Seen,3.3,2.8,3.2,3.4,4.7,2.6,2.9
+115,18-30,High School,30k-60k,Urban,Seen,3.9,3.7,3.8,3.1,3.6,3.2,3.5
+116,18-30,Some College,30k-60k,Suburban,Seen,4.2,3.6,5.0,3.9,4.1,2.4,3.0
+117,18-30,High School,60k-100k,Urban,None,2.8,2.7,3.7,3.1,4.7,2.6,3.7
+118,18-30,High School,>150k,Rural,Seen,4.0,3.3,3.5,3.7,4.0,4.0,3.2
+119,18-30,High School,100k-150k,Suburban,Interacted,4.4,3.5,3.7,2.7,3.5,2.7,3.0
+120,18-30,Some College,60k-100k,Suburban,Seen,4.5,3.5,3.4,3.1,4.3,2.8,3.0
+121,18-30,Graduate Degree,100k-150k,Suburban,Interacted,4.9,4.1,3.9,3.0,3.3,2.6,2.5
+122,18-30,Bachelor's,<30k,Suburban,None,3.8,2.6,4.3,3.1,4.3,3.5,3.3
+123,18-30,Some College,<30k,Urban,Seen,4.0,3.7,4.5,3.1,3.0,2.5,1.6
+124,18-30,High School,60k-100k,Suburban,Interacted,3.3,3.4,3.8,3.0,4.6,2.9,2.8
+125,18-30,Bachelor's,<30k,Suburban,Seen,3.6,3.3,3.4,3.6,4.1,3.9,2.5
+126,18-30,High School,30k-60k,Urban,Seen,3.4,3.5,4.7,3.4,4.3,2.5,1.7
+127,18-30,Some College,30k-60k,Urban,None,3.8,3.8,3.7,3.1,2.9,3.8,2.4
+128,18-30,Some College,30k-60k,Urban,Interacted,3.3,4.5,3.8,3.8,3.8,2.5,3.5
+129,18-30,Some College,100k-150k,Urban,Seen,4.4,3.3,4.2,3.6,4.6,3.4,3.1
+130,18-30,Some College,<30k,Suburban,None,2.7,2.4,4.3,4.1,4.0,2.6,3.1
+131,18-30,Some College,100k-150k,Suburban,None,4.5,3.8,4.0,2.9,4.0,2.4,2.6
+132,18-30,Some College,30k-60k,Urban,Seen,3.3,3.7,4.9,3.8,4.2,3.0,4.1
+133,18-30,Graduate Degree,60k-100k,Suburban,Seen,3.6,3.1,4.6,3.4,3.5,3.0,3.3
+134,18-30,Some College,30k-60k,Suburban,None,4.5,3.2,3.6,3.0,3.8,3.0,3.4
+135,18-30,Graduate Degree,100k-150k,Rural,Interacted,4.4,3.4,4.6,2.7,4.5,2.7,3.4
+136,18-30,Some College,>150k,Rural,Interacted,4.8,4.0,4.5,3.3,3.6,2.5,3.3
+137,18-30,Bachelor's,60k-100k,Suburban,Seen,4.5,3.3,3.3,3.1,4.8,3.1,3.2
+138,18-30,Some College,<30k,Urban,None,5.0,3.8,4.4,3.0,3.5,2.5,3.3
+139,18-30,Bachelor's,<30k,Urban,Interacted,3.1,3.1,4.3,3.8,3.2,2.2,2.8
+140,18-30,Bachelor's,100k-150k,Suburban,Seen,3.4,4.6,3.2,2.4,3.0,2.0,3.6
+141,18-30,Bachelor's,<30k,Suburban,Interacted,4.5,3.9,5.0,4.0,4.7,3.3,2.7
+142,18-30,High School,<30k,Urban,Seen,2.9,3.1,4.9,3.4,4.4,2.8,3.7
+143,18-30,Some College,30k-60k,Urban,None,2.9,2.8,4.4,2.4,4.0,3.1,3.9
+144,18-30,Some College,100k-150k,Urban,Interacted,3.9,2.9,4.3,4.0,4.7,2.6,2.4
+145,18-30,Some College,>150k,Urban,Interacted,4.9,3.5,4.7,3.0,3.7,3.0,2.9
+146,18-30,High School,60k-100k,Suburban,None,3.0,3.2,4.2,3.9,3.7,2.5,3.2
+147,18-30,Bachelor's,60k-100k,Rural,Seen,3.1,3.1,3.7,2.7,4.1,2.7,2.6
+148,18-30,Bachelor's,<30k,Suburban,Seen,3.9,3.7,5.0,1.9,4.3,3.2,2.9
+149,18-30,Graduate Degree,<30k,Urban,Interacted,5.0,4.1,4.6,2.6,3.3,3.1,2.3
+150,18-30,Some College,<30k,Urban,Seen,3.0,3.2,4.4,2.7,3.5,2.9,3.6
+151,18-30,Graduate Degree,60k-100k,Urban,Interacted,3.8,3.5,4.4,4.0,3.9,2.4,2.4
+152,18-30,Some College,60k-100k,Suburban,Interacted,3.3,3.2,5.0,3.1,3.5,2.7,3.7
+153,18-30,High School,30k-60k,Suburban,None,3.8,3.2,3.5,3.1,3.7,3.1,3.2
+154,18-30,Graduate Degree,60k-100k,Suburban,Interacted,3.9,3.0,3.8,3.2,3.5,2.6,3.6
+155,18-30,Some College,100k-150k,Suburban,Seen,3.9,4.0,4.8,3.4,4.3,2.7,2.4
+156,18-30,Some College,100k-150k,Rural,Interacted,5.0,3.6,4.5,2.9,3.7,2.3,3.2
+157,18-30,High School,100k-150k,Suburban,Seen,4.9,3.2,4.5,3.1,4.0,2.8,3.6
+158,18-30,High School,60k-100k,Suburban,Interacted,4.1,3.7,4.1,3.4,4.1,2.9,2.8
+159,18-30,Bachelor's,60k-100k,Suburban,None,2.0,2.5,4.0,2.1,3.8,3.5,3.0
+160,18-30,High School,60k-100k,Suburban,None,5.0,3.4,4.7,3.0,3.7,2.6,2.5
+161,18-30,Bachelor's,60k-100k,Urban,Seen,3.2,3.8,4.1,3.7,3.9,2.9,3.2
+162,18-30,High School,<30k,Suburban,Interacted,3.9,4.7,3.6,3.4,3.7,3.2,2.3
+163,18-30,Some College,30k-60k,Urban,Seen,4.5,3.8,4.7,2.4,4.3,3.1,2.4
+164,18-30,Bachelor's,<30k,Urban,None,3.4,3.1,4.5,3.7,3.8,1.7,3.4
+165,18-30,Bachelor's,>150k,Urban,Seen,3.4,3.6,4.0,3.5,4.0,3.0,3.4
+166,18-30,High School,60k-100k,Suburban,Seen,4.4,2.8,4.0,3.0,3.7,2.8,2.8
+167,18-30,Some College,30k-60k,Suburban,Seen,3.3,3.3,4.4,3.5,4.4,2.9,3.4
+168,18-30,Graduate Degree,100k-150k,Suburban,Seen,4.0,4.0,4.0,2.6,4.0,3.3,3.3
+169,18-30,Some College,30k-60k,Urban,Seen,2.9,3.8,4.9,2.9,4.3,2.9,4.1
+170,18-30,Bachelor's,30k-60k,Suburban,Seen,3.9,3.7,5.0,3.0,3.5,3.9,2.9
+171,18-30,Bachelor's,60k-100k,Suburban,None,2.1,3.0,4.1,3.0,3.7,1.7,2.9
+172,18-30,Some College,30k-60k,Suburban,Seen,2.3,3.0,3.6,2.9,3.5,3.0,3.7
+173,18-30,Graduate Degree,30k-60k,Urban,Seen,4.7,3.5,3.8,3.2,4.0,1.7,3.0
+174,18-30,Some College,30k-60k,Urban,None,3.4,3.2,3.9,3.2,4.2,2.0,3.4
+175,18-30,Some College,<30k,Suburban,Interacted,3.6,4.4,3.8,3.3,3.5,1.7,2.6
+176,18-30,High School,<30k,Urban,None,3.7,3.2,4.0,3.2,4.1,2.3,3.7
+177,18-30,Bachelor's,>150k,Suburban,Interacted,3.3,4.9,4.4,3.4,3.9,2.4,2.2
+178,18-30,High School,<30k,Suburban,Interacted,3.3,4.5,4.0,3.7,3.5,3.3,3.2
+179,18-30,Bachelor's,30k-60k,Urban,Interacted,3.2,2.7,4.1,3.8,4.2,3.0,2.1
+180,18-30,Bachelor's,60k-100k,Suburban,Seen,3.6,3.8,4.8,2.6,3.7,2.2,2.9
+181,18-30,High School,<30k,Suburban,Seen,2.9,2.3,3.5,3.7,3.8,2.4,3.6
+182,18-30,High School,>150k,Suburban,Interacted,4.2,3.9,4.8,2.7,4.1,2.6,3.0
+183,18-30,Some College,<30k,Urban,Interacted,4.0,3.9,3.7,2.9,3.0,2.6,3.0
+184,18-30,Bachelor's,>150k,Urban,Seen,2.8,3.2,4.7,3.0,4.1,2.0,2.4
+185,18-30,Bachelor's,60k-100k,Suburban,None,3.1,3.1,4.1,3.7,3.4,2.4,2.4
+186,18-30,Some College,60k-100k,Urban,Seen,4.7,4.7,4.4,4.1,3.4,1.5,2.9
+187,18-30,Bachelor's,30k-60k,Urban,Seen,5.0,3.6,4.2,2.8,3.1,2.9,3.1
+188,18-30,Bachelor's,30k-60k,Rural,Interacted,2.4,3.9,4.3,3.3,3.9,3.4,3.0
+189,18-30,Some College,30k-60k,Suburban,Interacted,3.5,3.9,4.3,1.9,5.0,2.7,3.6
+190,18-30,Graduate Degree,30k-60k,Urban,Seen,4.3,3.7,4.9,3.0,4.5,3.1,1.5
+191,18-30,High School,30k-60k,Suburban,Seen,3.4,2.9,4.7,3.7,3.7,2.4,3.6
+192,18-30,Graduate Degree,<30k,Rural,Seen,3.3,3.5,3.9,3.6,4.2,3.2,3.3
+193,18-30,Bachelor's,100k-150k,Suburban,Interacted,3.8,2.9,4.5,3.3,3.5,2.9,2.6
+194,18-30,High School,30k-60k,Urban,Seen,4.3,4.1,3.4,2.2,4.0,2.8,2.6
+195,18-30,High School,<30k,Urban,Seen,4.4,3.5,3.7,2.7,4.3,2.5,2.9
+196,18-30,Some College,30k-60k,Suburban,None,1.4,2.6,4.5,3.1,4.0,3.5,2.3
+197,18-30,Bachelor's,60k-100k,Urban,Seen,4.9,3.2,3.6,3.5,4.3,3.1,3.1
+198,18-30,Bachelor's,30k-60k,Suburban,Interacted,3.1,4.1,4.2,2.8,3.7,2.5,3.1
+199,18-30,High School,60k-100k,Urban,Seen,3.2,3.6,4.7,2.6,3.5,3.4,2.9
+200,18-30,Some College,100k-150k,Rural,Seen,4.0,3.2,4.0,3.5,3.8,3.0,2.9
+201,18-30,Some College,30k-60k,Suburban,Seen,4.6,3.8,4.5,2.7,4.0,2.8,2.5
+202,18-30,Bachelor's,<30k,Urban,Interacted,3.4,3.0,4.1,3.1,4.2,2.1,1.9
+203,18-30,Some College,<30k,Suburban,Interacted,5.0,4.0,4.8,2.9,3.7,3.0,2.8
+204,18-30,Bachelor's,60k-100k,Urban,Interacted,2.8,4.3,4.4,3.3,3.4,2.4,3.6
+205,18-30,Bachelor's,<30k,Rural,Seen,2.9,3.1,3.8,2.4,3.0,2.9,2.2
+206,18-30,Some College,60k-100k,Suburban,Seen,2.9,3.7,2.9,3.1,3.8,2.8,3.3
+207,18-30,Bachelor's,100k-150k,Suburban,Interacted,4.0,4.3,4.1,3.2,4.4,2.4,1.9
+208,18-30,Graduate Degree,100k-150k,Urban,Interacted,2.5,2.9,3.5,3.2,4.0,2.7,3.7
+209,18-30,High School,30k-60k,Urban,Interacted,3.8,3.6,5.0,3.0,3.6,2.8,3.3
+210,18-30,High School,<30k,Urban,None,4.2,3.9,3.9,3.7,4.2,2.2,3.1
+211,18-30,Some College,60k-100k,Urban,None,4.3,2.8,4.5,3.0,3.8,1.9,3.2
+212,18-30,Graduate Degree,60k-100k,Urban,Seen,3.7,4.1,4.1,4.1,3.9,2.7,2.8
+213,18-30,Some College,30k-60k,Urban,Interacted,4.1,3.6,4.1,2.5,4.1,3.0,3.0
+214,18-30,Bachelor's,<30k,Suburban,Interacted,5.0,4.0,3.4,3.3,3.9,2.5,3.2
+215,18-30,High School,60k-100k,Suburban,Interacted,3.6,4.0,4.3,2.5,3.9,3.6,3.3
+216,18-30,High School,30k-60k,Suburban,Seen,5.0,3.7,3.6,2.9,4.0,2.6,3.0
+217,18-30,High School,30k-60k,Urban,None,4.3,4.0,3.5,2.3,4.0,2.9,3.1
+218,18-30,Some College,60k-100k,Urban,Seen,3.5,3.7,3.9,2.5,4.3,2.8,2.5
+219,18-30,Graduate Degree,60k-100k,Urban,Interacted,3.6,4.4,4.5,4.4,3.5,3.3,3.4
+220,18-30,Some College,30k-60k,Urban,Seen,1.7,2.9,4.0,2.5,4.1,3.2,2.8
+221,18-30,Bachelor's,100k-150k,Urban,Seen,4.6,3.4,4.7,3.5,3.4,3.0,3.1
+222,18-30,High School,<30k,Suburban,Interacted,4.3,3.3,3.4,2.8,3.9,2.3,2.5
+223,18-30,Bachelor's,100k-150k,Urban,None,2.9,3.7,3.7,2.5,4.3,3.1,2.8
+224,18-30,Bachelor's,<30k,Suburban,Interacted,4.3,3.1,3.3,2.7,4.2,3.0,3.7
+225,18-30,Some College,60k-100k,Suburban,None,4.6,3.9,4.2,2.6,2.7,2.9,3.5
+226,18-30,Bachelor's,60k-100k,Suburban,Seen,4.2,3.9,4.2,3.5,3.6,2.5,2.4
+227,18-30,Bachelor's,60k-100k,Rural,None,5.0,3.6,3.0,3.1,4.1,2.5,2.6
+228,18-30,High School,60k-100k,Suburban,Seen,4.4,3.8,4.4,3.4,3.9,2.8,2.7
+229,18-30,High School,100k-150k,Suburban,Seen,4.4,3.3,3.7,3.0,3.3,2.3,3.2
+230,18-30,Bachelor's,60k-100k,Suburban,Interacted,3.0,2.8,4.6,2.9,4.0,1.9,3.2
+231,18-30,Bachelor's,30k-60k,Suburban,None,3.3,2.9,3.9,3.0,3.5,3.3,3.9
+232,18-30,Some College,>150k,Suburban,None,3.5,3.3,4.1,3.7,4.6,2.6,2.3
+233,18-30,Some College,30k-60k,Urban,Interacted,5.0,3.5,3.5,3.1,4.7,2.5,2.7
+234,18-30,Some College,30k-60k,Suburban,Seen,3.2,3.4,3.4,2.6,3.4,2.9,3.0
+235,18-30,High School,>150k,Urban,None,4.6,2.7,4.3,2.7,4.6,3.4,3.6
+236,18-30,Some College,60k-100k,Suburban,Interacted,4.6,4.6,4.7,3.4,4.1,3.0,2.3
+237,18-30,Some College,<30k,Suburban,None,4.1,2.9,4.0,2.3,3.8,3.0,2.8
+238,18-30,Bachelor's,>150k,Urban,Seen,2.8,3.5,4.1,2.9,3.1,3.7,3.7
+239,18-30,Bachelor's,<30k,Urban,None,3.6,4.0,4.4,3.4,3.6,2.4,3.9
+240,18-30,High School,>150k,Suburban,None,4.2,2.7,4.7,3.3,4.1,2.8,3.4
+241,18-30,Bachelor's,60k-100k,Suburban,None,4.0,3.7,4.1,2.8,4.0,3.2,2.1
+242,18-30,Bachelor's,100k-150k,Suburban,Interacted,5.0,3.7,4.1,2.4,4.2,2.5,3.9
+243,18-30,Graduate Degree,<30k,Suburban,Interacted,3.8,3.9,4.0,2.2,3.6,2.8,3.4
+244,18-30,Some College,60k-100k,Urban,Seen,4.3,4.1,4.0,3.0,3.8,3.2,3.2
+245,18-30,High School,30k-60k,Urban,None,3.4,2.8,4.2,2.3,2.8,3.1,3.5
+246,18-30,Graduate Degree,>150k,Urban,Seen,3.9,5.0,4.7,3.1,2.8,2.7,2.6
+247,18-30,High School,100k-150k,Suburban,Seen,4.1,3.0,4.3,3.2,3.7,3.6,2.4
+248,18-30,Bachelor's,30k-60k,Urban,Seen,3.2,2.6,4.5,3.6,4.4,2.2,3.0
+249,18-30,High School,30k-60k,Suburban,Seen,3.2,3.3,3.5,3.4,3.8,2.5,2.6
+250,18-30,Bachelor's,30k-60k,Urban,Seen,1.7,2.8,4.4,4.0,4.1,2.4,3.3
+251,18-30,Graduate Degree,60k-100k,Suburban,None,3.2,2.8,4.3,2.6,3.7,2.4,3.2
+252,18-30,Graduate Degree,30k-60k,Suburban,Interacted,5.0,4.6,3.6,3.0,3.9,4.1,2.4
+253,18-30,Some College,<30k,Suburban,None,3.7,3.1,4.8,3.2,4.1,3.0,2.0
+254,18-30,High School,100k-150k,Rural,Seen,3.8,3.5,4.9,2.7,3.9,3.4,2.8
+255,18-30,High School,100k-150k,Urban,Seen,3.3,3.1,4.4,3.1,4.0,2.5,2.9
+256,18-30,Graduate Degree,60k-100k,Urban,None,3.3,2.0,4.9,2.8,3.3,2.5,2.9
+257,18-30,Bachelor's,60k-100k,Suburban,Seen,4.1,3.9,4.1,4.2,4.0,3.6,3.7
+258,18-30,Some College,<30k,Suburban,Seen,4.0,3.7,4.5,3.8,4.2,2.6,2.8
+259,18-30,Graduate Degree,100k-150k,Suburban,Interacted,2.8,3.0,4.6,3.3,4.8,3.4,3.0
+260,18-30,High School,30k-60k,Urban,None,3.1,3.8,4.7,2.9,3.2,2.8,3.5
+261,18-30,Bachelor's,60k-100k,Suburban,Interacted,4.7,3.6,4.7,2.6,3.9,2.8,2.3
+262,18-30,Bachelor's,30k-60k,Suburban,Seen,3.2,3.6,3.9,3.5,3.3,3.1,3.3
+263,18-30,High School,60k-100k,Urban,None,3.9,2.6,4.0,3.1,3.7,3.0,2.7
+264,18-30,Graduate Degree,100k-150k,Urban,Seen,4.4,3.9,4.8,3.3,4.1,3.0,2.2
+265,18-30,Graduate Degree,>150k,Urban,Seen,4.3,3.0,4.2,2.8,4.5,2.5,2.1
+266,18-30,High School,100k-150k,Suburban,Interacted,4.0,4.3,4.5,3.3,4.4,3.8,3.5
+267,18-30,Bachelor's,>150k,Suburban,None,3.9,3.2,5.0,2.9,3.2,2.5,3.4
+268,18-30,Some College,30k-60k,Rural,Seen,5.0,3.5,4.5,3.4,4.3,2.5,3.1
+269,18-30,Bachelor's,30k-60k,Rural,Seen,4.5,3.9,4.2,2.5,4.5,3.3,2.3
+270,18-30,Bachelor's,<30k,Suburban,Interacted,5.0,4.5,3.7,4.1,3.6,2.6,3.2
+271,18-30,Bachelor's,100k-150k,Rural,None,4.2,3.4,3.7,4.6,3.3,2.6,2.2
+272,18-30,Bachelor's,30k-60k,Urban,Interacted,2.9,3.8,4.6,3.1,3.7,2.9,2.6
+273,18-30,Graduate Degree,100k-150k,Urban,Seen,3.7,3.3,3.8,3.6,4.0,2.8,3.6
+274,18-30,High School,>150k,Suburban,Seen,3.4,3.2,4.0,3.0,3.5,2.7,2.2
+275,18-30,High School,<30k,Rural,Seen,3.2,3.1,3.3,2.9,3.6,3.3,2.5
+276,18-30,Some College,60k-100k,Urban,Seen,3.8,3.0,3.9,3.4,3.6,2.6,2.5
+277,18-30,Some College,60k-100k,Suburban,Seen,4.4,3.2,4.3,2.6,3.3,2.8,2.3
+278,18-30,Some College,30k-60k,Suburban,Interacted,5.0,4.5,4.2,3.0,3.6,3.7,2.8
+279,18-30,Bachelor's,100k-150k,Urban,Seen,3.7,1.8,4.8,3.2,3.3,2.6,3.9
+280,18-30,Bachelor's,30k-60k,Suburban,Interacted,3.6,3.5,3.5,2.2,3.4,3.6,2.9
+281,18-30,Graduate Degree,<30k,Suburban,Seen,4.5,3.2,4.0,4.4,3.3,3.1,2.0
+282,18-30,Bachelor's,<30k,Urban,Interacted,2.9,3.6,4.4,2.8,3.6,2.5,3.4
+283,18-30,Some College,100k-150k,Urban,Seen,3.0,2.9,4.3,2.7,4.1,3.0,3.3
+284,18-30,Graduate Degree,30k-60k,Urban,Seen,2.1,2.6,3.9,3.4,4.5,2.5,3.2
+285,18-30,High School,30k-60k,Rural,Seen,3.6,3.4,3.9,2.7,3.9,3.2,3.8
+286,18-30,Some College,60k-100k,Rural,Seen,3.9,2.4,3.6,2.8,4.6,2.6,3.2
+287,18-30,Bachelor's,>150k,Suburban,Interacted,3.6,2.9,3.9,3.1,3.9,2.5,3.6
+288,18-30,High School,60k-100k,Urban,None,3.4,3.8,4.0,2.3,4.3,2.6,2.4
+289,18-30,Bachelor's,<30k,Suburban,None,3.7,4.0,4.6,2.5,4.3,2.9,2.7
+290,18-30,High School,30k-60k,Urban,Interacted,5.0,4.6,4.3,3.1,4.0,2.7,3.1
+291,18-30,Some College,100k-150k,Rural,None,4.6,2.9,4.4,3.4,3.4,2.3,3.5
+292,18-30,High School,30k-60k,Urban,None,4.1,2.7,3.6,3.6,3.7,3.1,2.9
+293,18-30,High School,>150k,Urban,Seen,4.5,4.1,3.4,3.1,4.9,2.6,3.4
+294,18-30,Bachelor's,100k-150k,Urban,Interacted,4.7,3.5,4.3,2.6,4.8,3.3,2.9
+295,18-30,Some College,<30k,Urban,Seen,2.3,3.4,3.8,2.2,4.0,3.7,3.0
+296,18-30,Some College,<30k,Urban,Interacted,4.2,4.0,3.4,3.6,4.0,3.4,2.6
+297,18-30,Bachelor's,60k-100k,Suburban,Interacted,3.1,3.0,4.1,3.5,4.1,3.1,3.1
+298,18-30,Graduate Degree,30k-60k,Urban,None,3.0,3.1,4.2,3.9,4.2,2.8,2.9
+299,18-30,High School,60k-100k,Urban,Interacted,3.6,2.9,4.2,3.3,3.7,2.7,3.1
+300,18-30,Bachelor's,30k-60k,Suburban,Seen,2.8,2.4,4.1,3.6,3.7,2.8,3.7
+301,18-30,Bachelor's,30k-60k,Urban,Interacted,2.8,3.7,4.2,2.7,4.5,2.8,2.7
+302,18-30,Some College,30k-60k,Urban,Interacted,1.8,2.8,4.4,3.2,4.1,2.5,3.0
+303,18-30,High School,60k-100k,Rural,Seen,3.1,3.3,5.0,3.3,3.8,2.4,3.1
+304,18-30,High School,30k-60k,Suburban,None,2.7,2.6,4.4,3.7,3.7,3.0,3.6
+305,18-30,High School,30k-60k,Urban,Interacted,3.5,3.1,4.8,3.7,3.8,2.5,2.8
+306,18-30,Graduate Degree,60k-100k,Urban,None,2.8,3.8,4.1,4.0,3.9,2.9,3.3
+307,18-30,Bachelor's,60k-100k,Suburban,Interacted,4.8,3.9,5.0,2.8,3.8,2.9,3.1
+308,18-30,Some College,>150k,Urban,Interacted,2.3,3.7,4.8,3.1,4.5,1.8,3.1
+309,18-30,High School,30k-60k,Urban,Interacted,3.4,3.7,5.0,2.8,4.6,2.2,3.7
+310,18-30,Bachelor's,60k-100k,Urban,Interacted,2.9,3.3,4.0,2.5,4.2,3.0,2.1
+311,18-30,High School,30k-60k,Suburban,Interacted,3.4,3.3,3.8,3.0,3.3,3.0,2.8
+312,18-30,High School,60k-100k,Urban,Interacted,2.4,4.1,4.1,3.1,3.7,2.8,3.0
+313,18-30,Graduate Degree,60k-100k,Urban,Seen,3.9,4.1,3.7,3.6,3.8,3.2,2.7
+314,18-30,Bachelor's,30k-60k,Urban,Interacted,1.5,2.9,4.1,3.0,3.5,3.2,2.8
+315,18-30,Some College,30k-60k,Suburban,None,3.7,2.8,4.3,2.5,4.2,3.2,2.9
+316,18-30,Some College,60k-100k,Urban,Seen,2.7,3.5,3.5,3.1,3.7,2.3,3.3
+317,18-30,Graduate Degree,100k-150k,Urban,Seen,4.6,3.5,4.0,2.4,4.3,2.2,3.3
+318,18-30,High School,60k-100k,Urban,Seen,3.5,3.7,4.8,2.5,4.3,3.2,3.9
+319,18-30,Some College,60k-100k,Urban,Seen,4.2,4.3,3.3,2.7,4.5,2.9,3.5
+320,18-30,High School,100k-150k,Urban,Seen,4.5,3.9,4.3,2.6,3.6,2.4,3.4
+321,18-30,Some College,60k-100k,Suburban,Interacted,3.2,3.9,5.0,3.6,3.0,3.7,3.5
+322,18-30,High School,60k-100k,Suburban,Interacted,4.4,3.9,3.7,3.2,3.4,2.4,3.6
+323,18-30,Some College,30k-60k,Urban,None,2.0,2.4,4.1,2.9,3.9,2.7,3.7
+324,18-30,Bachelor's,>150k,Urban,None,2.5,3.4,3.8,3.2,4.4,2.8,4.4
+325,18-30,Graduate Degree,30k-60k,Urban,None,3.9,3.9,3.7,3.6,4.9,2.9,3.1
+326,18-30,Graduate Degree,30k-60k,Urban,Interacted,3.6,3.7,4.8,2.7,3.5,3.4,3.7
+327,18-30,Bachelor's,30k-60k,Suburban,Seen,3.3,3.1,3.2,3.5,3.5,2.9,3.8
+328,18-30,High School,60k-100k,Urban,Interacted,3.1,3.5,4.3,3.7,4.0,2.8,3.3
+329,18-30,Some College,30k-60k,Suburban,None,4.0,3.8,3.5,2.8,3.8,2.5,3.0
+330,18-30,Graduate Degree,60k-100k,Suburban,None,2.9,3.5,4.2,2.5,3.4,3.6,2.5
+331,18-30,High School,60k-100k,Urban,Interacted,4.7,4.4,5.0,3.5,4.4,3.2,3.0
+332,18-30,High School,<30k,Urban,Interacted,3.8,3.2,4.9,4.1,3.4,2.6,3.2
+333,18-30,Bachelor's,60k-100k,Urban,Seen,3.8,3.0,4.8,4.2,4.2,2.2,4.0
+334,18-30,Bachelor's,100k-150k,Suburban,Seen,2.7,3.0,3.7,3.9,4.2,3.5,2.3
+335,18-30,Bachelor's,60k-100k,Urban,None,2.9,3.7,4.0,3.0,4.3,3.3,3.6
+336,18-30,Some College,30k-60k,Rural,Interacted,3.3,3.5,3.9,2.8,3.7,3.0,3.0
+337,18-30,Some College,60k-100k,Urban,Seen,4.6,4.5,3.2,2.8,3.4,2.7,2.9
+338,18-30,Some College,60k-100k,Urban,Seen,5.0,4.7,3.6,3.3,4.0,2.8,2.4
+339,18-30,Some College,30k-60k,Urban,None,3.3,3.6,3.6,2.9,3.5,3.1,3.0
+340,18-30,Bachelor's,30k-60k,Suburban,Interacted,2.5,3.0,4.3,2.7,3.9,3.2,3.1
+341,18-30,High School,<30k,Urban,None,3.1,3.6,3.8,3.2,4.5,3.0,3.0
+342,18-30,Bachelor's,30k-60k,Rural,Seen,3.6,4.4,4.4,3.3,2.6,3.1,3.1
+343,18-30,Bachelor's,>150k,Urban,Seen,5.0,3.9,3.9,3.5,3.8,2.3,2.4
+344,18-30,Graduate Degree,30k-60k,Urban,Interacted,2.4,3.8,3.9,2.8,3.9,3.0,3.2
+345,18-30,Bachelor's,60k-100k,Suburban,Interacted,4.3,3.2,4.8,3.4,3.1,3.7,3.0
+346,18-30,Bachelor's,60k-100k,Urban,Seen,4.4,3.0,4.5,3.2,3.6,2.9,3.8
+347,18-30,High School,30k-60k,Urban,Interacted,1.8,2.0,3.9,2.8,3.6,2.7,3.1
+348,18-30,Bachelor's,<30k,Suburban,None,3.9,2.6,4.0,3.9,4.8,2.9,3.5
+349,18-30,Bachelor's,<30k,Rural,Seen,3.9,3.3,4.0,3.5,3.1,2.9,3.2
+350,18-30,Bachelor's,<30k,Urban,None,3.5,3.1,3.7,3.7,4.6,2.6,1.7
+351,18-30,Some College,<30k,Urban,Seen,3.3,3.6,4.3,3.4,3.4,3.4,2.3
+352,18-30,Some College,30k-60k,Rural,Seen,3.8,3.5,4.7,3.0,3.7,3.4,2.7
+353,18-30,High School,30k-60k,Urban,Interacted,4.0,4.0,3.9,3.6,3.6,3.6,3.6
+354,18-30,High School,60k-100k,Urban,None,3.0,3.8,4.3,3.7,2.8,3.1,1.8
+355,18-30,High School,<30k,Rural,Seen,2.4,2.4,4.9,2.5,2.6,2.5,3.6
+356,18-30,Some College,60k-100k,Suburban,Seen,4.1,4.2,4.3,3.4,3.5,2.8,2.9
+357,18-30,Some College,60k-100k,Suburban,Interacted,3.3,4.5,4.5,3.5,3.8,4.0,2.8
+358,18-30,Some College,30k-60k,Urban,Interacted,3.7,3.1,3.5,2.2,3.9,3.1,3.1
+359,18-30,High School,60k-100k,Suburban,None,3.9,3.9,4.5,1.8,3.9,2.8,3.5
+360,18-30,Some College,60k-100k,Rural,Seen,3.1,2.7,4.4,2.5,4.0,2.4,2.7
+361,18-30,Bachelor's,60k-100k,Urban,Seen,2.5,3.7,3.8,3.2,3.2,2.8,2.6
+362,18-30,Bachelor's,>150k,Urban,Interacted,3.0,4.0,4.8,4.3,3.2,3.4,3.6
+363,18-30,Graduate Degree,<30k,Urban,Seen,4.7,3.1,4.1,3.3,3.7,2.6,3.0
+364,18-30,Bachelor's,100k-150k,Urban,Seen,3.7,3.6,4.6,2.4,3.7,2.8,3.1
+365,18-30,Bachelor's,100k-150k,Suburban,None,5.0,3.6,4.2,3.3,4.1,2.4,3.3
+366,18-30,Some College,30k-60k,Suburban,None,4.3,3.1,3.5,2.7,4.3,2.0,2.7
+367,18-30,Graduate Degree,30k-60k,Suburban,Interacted,3.4,4.1,3.4,2.5,3.9,2.4,2.9
+368,18-30,Graduate Degree,30k-60k,Suburban,Seen,3.9,3.7,3.9,3.3,4.2,3.0,2.6
+369,18-30,Some College,60k-100k,Suburban,Seen,4.1,4.1,3.7,3.1,4.4,2.5,2.9
+370,18-30,Bachelor's,>150k,Urban,Seen,3.7,3.5,4.6,3.6,4.3,2.2,3.4
+371,18-30,High School,60k-100k,Suburban,Seen,4.0,3.5,4.0,3.6,4.1,2.6,2.3
+372,18-30,Bachelor's,30k-60k,Suburban,None,4.5,3.3,5.0,3.4,4.3,3.4,3.5
+373,18-30,Bachelor's,<30k,Urban,Interacted,3.2,3.1,4.2,3.2,3.2,3.2,3.5
+374,18-30,High School,60k-100k,Rural,None,4.6,3.4,4.0,2.4,3.2,2.9,1.9
+375,18-30,Some College,60k-100k,Urban,None,3.5,3.4,4.3,2.8,3.1,3.7,3.7
+376,18-30,Bachelor's,30k-60k,Suburban,Seen,4.4,3.6,4.0,3.5,3.5,1.8,3.1
+377,18-30,Some College,<30k,Urban,None,3.6,3.1,3.5,2.9,4.1,3.1,3.1
+378,18-30,High School,60k-100k,Urban,Interacted,4.8,3.8,4.6,3.8,3.2,2.5,3.2
+379,18-30,Some College,30k-60k,Suburban,None,4.0,3.4,4.8,3.1,3.8,3.6,3.0
+380,18-30,Graduate Degree,100k-150k,Urban,None,4.6,3.2,3.4,2.6,4.6,3.1,2.7
+381,18-30,High School,30k-60k,Urban,Interacted,3.6,3.7,4.3,2.4,3.6,2.0,3.5
+382,18-30,Some College,<30k,Rural,Seen,4.2,3.3,4.7,3.0,3.7,2.3,2.4
+383,18-30,High School,60k-100k,Urban,None,4.0,4.1,4.4,2.9,3.5,2.8,2.9
+384,18-30,Graduate Degree,>150k,Suburban,Interacted,2.7,2.6,4.2,3.0,4.0,2.3,2.5
+385,18-30,Some College,<30k,Suburban,None,4.8,3.6,3.9,2.7,4.6,2.8,3.4
+386,18-30,High School,30k-60k,Urban,Interacted,3.5,3.8,3.6,2.9,3.8,2.6,2.4
+387,18-30,Graduate Degree,30k-60k,Suburban,None,4.5,2.8,4.8,2.4,3.7,2.6,3.1
+388,18-30,Bachelor's,30k-60k,Urban,None,3.3,2.7,3.6,3.7,4.1,2.3,2.8
+389,18-30,Some College,60k-100k,Suburban,None,3.7,3.0,3.7,3.8,3.7,3.1,3.7
+390,18-30,Bachelor's,<30k,Suburban,None,3.2,3.0,4.6,2.9,3.8,2.1,3.3
+391,18-30,High School,30k-60k,Urban,Seen,3.2,3.7,3.7,3.1,4.1,2.7,3.3
+392,18-30,Bachelor's,60k-100k,Urban,None,4.6,3.6,4.3,2.6,3.2,2.4,3.6
+393,18-30,High School,30k-60k,Suburban,None,3.7,2.9,4.6,2.7,3.8,3.2,3.1
+394,18-30,Some College,>150k,Suburban,Interacted,3.5,4.1,2.8,3.4,4.2,2.4,2.0
+395,18-30,Bachelor's,>150k,Suburban,None,3.3,2.8,4.6,3.4,3.7,3.3,2.9
+396,18-30,Bachelor's,30k-60k,Suburban,Seen,4.6,3.3,5.0,3.4,3.5,2.1,3.1
+397,18-30,Some College,30k-60k,Rural,None,4.5,2.9,3.8,1.8,3.9,3.3,2.5
+398,18-30,High School,<30k,Urban,None,4.3,4.2,4.1,3.6,4.1,2.2,3.1
+399,18-30,Bachelor's,100k-150k,Rural,Interacted,3.4,2.8,3.3,3.5,3.6,2.9,3.5
+400,18-30,Some College,100k-150k,Urban,Seen,4.2,3.1,5.0,3.4,4.1,2.7,2.4
+401,18-30,Some College,60k-100k,Urban,Interacted,3.7,3.9,4.5,2.2,4.1,3.2,3.3
+402,18-30,Some College,30k-60k,Urban,Seen,5.0,4.4,4.3,2.8,4.1,3.0,2.1
+403,18-30,High School,30k-60k,Suburban,Interacted,5.0,4.0,4.2,3.2,3.3,3.0,3.6
+404,18-30,Some College,30k-60k,Suburban,Seen,2.4,2.8,5.0,3.4,3.6,3.8,2.6
+405,18-30,Bachelor's,30k-60k,Rural,None,3.4,3.4,4.2,3.5,4.5,2.4,3.0
+406,18-30,High School,60k-100k,Suburban,Seen,2.7,3.4,4.1,2.7,3.9,2.8,3.2
+407,18-30,Some College,30k-60k,Urban,Interacted,3.3,4.2,3.8,2.8,4.7,2.8,3.1
+408,18-30,Some College,30k-60k,Urban,None,3.3,2.9,4.1,4.2,3.2,1.9,3.4
+409,18-30,Some College,<30k,Suburban,Interacted,5.0,4.9,4.3,3.6,3.4,3.3,2.6
+410,18-30,Some College,30k-60k,Rural,Interacted,2.5,3.5,4.1,3.1,3.6,2.9,3.4
+411,18-30,Some College,100k-150k,Suburban,Seen,3.4,3.4,3.7,3.1,4.6,2.0,3.1
+412,18-30,High School,60k-100k,Suburban,Seen,3.0,3.4,4.6,3.6,3.8,3.2,3.1
+413,18-30,Some College,30k-60k,Rural,Interacted,5.0,4.4,4.6,3.7,3.4,2.5,2.9
+414,18-30,High School,30k-60k,Suburban,None,5.0,2.6,3.5,2.9,3.7,3.1,2.7
+415,18-30,High School,<30k,Urban,Seen,4.4,3.5,4.2,3.1,3.9,2.4,2.9
+416,18-30,Graduate Degree,100k-150k,Rural,Seen,4.8,3.2,4.3,2.6,4.6,2.7,3.1
+417,18-30,Bachelor's,>150k,Urban,Seen,2.9,3.8,4.5,3.5,3.8,2.5,2.5
+418,18-30,Some College,100k-150k,Urban,Seen,5.0,3.6,4.0,3.7,3.5,3.6,2.2
+419,18-30,High School,<30k,Urban,Interacted,3.3,4.4,3.6,3.1,3.3,2.0,3.1
+420,18-30,Some College,60k-100k,Urban,None,3.7,3.0,4.7,3.0,3.9,3.3,3.6
+421,18-30,Graduate Degree,30k-60k,Suburban,None,4.7,2.3,4.3,3.3,4.6,3.0,2.9
+422,18-30,Graduate Degree,60k-100k,Urban,Seen,4.6,3.6,3.9,3.1,4.5,2.8,2.6
+423,18-30,High School,100k-150k,Suburban,None,3.3,2.9,3.3,3.2,4.5,2.8,2.5
+424,18-30,Bachelor's,30k-60k,Urban,None,3.8,3.4,3.8,2.9,3.4,2.7,3.2
+425,18-30,High School,100k-150k,Suburban,Seen,5.0,3.7,3.7,3.6,3.9,2.2,2.3
+426,18-30,Some College,30k-60k,Urban,Seen,4.0,3.0,4.7,3.6,3.1,1.3,3.3
+427,18-30,Some College,30k-60k,Urban,Seen,3.9,3.2,3.8,3.2,3.8,2.2,2.1
+428,18-30,Some College,>150k,Rural,Interacted,5.0,3.9,4.1,3.5,3.0,2.8,3.3
+429,18-30,Bachelor's,>150k,Urban,Seen,3.8,3.6,5.0,4.2,3.3,2.6,4.3
+430,18-30,Bachelor's,60k-100k,Rural,Seen,2.5,2.5,3.4,2.3,4.6,2.5,3.3
+431,18-30,Some College,100k-150k,Suburban,Seen,3.2,2.4,4.4,3.8,4.4,2.5,2.6
+432,18-30,High School,60k-100k,Suburban,None,4.0,2.7,4.2,3.3,3.9,3.3,3.1
+433,18-30,Graduate Degree,60k-100k,Suburban,Interacted,4.2,3.5,3.8,3.0,2.8,2.3,2.8
+434,18-30,Graduate Degree,>150k,Urban,Interacted,3.7,3.4,3.6,3.2,2.9,2.2,3.5
+435,18-30,Some College,30k-60k,Suburban,Seen,3.8,3.8,3.7,2.8,3.2,1.7,3.1
+436,18-30,Bachelor's,60k-100k,Urban,Interacted,4.2,3.6,3.6,2.9,4.0,3.6,3.3
+437,18-30,High School,100k-150k,Suburban,Interacted,5.0,3.9,4.0,2.9,3.6,2.2,3.4
+438,18-30,High School,30k-60k,Urban,None,3.3,3.5,3.9,2.6,4.3,2.1,2.2
+439,18-30,High School,30k-60k,Urban,Seen,3.0,3.0,5.0,3.1,4.0,2.9,3.7
+440,18-30,Bachelor's,<30k,Urban,None,3.3,3.5,4.1,3.7,3.4,2.4,3.5
+441,18-30,Some College,60k-100k,Suburban,Seen,2.4,3.4,4.7,3.9,4.1,3.6,2.9
+442,18-30,Graduate Degree,60k-100k,Suburban,Seen,3.0,2.9,3.3,2.8,3.9,2.8,2.2
+443,18-30,Some College,30k-60k,Urban,Seen,4.3,3.4,3.7,3.0,3.6,3.0,3.3
+444,18-30,Bachelor's,100k-150k,Suburban,None,3.3,3.2,4.3,2.8,4.9,2.5,3.0
+445,18-30,Some College,30k-60k,Suburban,Seen,4.6,3.2,4.4,2.7,3.6,3.0,3.0
+446,18-30,Bachelor's,100k-150k,Suburban,Seen,3.3,2.6,4.2,2.8,4.0,2.5,2.8
+447,18-30,Graduate Degree,60k-100k,Suburban,Seen,4.8,3.9,3.9,3.3,3.4,3.3,2.3
+448,18-30,High School,60k-100k,Suburban,None,3.7,3.6,4.1,3.3,4.4,2.4,3.2
+449,18-30,High School,30k-60k,Suburban,Interacted,3.8,3.0,4.0,4.0,3.8,2.5,3.4
+450,18-30,Some College,<30k,Rural,None,4.8,4.0,4.7,2.9,2.8,3.5,2.5
+451,18-30,Some College,30k-60k,Urban,Interacted,4.6,3.6,4.0,3.2,4.4,2.9,2.9
+452,18-30,Bachelor's,100k-150k,Urban,None,2.7,3.0,4.2,3.7,3.8,2.6,3.3
+453,18-30,High School,>150k,Suburban,None,3.5,2.5,4.1,3.7,4.2,1.8,3.1
+454,18-30,High School,<30k,Urban,Interacted,2.9,2.8,4.4,3.7,4.0,3.4,3.1
+455,18-30,Bachelor's,30k-60k,Urban,Interacted,4.3,3.5,4.6,3.8,4.7,3.1,2.5
+456,18-30,High School,60k-100k,Suburban,Seen,4.8,4.0,4.0,3.2,4.1,3.0,3.6
+457,18-30,Bachelor's,100k-150k,Urban,Seen,3.7,3.5,4.5,3.3,4.3,2.1,3.1
+458,18-30,High School,60k-100k,Urban,Seen,4.5,3.7,4.0,3.1,3.1,3.0,2.7
+459,18-30,High School,60k-100k,Urban,Seen,2.3,3.1,4.4,2.7,4.6,3.1,2.7
+460,18-30,Some College,30k-60k,Urban,None,4.4,3.5,4.2,2.3,4.1,2.7,3.2
+461,18-30,High School,>150k,Suburban,Seen,3.6,4.1,4.3,3.3,3.4,2.5,2.7
+462,18-30,High School,<30k,Suburban,Seen,4.7,4.3,4.0,2.9,4.4,3.0,4.0
+463,18-30,Bachelor's,30k-60k,Urban,Interacted,4.8,3.5,4.7,3.0,4.5,2.9,3.5
+464,18-30,Bachelor's,<30k,Suburban,Interacted,2.3,3.0,4.6,3.0,4.3,2.3,4.0
+465,18-30,Bachelor's,>150k,Rural,Interacted,3.6,3.8,4.3,3.0,3.5,3.2,2.9
+466,18-30,Bachelor's,30k-60k,Suburban,Interacted,3.4,3.9,4.6,3.1,3.7,2.3,3.2
+467,18-30,Bachelor's,30k-60k,Suburban,Seen,3.9,3.5,4.1,3.3,3.6,2.4,3.1
+468,18-30,Bachelor's,<30k,Rural,Seen,3.2,3.1,4.6,2.8,3.8,3.2,2.7
+469,18-30,Some College,>150k,Suburban,Seen,3.9,4.1,3.6,3.0,3.7,2.7,3.4
+470,18-30,Some College,60k-100k,Suburban,None,4.2,2.3,4.2,2.9,3.4,2.5,3.1
+471,18-30,Graduate Degree,30k-60k,Suburban,Seen,2.6,2.5,4.9,2.9,4.4,2.9,3.9
+472,18-30,High School,<30k,Urban,None,3.9,2.2,5.0,2.9,4.1,3.1,2.6
+473,18-30,High School,>150k,Suburban,None,5.0,3.5,4.1,3.6,3.6,3.0,2.4
+474,18-30,Some College,60k-100k,Urban,Interacted,3.3,3.2,4.2,2.7,4.3,3.0,3.6
+475,18-30,Bachelor's,100k-150k,Urban,Seen,3.8,2.7,4.5,2.9,3.6,3.8,2.3
+476,18-30,Graduate Degree,30k-60k,Suburban,Interacted,4.3,4.7,4.9,3.5,4.0,2.7,3.7
+477,18-30,Some College,<30k,Suburban,Seen,4.2,3.0,4.3,3.0,4.1,2.7,4.1
+478,18-30,Some College,<30k,Suburban,Interacted,4.4,3.8,4.3,3.8,3.8,2.5,2.8
+479,18-30,Bachelor's,30k-60k,Suburban,Interacted,4.4,4.4,3.6,3.6,3.4,2.9,2.4
+480,18-30,Bachelor's,60k-100k,Rural,Interacted,3.0,3.8,4.6,3.0,3.6,3.5,2.7
+481,18-30,High School,30k-60k,Urban,Interacted,3.4,3.4,3.6,2.5,3.8,2.9,3.2
+482,18-30,Bachelor's,30k-60k,Urban,Seen,4.9,3.5,4.3,3.4,4.2,3.1,2.9
+483,18-30,Some College,100k-150k,Rural,Seen,4.4,3.7,4.4,3.4,4.2,2.5,2.8
+484,18-30,Bachelor's,60k-100k,Urban,None,3.8,3.1,3.6,3.5,4.0,3.3,3.3
+485,18-30,Some College,30k-60k,Urban,Interacted,3.0,3.6,4.2,4.1,3.9,3.6,3.2
+486,18-30,Bachelor's,<30k,Rural,Interacted,4.2,4.1,4.1,2.7,3.9,2.1,3.4
+487,18-30,Graduate Degree,60k-100k,Suburban,None,3.1,3.3,3.9,3.3,4.9,3.8,2.9
+488,18-30,High School,60k-100k,Urban,None,2.8,3.3,4.0,2.4,4.5,2.5,3.4
+489,18-30,Bachelor's,100k-150k,Urban,Interacted,3.1,3.3,4.3,3.6,3.8,2.3,3.2
+490,18-30,Some College,100k-150k,Rural,Seen,3.8,4.0,4.3,3.4,3.9,1.6,3.4
+491,18-30,Some College,30k-60k,Suburban,Seen,4.1,3.5,4.0,3.7,3.8,1.8,2.2
+492,18-30,Some College,<30k,Urban,None,4.2,2.4,4.9,3.0,4.0,2.7,2.4
+493,18-30,Bachelor's,30k-60k,Urban,Interacted,3.6,4.0,4.2,3.3,3.5,2.4,3.8
+494,18-30,High School,30k-60k,Suburban,Seen,4.0,3.4,3.7,3.5,2.9,3.1,2.6
+495,18-30,Some College,60k-100k,Urban,Seen,4.1,4.0,4.2,2.4,4.2,2.7,2.1
+496,18-30,Graduate Degree,30k-60k,Suburban,None,3.4,2.7,4.8,3.4,4.2,1.8,3.0
+497,18-30,Some College,100k-150k,Suburban,Seen,4.9,3.4,4.1,2.7,4.0,3.1,2.9
+498,18-30,Graduate Degree,100k-150k,Urban,None,4.7,4.7,4.1,1.8,5.0,3.1,3.1
+499,18-30,High School,<30k,Urban,Interacted,3.1,2.9,3.9,3.3,3.8,2.9,2.5
+500,18-30,Some College,30k-60k,Rural,None,2.8,3.1,3.8,3.2,3.6,4.3,3.7
+501,18-30,High School,30k-60k,Suburban,Seen,3.5,3.6,4.0,3.0,4.2,3.1,2.6
+502,18-30,Bachelor's,100k-150k,Rural,Seen,3.2,4.1,3.8,2.7,4.1,3.1,2.8
+503,18-30,Graduate Degree,60k-100k,Urban,Seen,3.0,3.8,3.7,2.3,3.9,2.5,2.9
+504,18-30,Bachelor's,<30k,Urban,Interacted,3.4,3.0,3.9,2.6,3.7,3.1,3.5
+505,18-30,High School,60k-100k,Urban,Interacted,2.9,3.7,4.9,2.2,4.0,3.2,2.8
+506,18-30,Bachelor's,100k-150k,Rural,Seen,4.2,3.3,4.7,3.9,4.1,3.1,3.7
+507,18-30,Bachelor's,<30k,Suburban,None,4.5,3.9,3.9,2.6,3.9,2.7,4.1
+508,18-30,High School,<30k,Suburban,None,4.3,3.3,4.4,3.1,4.5,3.3,2.3
+509,18-30,High School,60k-100k,Suburban,None,3.4,3.9,3.6,3.5,4.4,2.6,3.2
+510,18-30,Bachelor's,30k-60k,Suburban,Seen,3.5,2.8,4.4,3.0,4.4,2.8,3.3
+511,18-30,Graduate Degree,30k-60k,Suburban,Seen,3.2,2.9,4.0,3.5,4.0,2.6,3.5
+512,18-30,Bachelor's,30k-60k,Urban,None,4.1,2.2,2.8,2.4,3.2,3.5,3.1
+513,18-30,Bachelor's,30k-60k,Urban,Seen,3.5,4.9,4.3,3.2,4.8,3.3,3.0
+514,18-30,Some College,<30k,Urban,Seen,4.4,5.0,4.5,3.0,4.2,2.5,3.0
+515,18-30,High School,60k-100k,Urban,Seen,4.8,3.6,4.1,2.4,3.4,2.4,3.7
+516,18-30,High School,30k-60k,Rural,None,3.9,3.0,4.8,3.9,4.3,2.8,2.9
+517,18-30,Graduate Degree,>150k,Suburban,Interacted,3.6,2.5,4.5,3.1,3.7,2.9,2.2
+518,18-30,Bachelor's,30k-60k,Urban,None,4.4,3.7,3.4,3.7,3.9,2.2,3.6
+519,18-30,Graduate Degree,100k-150k,Suburban,Seen,5.0,3.4,4.0,3.1,3.8,2.0,3.5
+520,18-30,Bachelor's,<30k,Urban,None,4.7,3.4,4.7,3.5,4.4,1.8,3.0
+521,18-30,Bachelor's,100k-150k,Urban,Seen,3.5,2.7,4.0,3.5,4.0,1.8,3.5
+522,18-30,Some College,30k-60k,Rural,Seen,2.9,3.0,4.0,3.1,4.7,2.8,3.1
+523,18-30,Graduate Degree,100k-150k,Urban,Seen,5.0,2.9,5.0,3.4,4.7,2.8,3.9
+524,18-30,High School,60k-100k,Urban,None,3.9,2.9,4.3,3.6,5.0,2.8,3.3
+525,18-30,Bachelor's,>150k,Urban,Seen,3.7,2.8,4.5,3.0,4.1,2.2,2.8
+526,18-30,Bachelor's,>150k,Urban,Seen,4.0,3.5,3.8,2.7,3.9,3.3,3.3
+527,18-30,Bachelor's,>150k,Suburban,None,3.5,3.5,4.2,2.6,4.0,2.3,4.2
+528,18-30,Some College,30k-60k,Suburban,Seen,3.6,3.3,4.2,2.3,4.3,2.1,2.8
+529,18-30,High School,100k-150k,Urban,None,3.9,3.5,4.2,2.7,4.2,3.1,2.8
+530,18-30,Bachelor's,60k-100k,Urban,None,3.3,3.4,4.4,3.3,4.3,2.5,2.7
+531,18-30,High School,>150k,Urban,None,2.9,2.9,4.0,3.6,4.0,3.4,3.4
+532,18-30,Bachelor's,<30k,Suburban,Seen,3.7,2.8,4.7,2.7,3.9,2.9,4.5
+533,18-30,Some College,60k-100k,Suburban,None,4.0,4.0,3.8,3.8,3.4,2.5,2.4
+534,18-30,Bachelor's,30k-60k,Urban,Interacted,3.6,3.9,3.7,3.0,3.9,2.9,2.8
+535,18-30,Some College,60k-100k,Rural,None,5.0,3.1,4.3,2.8,3.5,1.6,2.9
+536,18-30,Graduate Degree,60k-100k,Urban,Seen,5.0,4.2,3.4,2.9,3.6,2.9,3.4
+537,18-30,Some College,100k-150k,Suburban,Interacted,4.4,3.5,4.6,3.1,4.3,2.6,2.6
+538,18-30,Some College,60k-100k,Suburban,Seen,3.5,3.5,4.5,3.0,3.4,4.3,2.5
+539,18-30,Bachelor's,60k-100k,Suburban,Interacted,4.1,4.2,3.8,3.9,4.1,2.4,4.1
+540,18-30,Bachelor's,<30k,Urban,Interacted,3.3,2.8,4.1,3.5,4.2,3.3,3.0
+541,18-30,Graduate Degree,100k-150k,Suburban,None,3.4,2.7,4.0,3.5,3.6,2.5,2.2
+542,18-30,Some College,60k-100k,Urban,Interacted,4.8,3.6,4.0,3.7,3.5,2.9,3.2
+543,18-30,High School,<30k,Urban,None,2.5,3.9,3.9,3.5,4.1,3.3,3.2
+544,18-30,High School,100k-150k,Urban,None,3.3,3.4,4.4,2.4,3.3,2.4,3.0
+545,18-30,Bachelor's,100k-150k,Suburban,Interacted,2.4,3.0,4.6,3.7,4.5,2.5,3.3
+546,18-30,Some College,30k-60k,Suburban,Interacted,3.6,3.5,4.9,3.1,4.3,3.1,3.1
+547,18-30,Bachelor's,100k-150k,Suburban,Seen,3.2,4.2,3.8,3.0,3.1,2.6,3.5
+548,18-30,High School,30k-60k,Urban,Seen,4.0,2.9,3.5,2.3,3.8,2.7,3.3
+549,18-30,Graduate Degree,<30k,Urban,Interacted,3.2,2.7,4.3,2.6,3.9,3.4,2.2
+550,18-30,High School,<30k,Urban,Seen,3.4,2.9,4.5,3.2,4.5,2.4,2.8
+551,18-30,Bachelor's,>150k,Rural,None,4.5,3.3,4.4,2.9,3.5,2.6,3.2
+552,18-30,Some College,60k-100k,Suburban,None,4.3,3.6,3.6,3.0,2.8,1.8,3.0
+553,18-30,Graduate Degree,100k-150k,Suburban,Seen,2.2,2.7,4.8,3.2,3.5,2.0,2.8
+554,18-30,Some College,<30k,Urban,Interacted,3.4,4.4,4.1,3.0,3.2,3.5,2.8
+555,18-30,Some College,30k-60k,Suburban,Seen,5.0,4.0,4.1,3.8,3.7,2.5,2.9
+556,18-30,Graduate Degree,30k-60k,Suburban,Interacted,4.5,4.0,4.2,2.8,3.6,2.3,3.8
+557,18-30,Graduate Degree,<30k,Urban,Interacted,2.9,4.0,3.7,3.3,3.7,2.2,4.1
+558,18-30,Some College,>150k,Suburban,None,4.2,3.4,3.5,2.2,4.1,2.2,2.8
+559,18-30,Some College,<30k,Suburban,Interacted,3.3,4.0,4.7,2.9,3.2,2.7,3.3
+560,18-30,High School,30k-60k,Suburban,None,4.5,3.4,3.8,2.8,3.3,2.8,2.4
+561,18-30,Graduate Degree,30k-60k,Suburban,Seen,4.1,2.2,3.5,2.9,3.2,3.2,3.2
+562,18-30,Graduate Degree,30k-60k,Urban,Seen,2.7,4.0,3.9,2.7,3.6,3.2,2.9
+563,18-30,Graduate Degree,<30k,Urban,Seen,4.6,3.0,5.0,3.7,3.8,2.6,3.7
+564,18-30,High School,30k-60k,Urban,Seen,2.2,3.0,4.7,3.1,4.2,3.3,2.6
+565,18-30,Bachelor's,100k-150k,Suburban,Seen,3.6,2.1,4.2,2.8,3.6,3.0,3.2
+566,18-30,High School,100k-150k,Urban,Seen,1.9,3.2,3.6,4.1,4.1,2.8,3.0
+567,18-30,Graduate Degree,60k-100k,Urban,None,3.9,3.9,4.9,2.5,3.2,2.7,2.7
+568,18-30,Some College,60k-100k,Suburban,Seen,3.0,1.9,3.1,3.2,3.2,2.6,3.4
+569,18-30,High School,<30k,Rural,None,4.3,3.2,3.8,2.7,4.8,3.2,2.9
+570,18-30,High School,100k-150k,Suburban,Seen,4.4,3.3,4.3,2.5,3.1,2.4,2.7
+571,18-30,Some College,<30k,Suburban,Interacted,5.0,4.3,4.0,3.4,3.8,2.5,3.2
+572,18-30,Some College,<30k,Rural,Seen,5.0,4.6,4.9,2.6,3.7,2.2,3.5
+573,18-30,Some College,100k-150k,Urban,Interacted,2.9,4.2,5.0,1.9,4.5,3.1,3.8
+574,18-30,High School,30k-60k,Suburban,Interacted,3.0,3.5,3.8,3.1,4.4,2.8,3.4
+575,18-30,Bachelor's,30k-60k,Rural,Interacted,3.9,3.2,5.0,3.2,3.7,3.0,2.8
+576,18-30,High School,30k-60k,Urban,None,5.0,4.1,4.2,2.8,4.0,2.1,3.0
+577,18-30,Bachelor's,60k-100k,Urban,None,4.6,3.6,4.0,3.9,5.0,2.7,2.2
+578,18-30,High School,30k-60k,Suburban,None,3.6,3.1,4.5,3.3,3.8,2.9,3.2
+579,18-30,High School,30k-60k,Rural,Seen,2.7,3.2,5.0,2.8,3.8,3.2,3.0
+580,18-30,Bachelor's,>150k,Urban,Interacted,3.7,3.5,4.0,3.6,3.9,2.5,1.7
+581,18-30,Some College,>150k,Urban,Seen,4.1,4.3,5.0,2.9,3.9,2.2,3.3
+582,18-30,High School,>150k,Urban,None,3.2,3.4,4.8,2.7,4.3,2.9,3.1
+583,18-30,Some College,60k-100k,Suburban,Interacted,3.5,4.4,4.0,3.4,3.9,3.5,2.0
+584,18-30,Some College,60k-100k,Suburban,Seen,3.1,2.8,4.5,3.0,3.9,2.7,3.6
+585,18-30,Some College,100k-150k,Urban,Interacted,4.3,3.1,4.0,3.2,4.0,2.8,2.6
+586,18-30,Some College,100k-150k,Suburban,Interacted,3.3,5.0,4.2,2.2,4.6,4.0,3.0
+587,18-30,Some College,<30k,Suburban,Seen,2.9,2.9,3.7,3.2,3.8,3.1,3.0
+588,18-30,Some College,30k-60k,Suburban,Interacted,4.1,3.3,3.8,2.5,3.8,2.8,2.1
+589,18-30,Bachelor's,60k-100k,Rural,Seen,3.8,3.1,3.9,2.9,4.2,2.6,2.9
+590,18-30,Some College,30k-60k,Suburban,Seen,3.9,2.9,4.2,3.6,4.0,2.4,3.9
+591,18-30,Some College,<30k,Suburban,Seen,4.1,3.4,4.1,3.2,4.1,3.0,2.9
+592,18-30,Bachelor's,<30k,Urban,Interacted,3.4,3.0,4.5,2.9,4.8,2.4,2.7
+593,18-30,Some College,30k-60k,Urban,Seen,4.4,3.7,4.3,3.3,3.9,2.6,2.8
+594,18-30,Bachelor's,60k-100k,Urban,None,2.4,3.0,4.0,3.3,3.4,2.8,2.3
+595,18-30,Graduate Degree,100k-150k,Suburban,None,4.1,2.5,3.6,3.1,2.8,2.7,2.5
+596,18-30,Graduate Degree,<30k,Rural,Seen,3.0,2.5,3.9,2.8,4.3,2.8,3.3
+597,18-30,High School,>150k,Urban,Seen,3.9,3.2,3.8,4.1,3.1,4.2,2.8
+598,18-30,Bachelor's,<30k,Suburban,None,2.8,2.6,3.9,3.3,3.7,2.8,3.3
+599,18-30,High School,30k-60k,Suburban,None,1.9,2.5,4.5,3.1,4.7,2.4,4.4
+600,18-30,Some College,60k-100k,Rural,Seen,4.2,3.2,3.4,3.0,3.8,4.3,2.9
+601,18-30,Graduate Degree,>150k,Urban,Seen,4.8,3.7,4.4,3.4,4.9,1.7,3.0
+602,18-30,Bachelor's,<30k,Rural,Seen,1.9,3.2,3.0,3.7,4.6,2.9,2.6
+603,18-30,Bachelor's,<30k,Urban,None,3.0,2.1,5.0,3.4,3.6,2.7,3.9
+604,18-30,High School,<30k,Rural,Interacted,2.3,4.0,4.3,2.5,4.3,2.9,2.8
+605,18-30,Some College,30k-60k,Suburban,None,4.8,2.6,3.5,4.0,3.1,2.6,3.0
+606,18-30,High School,<30k,Suburban,Interacted,2.0,2.9,4.4,3.4,3.4,2.1,2.1
+607,18-30,High School,30k-60k,Suburban,Interacted,4.0,3.4,3.6,3.6,3.2,2.7,2.9
+608,18-30,High School,60k-100k,Urban,Seen,2.5,3.2,3.7,3.3,3.4,3.4,2.5
+609,18-30,Bachelor's,<30k,Suburban,Seen,3.4,3.3,3.4,2.9,4.4,2.9,2.3
+610,18-30,Some College,>150k,Urban,Seen,2.5,3.6,3.4,2.4,3.1,3.0,3.5
+611,18-30,Bachelor's,<30k,Rural,Seen,3.3,3.2,3.0,3.3,4.9,2.8,2.0
+612,18-30,Some College,30k-60k,Suburban,Interacted,3.6,3.2,3.7,3.4,3.9,3.4,3.2
+613,18-30,Some College,60k-100k,Suburban,Interacted,2.9,3.4,4.0,3.3,4.2,3.8,3.1
+614,18-30,Some College,60k-100k,Rural,Seen,3.9,2.3,4.5,3.7,4.1,2.3,2.6
+615,18-30,Bachelor's,60k-100k,Urban,Interacted,3.6,3.5,4.9,4.0,4.9,3.2,2.8
+616,18-30,Some College,100k-150k,Suburban,Seen,3.9,3.5,4.0,2.8,4.5,2.0,2.3
+617,18-30,High School,<30k,Suburban,Seen,3.0,4.3,4.6,2.8,4.0,2.9,3.9
+618,18-30,Some College,<30k,Suburban,Seen,4.1,3.2,3.9,3.8,4.0,3.2,3.6
+619,18-30,Some College,100k-150k,Rural,None,2.8,3.2,4.1,2.9,3.3,2.9,3.1
+620,18-30,Bachelor's,60k-100k,Urban,None,3.2,3.1,4.3,4.1,4.1,3.6,2.7
+621,18-30,High School,100k-150k,Suburban,None,4.3,2.9,4.7,2.5,4.1,2.2,2.9
+622,18-30,Bachelor's,30k-60k,Urban,Interacted,3.5,2.9,4.5,2.6,3.6,2.7,3.4
+623,18-30,Some College,60k-100k,Rural,Seen,5.0,4.2,4.7,3.0,3.3,2.9,3.1
+624,18-30,Some College,>150k,Suburban,Interacted,4.7,3.2,4.4,4.3,3.8,2.6,3.1
+625,18-30,High School,<30k,Suburban,Seen,5.0,3.5,3.8,2.1,3.5,2.5,3.1
+626,18-30,Bachelor's,<30k,Urban,None,5.0,3.4,3.7,3.5,4.3,3.3,3.6
+627,18-30,High School,60k-100k,Suburban,None,4.1,3.9,3.1,3.1,4.3,2.1,3.4
+628,18-30,Bachelor's,100k-150k,Suburban,Seen,3.5,4.5,3.9,4.4,4.2,2.8,3.4
+629,18-30,High School,100k-150k,Suburban,Seen,3.9,3.1,3.6,2.6,3.7,3.1,3.3
+630,18-30,Bachelor's,30k-60k,Urban,Seen,4.8,3.8,5.0,2.4,4.6,3.6,3.2
+631,18-30,High School,30k-60k,Urban,None,4.0,3.5,3.8,3.1,3.8,3.2,3.0
+632,31-45,High School,<30k,Urban,None,4.0,2.9,3.9,3.7,4.6,2.5,2.8
+633,31-45,Graduate Degree,30k-60k,Suburban,None,2.3,2.2,3.9,3.3,4.5,2.7,2.6
+634,31-45,Bachelor's,30k-60k,Suburban,Seen,4.5,3.2,4.0,3.9,3.8,3.0,2.3
+635,31-45,Some College,100k-150k,Rural,None,4.8,2.8,4.0,3.1,4.1,2.7,3.3
+636,31-45,Some College,<30k,Suburban,Seen,4.7,3.4,4.2,4.6,4.2,2.7,2.2
+637,31-45,Graduate Degree,60k-100k,Suburban,Seen,2.7,3.7,2.7,3.6,4.9,4.2,2.6
+638,31-45,High School,>150k,Urban,Seen,3.7,2.9,4.2,3.3,3.8,3.5,3.0
+639,31-45,High School,60k-100k,Urban,None,5.0,4.0,2.8,4.1,3.5,2.2,2.6
+640,31-45,High School,30k-60k,Urban,None,5.0,4.0,2.8,3.9,4.1,3.0,2.2
+641,31-45,Some College,100k-150k,Suburban,Seen,4.1,3.0,3.4,3.6,4.9,3.0,3.4
+642,31-45,High School,30k-60k,Suburban,None,2.7,2.7,3.8,3.4,4.7,1.7,2.7
+643,31-45,High School,<30k,Urban,Seen,4.6,4.7,3.1,4.2,3.6,2.4,2.8
+644,31-45,Some College,60k-100k,Urban,Seen,3.4,2.7,4.1,3.7,3.9,3.6,2.9
+645,31-45,Some College,30k-60k,Urban,Interacted,4.4,3.1,4.5,3.7,4.0,1.7,3.0
+646,31-45,Graduate Degree,60k-100k,Urban,Interacted,3.7,2.5,3.8,4.1,3.9,3.2,2.6
+647,31-45,Graduate Degree,30k-60k,Suburban,None,4.2,3.7,4.2,3.1,5.0,2.6,2.4
+648,31-45,Graduate Degree,100k-150k,Urban,Seen,3.3,3.1,3.6,4.0,4.5,2.3,3.3
+649,31-45,Some College,60k-100k,Urban,None,2.9,3.1,2.7,3.5,4.6,3.2,2.6
+650,31-45,Bachelor's,>150k,Urban,None,4.6,3.7,3.3,3.4,4.3,3.1,3.3
+651,31-45,High School,<30k,Rural,Interacted,3.4,3.1,3.4,3.5,5.0,2.7,2.8
+652,31-45,Graduate Degree,60k-100k,Urban,Seen,3.3,3.0,4.0,3.8,4.3,3.6,3.3
+653,31-45,Bachelor's,30k-60k,Urban,None,4.6,3.1,4.1,4.0,4.9,3.0,3.0
+654,31-45,Some College,<30k,Urban,Seen,2.2,3.5,3.3,3.6,3.5,3.6,3.4
+655,31-45,Bachelor's,30k-60k,Suburban,Interacted,5.0,3.7,4.8,3.3,4.5,2.6,2.7
+656,31-45,Graduate Degree,30k-60k,Suburban,None,3.4,3.4,4.9,3.5,4.9,2.9,2.1
+657,31-45,Some College,100k-150k,Urban,None,3.4,2.9,3.2,4.1,4.3,3.0,2.7
+658,31-45,Graduate Degree,>150k,Urban,Seen,3.8,3.5,4.3,3.2,4.1,3.0,2.7
+659,31-45,Bachelor's,30k-60k,Urban,Interacted,3.5,3.4,3.7,2.9,5.0,3.5,2.8
+660,31-45,Bachelor's,30k-60k,Urban,Seen,4.9,4.7,2.8,4.1,4.8,2.8,3.1
+661,31-45,Some College,30k-60k,Urban,Interacted,3.9,4.8,3.6,3.5,4.4,2.8,3.0
+662,31-45,Graduate Degree,60k-100k,Rural,Seen,4.2,4.2,3.1,4.7,3.5,2.8,2.7
+663,31-45,High School,30k-60k,Suburban,Seen,3.1,2.9,3.8,4.5,3.7,4.0,3.3
+664,31-45,Some College,30k-60k,Suburban,Seen,4.2,4.2,3.5,3.9,3.8,2.9,3.1
+665,31-45,Graduate Degree,30k-60k,Suburban,Seen,3.5,3.8,3.7,3.4,4.2,3.4,2.5
+666,31-45,Some College,>150k,Urban,Seen,4.8,3.8,4.5,3.9,4.1,2.5,2.4
+667,31-45,High School,>150k,Suburban,None,3.0,1.8,4.1,3.3,3.5,2.3,2.7
+668,31-45,Some College,<30k,Suburban,None,2.3,2.7,3.6,3.0,4.1,3.4,3.1
+669,31-45,Bachelor's,30k-60k,Urban,None,3.5,2.3,3.6,3.4,4.2,3.5,3.3
+670,31-45,High School,30k-60k,Urban,None,3.5,2.5,3.3,3.1,4.7,2.8,2.9
+671,31-45,Graduate Degree,30k-60k,Suburban,Interacted,3.5,2.6,3.5,3.5,4.1,2.9,2.6
+672,31-45,Some College,60k-100k,Urban,Seen,4.4,2.6,4.3,4.2,3.7,3.0,2.9
+673,31-45,Some College,<30k,Suburban,None,4.0,4.2,3.1,3.8,4.9,3.0,2.4
+674,31-45,Bachelor's,60k-100k,Urban,None,4.8,2.9,4.0,4.2,4.8,3.1,2.6
+675,31-45,High School,60k-100k,Rural,None,4.0,3.6,3.2,4.6,4.0,3.4,2.8
+676,31-45,High School,100k-150k,Urban,Interacted,3.2,3.4,3.5,3.1,4.9,3.9,3.2
+677,31-45,High School,60k-100k,Suburban,None,2.4,2.7,3.8,4.6,3.3,2.4,3.2
+678,31-45,High School,<30k,Suburban,Seen,3.3,3.7,4.4,4.0,4.4,3.9,3.4
+679,31-45,Bachelor's,30k-60k,Urban,Interacted,4.8,3.2,3.5,3.5,3.7,2.2,1.2
+680,31-45,Some College,100k-150k,Suburban,Interacted,3.6,3.0,4.6,3.7,4.8,3.3,2.4
+681,31-45,High School,100k-150k,Urban,None,3.5,3.5,4.6,3.6,4.8,3.3,3.5
+682,31-45,Some College,30k-60k,Suburban,None,5.0,3.4,3.8,3.8,4.8,3.0,2.1
+683,31-45,Bachelor's,<30k,Suburban,Seen,3.8,3.6,3.1,3.8,3.6,2.6,2.5
+684,31-45,High School,30k-60k,Suburban,None,3.1,3.2,3.6,4.5,4.3,3.8,2.7
+685,31-45,High School,30k-60k,Urban,None,2.6,3.2,4.1,4.5,3.6,2.9,3.0
+686,31-45,High School,60k-100k,Suburban,None,3.2,3.2,2.5,3.7,3.3,2.7,2.9
+687,31-45,Graduate Degree,60k-100k,Suburban,Interacted,4.3,4.0,4.2,4.5,4.8,3.0,2.8
+688,31-45,Some College,30k-60k,Urban,Seen,3.3,2.3,4.2,2.5,4.3,3.3,2.8
+689,31-45,High School,<30k,Suburban,Interacted,3.2,3.2,4.6,3.9,4.3,2.5,2.4
+690,31-45,Graduate Degree,30k-60k,Urban,None,2.9,3.9,3.6,3.9,3.5,2.9,2.8
+691,31-45,Some College,30k-60k,Suburban,Seen,4.7,3.9,3.2,3.5,4.5,4.0,3.1
+692,31-45,Some College,>150k,Urban,Seen,4.5,3.3,3.5,3.1,5.0,3.0,2.9
+693,31-45,Graduate Degree,30k-60k,Urban,Seen,3.7,3.2,2.9,3.8,4.0,2.2,2.9
+694,31-45,Bachelor's,60k-100k,Rural,None,3.3,2.8,3.9,4.2,4.6,3.1,2.4
+695,31-45,Bachelor's,<30k,Suburban,Seen,3.0,3.6,3.2,3.8,3.8,2.2,2.2
+696,31-45,Some College,<30k,Suburban,None,4.8,3.5,3.9,4.2,4.8,2.5,2.4
+697,31-45,Some College,30k-60k,Urban,Seen,4.7,4.1,4.4,2.5,4.2,2.9,3.1
+698,31-45,High School,60k-100k,Suburban,Seen,5.0,4.2,3.9,2.7,4.4,3.6,2.8
+699,31-45,Bachelor's,60k-100k,Urban,Seen,3.2,2.4,4.5,3.7,3.5,2.3,2.9
+700,31-45,Bachelor's,<30k,Suburban,None,5.0,3.1,3.0,4.0,4.5,3.5,3.0
+701,31-45,Graduate Degree,100k-150k,Urban,Interacted,3.5,3.7,3.4,2.9,3.4,2.7,3.1
+702,31-45,High School,30k-60k,Urban,Seen,2.2,1.8,3.6,4.1,3.8,3.0,3.0
+703,31-45,Graduate Degree,100k-150k,Suburban,Interacted,4.1,4.7,4.3,3.9,4.2,3.1,2.9
+704,31-45,Some College,60k-100k,Suburban,None,2.0,2.1,5.0,4.5,3.9,3.1,2.8
+705,31-45,Bachelor's,30k-60k,Suburban,Interacted,2.7,2.7,3.7,4.2,4.1,2.9,2.8
+706,31-45,Graduate Degree,30k-60k,Suburban,Interacted,4.5,3.6,4.2,3.2,4.5,3.1,2.6
+707,31-45,Bachelor's,30k-60k,Suburban,Seen,2.4,2.0,4.4,3.9,3.4,2.8,2.9
+708,31-45,High School,60k-100k,Urban,None,3.1,2.0,2.9,3.5,3.5,3.3,2.1
+709,31-45,Some College,30k-60k,Urban,None,3.7,4.1,3.7,4.2,4.0,3.1,4.3
+710,31-45,High School,30k-60k,Suburban,Seen,4.2,3.2,4.1,3.0,4.2,3.0,2.6
+711,31-45,Some College,<30k,Urban,Interacted,4.4,3.9,3.6,3.9,3.4,3.6,1.9
+712,31-45,High School,30k-60k,Suburban,Interacted,5.0,3.6,3.7,4.9,4.4,3.1,3.0
+713,31-45,Graduate Degree,100k-150k,Urban,Interacted,3.8,4.2,3.4,3.3,5.0,3.1,2.4
+714,31-45,Some College,60k-100k,Urban,None,4.7,3.1,4.1,4.7,4.3,3.1,3.3
+715,31-45,High School,30k-60k,Suburban,None,3.4,2.7,3.5,4.5,3.9,2.5,2.4
+716,31-45,Some College,30k-60k,Rural,Seen,2.6,4.0,4.2,3.3,4.1,3.2,2.4
+717,31-45,Some College,<30k,Suburban,Interacted,3.2,3.4,3.2,3.7,4.3,2.7,2.5
+718,31-45,Some College,30k-60k,Suburban,Seen,3.5,3.5,4.1,4.2,4.2,3.3,2.6
+719,31-45,Some College,<30k,Urban,None,3.2,2.6,4.0,2.9,4.5,3.0,3.2
+720,31-45,Graduate Degree,30k-60k,Suburban,Interacted,4.0,3.5,3.6,3.2,5.0,4.0,2.8
+721,31-45,Graduate Degree,<30k,Urban,Interacted,3.8,4.5,3.6,4.6,3.7,3.0,2.3
+722,31-45,Some College,30k-60k,Rural,None,3.5,2.5,3.7,4.1,4.4,3.8,2.6
+723,31-45,Bachelor's,30k-60k,Suburban,Seen,3.6,3.9,4.1,4.5,4.7,2.2,2.5
+724,31-45,Some College,30k-60k,Urban,None,5.0,3.6,3.1,3.2,3.3,3.1,3.7
+725,31-45,Graduate Degree,<30k,Suburban,Interacted,5.0,3.9,3.6,4.0,4.3,3.2,2.4
+726,31-45,Bachelor's,30k-60k,Urban,None,4.1,3.8,3.8,4.7,4.8,3.8,2.8
+727,31-45,High School,60k-100k,Urban,Seen,3.1,2.7,4.8,4.1,4.5,3.0,3.0
+728,31-45,High School,60k-100k,Urban,Interacted,4.6,4.5,3.1,3.7,4.2,3.4,3.3
+729,31-45,Some College,<30k,Urban,None,3.9,3.2,3.7,3.7,4.0,2.7,2.4
+730,31-45,Graduate Degree,100k-150k,Suburban,Seen,4.0,3.5,4.1,4.5,4.9,3.8,3.5
+731,31-45,Bachelor's,100k-150k,Rural,None,5.0,3.7,4.9,2.3,4.1,3.7,3.3
+732,31-45,Bachelor's,<30k,Suburban,None,4.2,2.9,3.6,3.1,4.4,2.4,2.5
+733,31-45,Bachelor's,60k-100k,Urban,None,3.6,3.1,3.7,4.1,4.0,2.1,3.3
+734,31-45,Graduate Degree,100k-150k,Rural,Seen,3.8,3.4,4.0,3.9,3.4,3.5,2.5
+735,31-45,Some College,30k-60k,Suburban,None,4.7,3.5,4.0,4.2,4.0,3.4,1.4
+736,31-45,Bachelor's,60k-100k,Suburban,Interacted,3.5,3.5,3.7,3.3,4.3,3.2,2.3
+737,31-45,Some College,60k-100k,Urban,None,4.9,3.4,4.2,4.4,4.8,2.7,3.4
+738,31-45,Bachelor's,30k-60k,Rural,None,3.6,2.1,3.8,3.9,4.8,2.7,2.5
+739,31-45,Some College,60k-100k,Urban,Interacted,3.0,3.5,4.7,3.8,5.0,2.6,2.2
+740,31-45,Bachelor's,30k-60k,Urban,Interacted,4.3,3.7,5.0,3.6,4.1,3.2,2.7
+741,31-45,Some College,30k-60k,Suburban,Seen,4.9,3.7,4.3,2.7,3.3,2.6,2.3
+742,31-45,Bachelor's,<30k,Suburban,Seen,3.4,3.3,4.4,3.3,4.5,2.9,2.4
+743,31-45,Some College,60k-100k,Rural,None,2.4,2.5,4.5,3.7,3.9,3.1,3.2
+744,31-45,High School,>150k,Suburban,None,3.8,2.4,3.5,3.4,4.9,1.5,3.0
+745,31-45,High School,<30k,Rural,Interacted,4.4,4.3,3.6,4.5,3.1,3.3,3.2
+746,31-45,High School,30k-60k,Suburban,Seen,4.0,3.5,4.3,4.3,3.8,2.7,2.6
+747,31-45,High School,60k-100k,Urban,None,4.3,4.0,3.8,3.3,4.3,4.0,2.6
+748,31-45,Bachelor's,30k-60k,Suburban,Seen,4.4,3.1,2.9,3.5,3.8,3.3,2.6
+749,31-45,Graduate Degree,60k-100k,Suburban,Seen,3.5,3.2,2.8,3.5,5.0,2.8,3.8
+750,31-45,Graduate Degree,30k-60k,Suburban,None,2.4,2.9,4.2,3.8,4.2,3.5,2.4
+751,31-45,Bachelor's,60k-100k,Suburban,None,3.9,2.4,3.7,2.7,3.5,4.0,3.7
+752,31-45,Some College,30k-60k,Suburban,None,3.8,3.2,3.3,3.6,5.0,3.1,2.2
+753,31-45,Graduate Degree,60k-100k,Suburban,Interacted,3.7,3.9,4.2,3.6,4.8,3.4,3.0
+754,31-45,High School,30k-60k,Urban,Seen,4.4,3.3,3.9,4.0,4.0,2.7,2.5
+755,31-45,Bachelor's,<30k,Urban,Seen,4.5,3.9,3.3,3.6,4.8,3.6,3.3
+756,31-45,High School,60k-100k,Rural,Seen,3.3,4.5,4.0,4.1,5.0,3.1,3.1
+757,31-45,Graduate Degree,<30k,Suburban,None,3.7,3.4,4.3,4.0,4.6,3.2,2.6
+758,31-45,Graduate Degree,100k-150k,Urban,None,4.5,3.3,2.8,3.8,3.8,2.2,2.9
+759,31-45,Some College,60k-100k,Suburban,None,3.0,2.5,4.6,3.5,4.2,3.1,2.8
+760,31-45,Bachelor's,60k-100k,Suburban,None,3.3,2.6,4.4,4.1,4.2,1.6,2.5
+761,31-45,High School,60k-100k,Urban,Seen,3.3,3.2,4.3,3.3,3.6,2.7,3.0
+762,31-45,Some College,60k-100k,Suburban,Seen,4.0,2.5,3.3,3.2,3.7,2.9,2.4
+763,31-45,Bachelor's,30k-60k,Suburban,Seen,3.2,3.3,3.2,3.2,4.0,3.1,2.7
+764,31-45,High School,100k-150k,Suburban,None,5.0,4.0,3.9,4.3,4.4,2.4,2.6
+765,31-45,Some College,60k-100k,Rural,Interacted,3.8,3.5,3.7,3.5,4.8,3.1,3.6
+766,31-45,Bachelor's,<30k,Urban,Seen,3.1,3.3,3.5,3.3,3.6,2.6,3.5
+767,31-45,Bachelor's,30k-60k,Suburban,None,3.6,2.9,3.4,4.0,4.3,3.5,2.2
+768,31-45,Bachelor's,60k-100k,Suburban,Seen,4.0,3.5,3.2,4.6,4.0,2.5,2.5
+769,31-45,Some College,30k-60k,Suburban,None,3.5,3.4,4.4,3.8,4.4,3.6,3.2
+770,31-45,High School,100k-150k,Suburban,None,3.8,2.3,4.0,4.3,4.2,2.4,2.6
+771,31-45,Some College,100k-150k,Suburban,Seen,3.6,3.7,4.5,3.9,4.6,2.6,3.3
+772,31-45,Some College,60k-100k,Rural,Seen,4.4,3.2,2.9,3.6,4.4,4.2,1.9
+773,31-45,Some College,<30k,Urban,None,3.4,2.4,3.4,2.2,4.5,2.2,2.4
+774,31-45,Some College,<30k,Suburban,Seen,3.2,3.2,3.6,3.9,3.7,2.9,2.9
+775,31-45,Bachelor's,30k-60k,Suburban,Seen,3.7,3.0,4.2,3.7,5.0,3.8,3.1
+776,31-45,Bachelor's,30k-60k,Suburban,None,3.0,2.5,4.3,3.5,4.4,2.6,3.3
+777,31-45,Bachelor's,30k-60k,Urban,Interacted,1.9,2.7,3.4,4.0,4.1,2.9,2.6
+778,31-45,Some College,30k-60k,Suburban,None,4.6,3.3,4.4,3.5,4.0,2.9,3.1
+779,31-45,Bachelor's,30k-60k,Suburban,Seen,2.1,3.3,4.5,3.7,4.2,3.5,2.5
+780,31-45,High School,>150k,Suburban,Seen,4.8,4.0,4.0,3.4,4.0,2.9,2.5
+781,31-45,Graduate Degree,60k-100k,Urban,Interacted,2.9,3.3,3.8,2.6,4.1,2.9,3.0
+782,31-45,Some College,>150k,Urban,Seen,3.3,2.2,2.2,4.6,4.3,3.5,2.8
+783,31-45,High School,60k-100k,Urban,None,5.0,3.5,3.9,3.1,3.8,3.1,3.3
+784,31-45,Bachelor's,60k-100k,Urban,Seen,3.7,3.0,3.1,4.2,3.4,3.2,3.0
+785,31-45,Graduate Degree,<30k,Rural,Seen,3.1,2.6,3.7,4.0,4.1,3.7,3.8
+786,31-45,Some College,30k-60k,Suburban,Interacted,4.4,4.6,4.0,3.3,4.0,3.4,2.8
+787,31-45,Bachelor's,100k-150k,Urban,None,3.4,2.0,4.8,3.7,4.8,3.3,2.9
+788,31-45,Some College,60k-100k,Rural,None,2.6,2.3,4.1,4.4,4.2,2.7,2.7
+789,31-45,Bachelor's,60k-100k,Urban,Seen,4.2,2.7,3.4,3.3,3.6,3.2,2.5
+790,31-45,Bachelor's,60k-100k,Urban,None,2.1,2.7,3.2,3.4,4.9,2.7,2.1
+791,31-45,High School,30k-60k,Urban,Seen,4.2,2.8,3.5,4.0,4.3,2.9,3.1
+792,31-45,Bachelor's,60k-100k,Urban,Seen,3.2,3.2,3.8,3.9,4.3,2.7,3.1
+793,31-45,Some College,60k-100k,Urban,Seen,4.1,2.9,4.3,2.9,3.7,2.9,2.5
+794,31-45,High School,>150k,Urban,Seen,3.2,3.1,4.3,3.5,4.2,3.2,1.0
+795,31-45,Some College,60k-100k,Suburban,None,3.3,3.1,5.0,4.1,3.9,2.6,2.6
+796,31-45,Bachelor's,>150k,Urban,None,4.7,3.1,3.0,4.3,4.4,2.3,3.0
+797,31-45,High School,30k-60k,Suburban,Seen,2.9,3.5,3.7,4.4,3.8,3.9,2.6
+798,31-45,High School,60k-100k,Urban,Interacted,2.3,4.3,3.9,3.5,4.2,3.6,2.5
+799,31-45,Some College,30k-60k,Urban,None,4.0,3.4,2.8,3.1,4.1,3.7,2.0
+800,31-45,Bachelor's,100k-150k,Urban,Seen,3.8,3.4,4.6,4.1,4.5,2.6,2.6
+801,31-45,Some College,60k-100k,Urban,Seen,3.8,3.1,3.6,4.0,4.1,2.3,2.1
+802,31-45,Bachelor's,100k-150k,Suburban,Seen,3.6,3.3,3.5,4.2,4.7,2.9,3.1
+803,31-45,High School,60k-100k,Suburban,Seen,4.5,4.2,4.2,4.1,5.0,3.6,2.2
+804,31-45,Some College,<30k,Rural,Interacted,3.2,3.1,4.1,3.3,4.1,3.9,2.8
+805,31-45,High School,>150k,Urban,None,3.3,2.6,4.2,3.8,4.5,2.5,3.1
+806,31-45,Some College,100k-150k,Suburban,Seen,2.8,2.3,3.5,3.8,4.2,3.9,2.1
+807,31-45,Bachelor's,>150k,Suburban,Seen,3.8,3.5,3.7,3.8,4.2,2.4,2.6
+808,31-45,Bachelor's,>150k,Suburban,None,4.1,2.9,2.9,4.1,4.1,2.8,3.1
+809,31-45,Bachelor's,100k-150k,Suburban,None,5.0,2.5,3.3,3.7,3.9,3.5,3.2
+810,31-45,Some College,60k-100k,Suburban,None,5.0,2.7,3.5,3.2,4.5,3.8,2.8
+811,31-45,Bachelor's,60k-100k,Urban,None,4.1,3.9,4.2,3.2,4.4,3.2,2.5
+812,31-45,Some College,60k-100k,Suburban,Interacted,3.8,4.3,3.7,3.8,4.2,3.2,2.5
+813,31-45,High School,60k-100k,Urban,Seen,4.6,3.4,3.9,3.6,4.6,3.1,3.1
+814,31-45,Some College,30k-60k,Urban,Interacted,4.1,4.7,3.4,3.3,4.3,3.0,2.5
+815,31-45,Some College,60k-100k,Urban,Seen,3.0,3.7,4.2,3.9,3.9,3.4,3.3
+816,31-45,High School,60k-100k,Suburban,None,3.6,3.6,4.3,3.7,4.1,3.2,2.2
+817,31-45,Bachelor's,<30k,Urban,Seen,4.6,4.0,3.3,4.8,3.4,2.9,2.9
+818,31-45,High School,30k-60k,Rural,None,4.1,3.6,5.0,3.4,4.0,4.1,2.6
+819,31-45,Graduate Degree,<30k,Urban,None,2.4,3.1,3.2,4.2,3.8,2.5,2.8
+820,31-45,Bachelor's,30k-60k,Urban,Seen,2.9,3.5,2.4,3.5,3.7,3.5,3.2
+821,31-45,Bachelor's,60k-100k,Suburban,Interacted,3.4,3.6,3.6,5.0,5.0,3.4,2.9
+822,31-45,High School,30k-60k,Suburban,None,4.3,3.2,3.5,3.8,4.4,3.7,2.0
+823,31-45,Graduate Degree,60k-100k,Urban,None,3.9,3.2,3.7,4.4,4.0,2.1,2.7
+824,31-45,High School,30k-60k,Urban,None,3.9,3.1,4.1,3.9,3.6,3.7,2.8
+825,31-45,Bachelor's,100k-150k,Rural,Interacted,3.6,3.3,4.0,3.8,4.2,2.1,2.6
+826,31-45,High School,>150k,Urban,Seen,2.8,3.8,3.5,3.4,4.4,3.8,3.4
+827,31-45,Graduate Degree,30k-60k,Suburban,Interacted,4.3,4.3,3.6,3.4,5.0,3.3,2.1
+828,31-45,Some College,60k-100k,Suburban,None,2.6,3.1,3.8,4.4,4.1,2.1,2.9
+829,31-45,High School,60k-100k,Suburban,Interacted,3.3,3.3,3.8,4.5,4.5,3.7,2.4
+830,31-45,Graduate Degree,60k-100k,Suburban,Seen,3.3,4.1,3.8,3.7,5.0,3.1,2.6
+831,31-45,Bachelor's,30k-60k,Urban,Seen,2.4,2.5,3.6,3.2,4.3,3.3,3.5
+832,31-45,High School,>150k,Suburban,Interacted,3.1,3.3,4.2,3.2,4.6,3.1,1.9
+833,31-45,Some College,<30k,Suburban,Seen,3.6,3.2,3.3,3.7,3.8,3.2,3.0
+834,31-45,Bachelor's,30k-60k,Suburban,Interacted,4.1,3.4,3.9,4.5,4.7,2.7,3.9
+835,31-45,Bachelor's,60k-100k,Urban,Seen,4.3,4.2,4.2,3.7,5.0,2.4,3.1
+836,31-45,Some College,100k-150k,Urban,None,3.2,2.7,3.8,3.6,4.2,2.9,3.5
+837,31-45,Graduate Degree,100k-150k,Suburban,Seen,3.0,3.2,3.5,4.9,4.6,3.0,2.7
+838,31-45,Some College,60k-100k,Urban,Interacted,4.9,4.5,2.7,2.9,4.2,2.9,3.6
+839,31-45,Bachelor's,30k-60k,Urban,Seen,3.9,3.6,4.5,3.0,4.8,3.1,2.8
+840,31-45,Some College,<30k,Rural,None,2.8,3.0,3.3,4.2,4.6,2.8,2.4
+841,31-45,Some College,30k-60k,Urban,None,3.5,3.6,4.1,3.4,4.3,3.1,2.4
+842,31-45,Bachelor's,60k-100k,Urban,Seen,3.8,3.3,3.9,3.3,4.2,3.7,3.3
+843,31-45,Bachelor's,100k-150k,Urban,None,3.7,3.9,3.8,2.8,4.6,2.9,3.5
+844,31-45,Some College,100k-150k,Urban,Seen,4.2,3.3,4.0,3.0,4.3,2.1,2.7
+845,31-45,Graduate Degree,<30k,Suburban,Seen,3.8,3.6,4.1,3.6,4.2,3.0,3.3
+846,31-45,Bachelor's,60k-100k,Rural,Seen,2.9,2.2,3.5,2.5,3.9,2.9,1.9
+847,31-45,Graduate Degree,<30k,Rural,None,2.6,3.2,5.0,3.5,4.0,3.6,1.8
+848,31-45,Bachelor's,<30k,Urban,None,3.6,3.2,3.7,3.3,4.1,2.6,3.0
+849,31-45,Some College,60k-100k,Suburban,Interacted,4.0,3.9,3.6,3.6,4.1,3.2,3.0
+850,31-45,Some College,>150k,Urban,None,3.1,3.3,3.7,3.8,5.0,2.3,2.7
+851,31-45,Bachelor's,30k-60k,Rural,Interacted,4.3,3.5,3.6,3.0,4.2,2.3,3.0
+852,31-45,Bachelor's,<30k,Suburban,None,3.9,2.8,3.9,3.4,3.4,3.6,2.6
+853,31-45,High School,60k-100k,Rural,Interacted,3.5,3.3,3.5,2.3,4.2,3.5,4.1
+854,31-45,Bachelor's,30k-60k,Urban,Interacted,3.4,4.2,4.0,3.4,4.8,3.2,2.4
+855,31-45,Bachelor's,60k-100k,Urban,None,3.8,3.9,3.8,4.2,4.2,3.1,2.1
+856,31-45,Bachelor's,100k-150k,Suburban,Seen,3.9,4.0,3.8,4.0,4.0,3.1,2.8
+857,31-45,Bachelor's,60k-100k,Urban,None,3.8,2.9,3.8,4.5,4.2,4.2,2.2
+858,31-45,High School,>150k,Urban,Interacted,4.3,4.2,3.6,4.0,3.4,2.6,3.0
+859,31-45,High School,30k-60k,Rural,Seen,4.0,4.6,4.1,4.1,4.1,2.7,2.1
+860,31-45,Some College,100k-150k,Suburban,Interacted,3.6,4.0,3.2,4.2,4.0,2.9,3.9
+861,31-45,Some College,60k-100k,Suburban,None,5.0,3.5,4.5,3.2,4.5,3.3,2.4
+862,31-45,Graduate Degree,60k-100k,Rural,Seen,3.8,3.2,4.8,3.6,4.9,2.7,2.1
+863,31-45,Some College,60k-100k,Rural,Seen,4.5,3.8,3.3,2.8,4.8,2.8,4.1
+864,31-45,High School,60k-100k,Urban,None,4.5,2.9,4.0,3.6,4.2,2.0,2.7
+865,31-45,Bachelor's,30k-60k,Urban,None,3.0,3.1,3.9,4.0,3.6,2.7,3.0
+866,31-45,Bachelor's,30k-60k,Urban,Seen,4.4,2.2,3.2,3.3,4.8,2.9,3.5
+867,31-45,Bachelor's,30k-60k,Urban,None,3.7,4.0,2.8,4.0,5.0,2.7,4.0
+868,31-45,Bachelor's,60k-100k,Suburban,None,3.2,3.1,4.0,3.6,4.7,3.8,2.6
+869,31-45,Graduate Degree,<30k,Suburban,Seen,3.1,2.8,3.9,3.4,3.3,2.7,2.9
+870,31-45,Bachelor's,60k-100k,Suburban,Seen,2.2,2.3,3.8,3.6,4.6,2.7,2.6
+871,31-45,Bachelor's,60k-100k,Suburban,Seen,4.2,3.9,3.3,3.7,4.0,3.5,3.2
+872,31-45,Bachelor's,60k-100k,Suburban,Interacted,3.9,3.8,3.7,3.2,3.5,3.2,2.7
+873,31-45,Some College,60k-100k,Suburban,None,3.4,2.5,3.5,3.6,4.2,3.1,3.0
+874,31-45,Some College,100k-150k,Suburban,Seen,3.3,3.0,4.7,4.8,4.7,3.1,2.4
+875,31-45,Bachelor's,>150k,Urban,Seen,4.7,3.4,4.1,3.1,4.4,3.4,2.9
+876,31-45,Some College,30k-60k,Suburban,Seen,4.4,3.7,4.0,3.6,4.1,2.4,2.3
+877,31-45,Graduate Degree,60k-100k,Suburban,None,4.4,2.7,3.1,3.8,5.0,3.7,2.4
+878,31-45,Graduate Degree,30k-60k,Suburban,Seen,4.3,3.6,3.1,3.3,4.6,3.6,2.9
+879,31-45,High School,<30k,Rural,None,4.7,3.5,4.0,3.8,4.4,3.3,1.8
+880,31-45,Some College,30k-60k,Suburban,None,3.0,3.1,4.2,3.4,4.2,3.0,3.3
+881,31-45,High School,30k-60k,Suburban,Seen,4.2,3.4,3.5,3.4,4.4,3.3,2.2
+882,31-45,Graduate Degree,30k-60k,Suburban,Seen,3.3,3.7,2.9,2.8,3.9,2.7,2.8
+883,31-45,Bachelor's,<30k,Rural,None,3.4,2.5,3.9,3.6,5.0,3.0,2.2
+884,31-45,Graduate Degree,<30k,Suburban,Seen,2.4,3.2,3.7,4.0,5.0,2.7,3.0
+885,31-45,Graduate Degree,100k-150k,Rural,None,4.3,2.6,4.2,3.1,4.2,2.3,3.0
+886,31-45,Some College,<30k,Suburban,None,2.8,2.7,3.1,4.2,4.0,3.4,3.5
+887,31-45,Bachelor's,30k-60k,Urban,Seen,4.9,4.3,3.6,3.5,3.8,3.5,1.5
+888,31-45,Graduate Degree,30k-60k,Urban,Interacted,4.1,3.3,3.9,4.7,3.5,4.1,3.2
+889,31-45,High School,100k-150k,Urban,None,3.3,3.7,3.7,3.7,5.0,2.7,3.1
+890,31-45,Some College,30k-60k,Suburban,Interacted,4.6,3.6,4.7,4.6,4.1,2.4,2.6
+891,31-45,Bachelor's,30k-60k,Rural,Seen,3.3,3.8,4.2,3.7,4.7,3.6,3.4
+892,31-45,High School,<30k,Urban,None,4.6,3.3,3.5,2.8,3.7,2.9,2.9
+893,31-45,High School,>150k,Rural,Interacted,4.7,3.8,3.7,3.4,4.8,2.8,3.7
+894,31-45,Bachelor's,60k-100k,Suburban,Seen,3.3,3.3,4.0,3.9,4.5,2.9,2.1
+895,31-45,Graduate Degree,<30k,Suburban,Interacted,3.1,3.6,3.6,3.7,3.4,3.2,2.6
+896,31-45,Graduate Degree,60k-100k,Rural,Seen,3.5,3.7,3.0,3.5,5.0,3.1,3.4
+897,31-45,High School,100k-150k,Suburban,None,4.5,4.3,3.8,3.4,4.9,2.4,2.5
+898,31-45,High School,100k-150k,Suburban,Seen,2.0,3.1,4.0,3.6,4.4,3.1,2.3
+899,31-45,High School,60k-100k,Suburban,Interacted,3.9,3.7,4.0,3.6,4.0,2.2,2.3
+900,31-45,High School,30k-60k,Suburban,None,3.5,3.7,4.1,4.7,4.3,3.1,2.7
+901,31-45,Bachelor's,<30k,Urban,None,4.1,3.9,3.6,3.5,4.3,2.1,3.5
+902,31-45,Some College,30k-60k,Urban,None,3.8,2.7,4.6,3.5,4.5,3.2,2.7
+903,31-45,Bachelor's,30k-60k,Suburban,Seen,2.4,2.4,3.0,4.2,4.5,2.9,3.7
+904,31-45,Bachelor's,30k-60k,Urban,Interacted,4.8,3.5,3.5,4.5,4.8,2.5,2.2
+905,31-45,High School,>150k,Urban,Interacted,5.0,3.9,3.4,4.1,4.1,3.6,3.1
+906,31-45,Some College,30k-60k,Urban,Seen,4.3,3.5,4.2,3.8,3.6,2.6,3.1
+907,31-45,High School,60k-100k,Suburban,Interacted,4.3,4.4,4.2,3.7,4.1,3.9,3.7
+908,31-45,Some College,30k-60k,Urban,Seen,3.7,4.0,3.9,3.9,4.6,3.7,3.6
+909,31-45,Graduate Degree,30k-60k,Rural,Seen,3.0,3.0,3.3,4.1,4.8,4.3,2.9
+910,31-45,Graduate Degree,60k-100k,Rural,Seen,4.2,3.7,3.7,3.1,4.9,4.1,2.9
+911,31-45,Some College,>150k,Suburban,None,3.7,3.6,2.3,3.1,3.6,3.2,3.4
+912,31-45,Graduate Degree,60k-100k,Urban,None,4.9,3.1,4.1,4.6,4.5,3.2,3.0
+913,31-45,High School,30k-60k,Urban,None,4.5,3.5,4.0,3.3,4.7,2.3,3.3
+914,31-45,Some College,30k-60k,Rural,Seen,2.5,2.7,2.8,3.5,4.1,3.2,1.9
+915,31-45,High School,100k-150k,Rural,None,3.6,2.3,3.3,2.9,4.9,3.5,3.2
+916,31-45,Bachelor's,>150k,Suburban,Seen,4.5,3.9,4.9,3.7,4.1,2.1,2.6
+917,31-45,Bachelor's,>150k,Urban,None,3.6,2.3,4.0,3.9,4.9,2.7,2.9
+918,31-45,Bachelor's,60k-100k,Urban,Interacted,3.8,4.1,3.9,3.7,4.0,3.6,2.9
+919,31-45,Bachelor's,30k-60k,Suburban,Seen,2.1,3.1,3.5,3.1,4.6,3.4,2.2
+920,31-45,Some College,30k-60k,Suburban,Seen,4.3,3.2,4.1,3.1,4.3,3.4,2.7
+921,31-45,High School,60k-100k,Suburban,None,3.6,3.3,4.3,3.5,3.4,3.8,3.4
+922,31-45,High School,60k-100k,Suburban,None,4.1,2.3,3.7,3.3,3.6,3.3,3.1
+923,31-45,High School,30k-60k,Suburban,Interacted,4.7,4.0,3.9,3.7,4.4,3.2,3.9
+924,31-45,High School,60k-100k,Rural,Seen,4.5,3.0,3.9,3.9,4.9,3.2,2.5
+925,31-45,Bachelor's,<30k,Urban,Seen,2.2,3.7,3.3,3.9,4.6,2.8,2.7
+926,31-45,Bachelor's,>150k,Rural,Seen,4.1,3.2,3.0,3.3,4.6,3.1,2.7
+927,31-45,Bachelor's,<30k,Suburban,Interacted,3.7,4.4,3.6,2.9,3.8,4.0,2.4
+928,31-45,Graduate Degree,30k-60k,Urban,None,4.2,4.0,3.5,3.8,4.3,2.9,2.0
+929,31-45,High School,60k-100k,Urban,Interacted,3.2,3.5,5.0,4.3,4.1,3.6,2.3
+930,31-45,Some College,<30k,Suburban,Seen,5.0,4.0,3.8,2.6,4.0,3.6,2.6
+931,31-45,Graduate Degree,>150k,Urban,Seen,2.6,3.9,4.2,3.6,3.7,2.6,3.2
+932,31-45,Graduate Degree,60k-100k,Urban,Seen,3.5,3.0,3.6,3.6,4.3,2.6,2.9
+933,31-45,Some College,60k-100k,Suburban,None,5.0,3.9,3.4,4.1,3.8,2.1,3.1
+934,31-45,Bachelor's,<30k,Urban,Interacted,2.7,3.3,2.9,3.2,4.1,2.5,3.1
+935,31-45,Some College,<30k,Urban,Seen,4.9,2.7,4.0,3.3,2.6,3.5,3.0
+936,31-45,Graduate Degree,60k-100k,Suburban,Seen,3.6,3.5,3.5,3.6,4.4,2.6,2.7
+937,31-45,Graduate Degree,60k-100k,Urban,None,2.6,2.7,2.9,4.0,4.3,3.0,2.0
+938,31-45,Graduate Degree,30k-60k,Rural,Interacted,3.5,3.8,3.2,3.8,4.1,3.4,2.0
+939,31-45,High School,>150k,Suburban,Seen,3.3,3.0,4.5,3.9,5.0,2.9,2.1
+940,31-45,Graduate Degree,30k-60k,Rural,Interacted,3.6,4.5,4.6,3.5,4.9,3.1,3.2
+941,31-45,High School,<30k,Urban,None,3.8,3.2,4.1,4.4,3.6,3.6,2.5
+942,31-45,High School,60k-100k,Suburban,None,4.2,2.4,3.8,3.4,4.6,3.5,3.3
+943,31-45,High School,30k-60k,Rural,None,5.0,3.1,4.4,3.6,3.6,3.3,2.9
+944,31-45,Some College,<30k,Urban,None,4.0,4.1,3.7,2.8,3.8,3.0,3.1
+945,31-45,Bachelor's,30k-60k,Rural,None,3.7,3.3,4.4,3.8,3.8,3.0,2.1
+946,31-45,Some College,100k-150k,Suburban,Seen,4.1,2.6,3.8,4.1,4.2,3.2,2.9
+947,31-45,High School,30k-60k,Suburban,None,3.9,3.3,3.7,3.7,4.1,3.2,2.7
+948,31-45,High School,30k-60k,Urban,Interacted,3.7,3.7,3.8,3.6,4.1,2.4,3.4
+949,31-45,High School,60k-100k,Urban,Interacted,4.7,4.2,4.7,3.4,4.4,2.5,2.3
+950,31-45,Some College,60k-100k,Suburban,Interacted,3.7,4.5,4.4,3.5,3.6,2.6,2.0
+951,31-45,Graduate Degree,30k-60k,Urban,None,3.3,3.2,3.9,4.4,3.9,3.1,2.0
+952,31-45,Some College,60k-100k,Suburban,Seen,3.5,3.9,4.2,3.1,3.6,3.2,2.6
+953,31-45,Bachelor's,60k-100k,Urban,Seen,3.2,3.0,4.0,3.3,4.4,3.5,2.9
+954,31-45,Bachelor's,60k-100k,Suburban,None,5.0,4.0,3.9,4.2,4.0,3.1,3.3
+955,31-45,Bachelor's,<30k,Suburban,None,4.3,3.8,2.4,3.2,4.4,1.7,2.8
+956,31-45,Bachelor's,60k-100k,Suburban,Seen,3.6,3.9,4.1,3.8,4.3,2.3,2.5
+957,31-45,Bachelor's,30k-60k,Urban,Seen,3.7,3.9,3.3,3.7,3.8,3.6,2.4
+958,31-45,High School,60k-100k,Rural,None,4.1,3.6,3.4,4.2,4.5,3.0,2.6
+959,31-45,Bachelor's,60k-100k,Urban,Interacted,3.5,3.7,3.6,4.7,4.1,3.5,3.2
+960,31-45,High School,30k-60k,Suburban,None,3.0,2.8,4.5,4.3,4.0,3.7,2.5
+961,31-45,High School,30k-60k,Rural,Seen,2.9,3.0,3.4,3.4,3.9,3.6,2.9
+962,31-45,High School,<30k,Urban,Seen,4.3,3.8,3.7,3.7,5.0,2.6,1.9
+963,31-45,Some College,30k-60k,Suburban,Seen,4.8,3.3,3.6,4.9,4.3,3.1,2.7
+964,31-45,High School,30k-60k,Urban,Interacted,2.6,2.9,4.3,4.2,3.3,3.2,3.2
+965,31-45,Graduate Degree,>150k,Suburban,Seen,4.5,3.5,4.1,4.0,4.7,2.2,3.1
+966,31-45,Graduate Degree,<30k,Urban,Interacted,3.4,3.3,3.5,4.2,3.4,2.4,2.9
+967,31-45,Some College,30k-60k,Rural,None,4.5,4.2,3.5,3.7,3.8,3.7,2.2
+968,31-45,Graduate Degree,30k-60k,Urban,None,3.6,2.8,4.0,4.1,4.2,3.1,2.2
+969,31-45,High School,60k-100k,Rural,Seen,3.5,3.0,4.3,3.8,4.4,2.7,2.1
+970,31-45,Bachelor's,30k-60k,Urban,Seen,4.3,3.2,3.7,5.0,4.1,2.1,3.5
+971,31-45,High School,<30k,Suburban,Seen,5.0,4.5,3.5,3.2,2.9,2.5,3.2
+972,31-45,Some College,30k-60k,Urban,Seen,4.7,3.8,4.3,3.5,4.4,2.9,2.6
+973,31-45,Bachelor's,30k-60k,Urban,Seen,3.0,3.0,4.5,3.7,5.0,3.1,2.9
+974,31-45,Bachelor's,30k-60k,Urban,Seen,4.1,4.0,3.0,3.3,3.8,3.2,2.3
+975,31-45,Some College,60k-100k,Suburban,Seen,4.2,3.5,4.2,4.3,3.4,4.0,3.3
+976,31-45,Graduate Degree,30k-60k,Suburban,Seen,3.4,3.1,3.1,3.6,3.7,2.9,2.3
+977,31-45,High School,60k-100k,Suburban,None,5.0,3.9,4.2,3.3,4.5,3.0,2.4
+978,31-45,Some College,30k-60k,Rural,Interacted,3.1,3.6,4.1,4.4,4.1,3.1,2.8
+979,31-45,Bachelor's,100k-150k,Urban,Seen,5.0,3.8,4.3,3.8,3.9,3.6,3.0
+980,31-45,Some College,100k-150k,Suburban,Interacted,3.8,3.8,3.3,3.5,4.4,3.8,3.5
+981,31-45,Some College,60k-100k,Suburban,Seen,3.4,3.2,4.8,3.2,4.2,3.7,2.5
+982,31-45,Some College,60k-100k,Urban,None,2.8,2.4,3.6,3.5,4.3,3.1,2.3
+983,31-45,High School,100k-150k,Suburban,None,3.1,2.4,4.6,3.4,4.6,3.5,1.5
+984,31-45,Graduate Degree,>150k,Rural,None,4.4,3.2,4.0,4.0,4.0,2.8,3.1
+985,31-45,High School,<30k,Suburban,Seen,2.9,3.4,4.2,3.2,3.8,3.2,2.6
+986,31-45,Some College,<30k,Suburban,Seen,5.0,4.0,3.5,4.0,4.0,2.5,2.4
+987,31-45,Graduate Degree,<30k,Urban,None,4.3,3.2,4.2,4.0,4.4,3.5,2.8
+988,31-45,High School,60k-100k,Suburban,Seen,5.0,3.1,4.2,4.1,3.8,3.0,2.5
+989,31-45,High School,100k-150k,Urban,None,3.7,3.1,3.8,4.1,3.9,2.9,2.8
+990,31-45,Bachelor's,30k-60k,Urban,Seen,3.3,3.4,3.4,3.5,4.6,3.0,3.0
+991,31-45,High School,100k-150k,Suburban,Seen,3.5,3.2,3.7,4.1,4.1,3.6,3.2
+992,31-45,Bachelor's,<30k,Suburban,Interacted,4.1,4.6,4.0,4.4,3.3,2.8,2.8
+993,31-45,Some College,30k-60k,Suburban,Interacted,4.0,3.9,4.4,3.3,4.7,3.2,2.0
+994,31-45,High School,60k-100k,Urban,None,4.0,3.3,4.4,3.6,4.8,2.9,2.9
+995,31-45,Bachelor's,<30k,Urban,None,3.8,2.7,4.4,3.0,4.6,3.5,3.5
+996,31-45,Bachelor's,>150k,Suburban,Seen,3.5,3.8,3.7,4.6,4.7,3.0,3.2
+997,31-45,Some College,30k-60k,Urban,None,3.8,3.5,3.7,4.0,4.1,3.2,2.6
+998,31-45,Bachelor's,<30k,Urban,Seen,4.6,4.8,4.5,3.6,4.0,3.6,3.8
+999,31-45,Some College,30k-60k,Urban,None,4.3,2.9,4.0,4.2,4.0,2.9,3.0
+1000,31-45,Some College,>150k,Suburban,None,2.8,2.8,4.7,4.1,4.0,2.7,3.3
+1001,31-45,High School,60k-100k,Urban,None,4.8,4.7,3.8,3.3,4.5,3.4,2.4
+1002,31-45,Graduate Degree,30k-60k,Rural,None,3.3,2.9,3.3,3.5,5.0,2.4,3.2
+1003,31-45,High School,30k-60k,Suburban,None,4.0,3.2,3.4,3.8,4.4,3.6,2.8
+1004,31-45,Bachelor's,<30k,Urban,Seen,4.1,3.1,3.1,3.5,3.9,2.9,1.4
+1005,31-45,Bachelor's,30k-60k,Urban,None,5.0,3.3,3.7,3.3,4.0,2.6,3.2
+1006,31-45,Bachelor's,100k-150k,Suburban,Interacted,4.8,4.6,3.2,2.7,4.6,3.5,2.6
+1007,31-45,High School,60k-100k,Suburban,None,3.7,3.7,3.6,3.4,4.3,3.6,2.4
+1008,31-45,Bachelor's,60k-100k,Urban,None,3.4,2.2,4.3,3.0,4.4,3.2,3.1
+1009,31-45,Bachelor's,<30k,Urban,Seen,4.6,4.0,3.2,4.3,4.0,3.3,1.9
+1010,31-45,Some College,>150k,Rural,None,3.6,2.8,3.1,3.3,5.0,4.1,2.8
+1011,31-45,High School,<30k,Urban,Seen,3.1,3.6,4.5,3.7,3.2,3.0,2.8
+1012,31-45,Graduate Degree,<30k,Urban,Seen,4.7,4.0,3.1,4.0,4.2,3.3,2.9
+1013,31-45,Bachelor's,60k-100k,Suburban,Seen,3.4,3.4,3.0,4.1,4.9,4.3,3.5
+1014,31-45,Some College,<30k,Urban,Seen,3.0,2.4,3.7,3.2,4.3,3.2,3.0
+1015,31-45,Bachelor's,60k-100k,Suburban,None,4.4,3.2,3.7,2.5,3.4,2.8,3.2
+1016,31-45,High School,30k-60k,Urban,None,5.0,3.5,3.7,3.7,4.3,3.3,2.6
+1017,31-45,High School,30k-60k,Rural,Interacted,2.4,3.7,2.9,4.2,4.6,3.2,2.8
+1018,31-45,Bachelor's,30k-60k,Urban,Seen,4.2,3.5,4.5,3.2,4.5,2.5,2.6
+1019,31-45,High School,60k-100k,Urban,Interacted,4.1,4.6,4.1,4.0,4.4,2.5,2.7
+1020,31-45,High School,60k-100k,Urban,None,4.1,3.1,3.8,4.3,3.6,3.8,2.7
+1021,31-45,High School,<30k,Suburban,None,3.4,2.8,3.6,4.0,4.4,2.1,3.1
+1022,31-45,Some College,100k-150k,Urban,None,3.4,3.7,4.0,3.5,4.3,2.6,3.0
+1023,31-45,Some College,100k-150k,Urban,Seen,5.0,3.7,3.0,3.0,4.4,3.0,2.9
+1024,31-45,Bachelor's,60k-100k,Suburban,Interacted,4.1,3.9,4.1,3.0,4.1,2.9,3.6
+1025,31-45,Bachelor's,100k-150k,Suburban,Seen,3.1,2.0,4.4,2.9,4.3,2.5,3.2
+1026,31-45,Some College,>150k,Urban,Seen,3.3,3.9,4.2,4.1,4.4,3.2,2.3
+1027,31-45,Graduate Degree,30k-60k,Urban,Seen,4.3,2.8,4.8,3.5,4.1,3.7,2.0
+1028,31-45,Graduate Degree,30k-60k,Urban,Interacted,3.7,3.8,4.0,3.4,3.8,3.3,3.4
+1029,31-45,High School,<30k,Suburban,Seen,3.4,2.1,4.2,3.5,3.9,3.6,2.6
+1030,31-45,Some College,<30k,Suburban,Interacted,5.0,4.6,3.3,3.2,3.8,2.9,2.6
+1031,31-45,Bachelor's,60k-100k,Urban,Seen,3.2,3.1,4.4,3.1,3.6,2.8,2.1
+1032,31-45,High School,60k-100k,Urban,Seen,3.3,3.6,4.1,3.4,4.1,3.4,2.5
+1033,31-45,Some College,<30k,Urban,None,5.0,3.4,4.6,3.8,4.4,3.3,2.2
+1034,31-45,Graduate Degree,<30k,Suburban,Seen,5.0,3.1,4.2,3.5,4.9,3.3,2.8
+1035,31-45,High School,100k-150k,Suburban,Seen,3.4,3.1,3.7,3.7,4.1,3.1,2.5
+1036,31-45,Some College,<30k,Suburban,None,3.7,2.8,3.9,4.3,4.7,2.9,2.7
+1037,31-45,Graduate Degree,30k-60k,Urban,Seen,4.7,3.5,3.9,3.3,4.7,3.8,2.8
+1038,31-45,Bachelor's,60k-100k,Suburban,None,3.2,3.5,3.4,4.2,4.9,3.2,3.3
+1039,31-45,Bachelor's,>150k,Urban,Seen,3.8,3.6,4.2,4.1,4.3,2.8,2.8
+1040,31-45,Some College,<30k,Suburban,Seen,3.2,2.8,3.3,3.3,4.1,3.4,3.1
+1041,31-45,High School,100k-150k,Rural,None,3.7,4.1,4.1,3.9,3.6,3.9,2.4
+1042,31-45,Bachelor's,30k-60k,Suburban,Interacted,4.5,4.1,2.8,2.5,3.9,3.0,3.5
+1043,31-45,Graduate Degree,100k-150k,Urban,Seen,4.4,3.3,4.0,3.6,3.9,3.2,3.5
+1044,31-45,High School,30k-60k,Rural,None,3.9,2.9,3.3,4.5,4.5,2.9,2.8
+1045,31-45,Bachelor's,30k-60k,Suburban,Interacted,4.4,3.3,3.6,4.3,3.9,3.8,3.4
+1046,31-45,High School,60k-100k,Rural,None,3.0,2.6,3.6,3.1,4.0,2.9,1.9
+1047,31-45,Bachelor's,<30k,Suburban,Seen,5.0,4.3,3.5,4.1,5.0,3.6,2.5
+1048,31-45,Bachelor's,30k-60k,Urban,None,4.6,3.1,3.6,3.4,4.3,3.7,2.4
+1049,31-45,Bachelor's,30k-60k,Suburban,Interacted,4.3,4.2,3.5,4.4,4.3,2.4,2.9
+1050,31-45,Some College,60k-100k,Suburban,Seen,4.0,3.4,3.3,4.4,4.2,3.5,3.5
+1051,31-45,Graduate Degree,<30k,Suburban,None,3.9,3.2,4.2,3.3,3.8,3.3,2.7
+1052,31-45,Some College,<30k,Urban,Seen,3.6,3.4,4.5,4.0,5.0,3.2,2.7
+1053,31-45,Bachelor's,<30k,Rural,Seen,3.2,3.8,3.9,4.0,4.3,3.7,2.3
+1054,31-45,High School,30k-60k,Suburban,None,4.5,4.3,3.1,3.9,3.5,3.2,2.9
+1055,31-45,Some College,<30k,Rural,None,3.7,3.1,3.6,3.6,3.8,3.4,2.7
+1056,31-45,High School,60k-100k,Suburban,None,4.1,2.8,3.7,4.2,4.0,2.8,2.3
+1057,31-45,Some College,60k-100k,Suburban,Seen,3.1,2.6,4.9,4.1,4.1,3.3,3.5
+1058,31-45,Some College,30k-60k,Urban,Seen,3.5,3.1,4.0,3.6,5.0,3.4,3.0
+1059,31-45,Some College,100k-150k,Urban,Seen,3.4,3.3,3.8,3.9,3.5,2.6,3.0
+1060,31-45,Graduate Degree,100k-150k,Suburban,Seen,3.6,3.4,4.1,3.4,5.0,2.8,2.8
+1061,31-45,Bachelor's,100k-150k,Urban,None,4.4,3.5,3.7,2.7,3.4,3.5,2.0
+1062,31-45,Graduate Degree,30k-60k,Suburban,Seen,3.1,3.1,3.7,3.8,3.6,3.3,2.3
+1063,31-45,Some College,<30k,Urban,None,3.5,3.5,3.0,3.3,4.5,3.2,2.2
+1064,31-45,Bachelor's,30k-60k,Urban,Interacted,3.4,2.9,3.6,2.8,4.0,3.1,2.4
+1065,31-45,Graduate Degree,60k-100k,Urban,Seen,2.9,3.2,4.1,3.4,3.9,4.2,2.5
+1066,31-45,Some College,60k-100k,Suburban,None,4.3,3.6,4.1,3.2,3.9,4.0,3.3
+1067,31-45,Some College,<30k,Rural,None,3.2,3.2,4.8,3.2,4.5,4.1,3.1
+1068,31-45,Some College,<30k,Urban,Interacted,3.1,3.4,4.5,3.1,3.7,3.2,3.9
+1069,31-45,Some College,100k-150k,Rural,Seen,4.6,2.5,4.5,4.6,4.5,3.4,2.9
+1070,31-45,Bachelor's,<30k,Suburban,Seen,2.3,2.5,3.8,3.5,4.4,3.4,2.7
+1071,31-45,Some College,60k-100k,Suburban,None,2.8,3.2,3.7,4.4,4.3,3.8,3.4
+1072,31-45,High School,<30k,Urban,Interacted,2.6,3.5,4.7,4.2,3.6,2.7,2.2
+1073,31-45,Graduate Degree,<30k,Urban,None,4.4,3.2,4.0,4.2,3.9,2.3,2.6
+1074,31-45,Bachelor's,60k-100k,Urban,Seen,4.2,3.2,3.1,4.1,4.2,2.8,3.3
+1075,31-45,High School,60k-100k,Urban,Interacted,3.8,3.6,3.7,4.0,4.2,3.0,2.4
+1076,31-45,Graduate Degree,60k-100k,Suburban,Seen,3.5,3.2,3.4,3.5,4.1,3.0,3.1
+1077,31-45,Bachelor's,60k-100k,Suburban,Seen,4.1,3.8,4.3,3.9,3.0,3.6,2.8
+1078,31-45,High School,<30k,Urban,Seen,3.1,3.1,4.8,3.4,3.8,2.6,2.1
+1079,31-45,High School,60k-100k,Suburban,Seen,3.9,3.3,4.8,3.3,4.1,3.7,3.0
+1080,31-45,Bachelor's,<30k,Suburban,None,3.9,3.0,4.4,3.7,4.4,3.0,3.2
+1081,31-45,Some College,<30k,Suburban,Seen,4.0,4.3,4.2,3.4,3.8,2.8,2.8
+1082,31-45,Bachelor's,>150k,Suburban,Interacted,3.9,4.0,4.5,4.2,4.1,3.2,2.1
+1083,31-45,Bachelor's,60k-100k,Suburban,Seen,4.4,3.0,3.8,3.7,4.2,2.5,2.3
+1084,31-45,Some College,<30k,Urban,Seen,4.3,3.3,3.6,3.5,3.2,2.8,2.3
+1085,31-45,Bachelor's,60k-100k,Urban,Seen,2.6,2.0,3.5,3.4,3.8,3.1,3.8
+1086,31-45,Some College,>150k,Urban,Seen,4.0,2.9,3.9,3.5,4.3,3.1,2.4
+1087,31-45,Bachelor's,30k-60k,Suburban,Seen,2.6,3.1,4.0,3.1,5.0,2.6,2.4
+1088,31-45,Bachelor's,60k-100k,Suburban,None,3.1,3.1,3.8,3.6,4.1,4.3,3.3
+1089,31-45,Some College,<30k,Urban,Seen,2.9,2.9,3.9,3.0,4.4,4.1,1.8
+1090,31-45,Bachelor's,100k-150k,Urban,Seen,4.8,3.7,4.1,3.6,3.3,3.1,2.8
+1091,31-45,High School,>150k,Rural,Interacted,3.9,5.0,3.5,3.6,5.0,4.1,1.7
+1092,31-45,Bachelor's,60k-100k,Rural,None,3.0,3.3,4.0,4.2,4.4,3.1,2.8
+1093,31-45,High School,>150k,Urban,Seen,2.3,2.9,2.8,3.5,4.7,3.3,2.3
+1094,31-45,High School,30k-60k,Suburban,None,4.2,3.5,4.3,3.5,3.9,3.1,2.5
+1095,31-45,High School,60k-100k,Rural,Interacted,2.8,4.3,4.3,4.2,3.6,3.7,2.9
+1096,31-45,Some College,30k-60k,Urban,None,3.1,3.6,3.7,3.4,3.8,3.0,2.4
+1097,31-45,Bachelor's,60k-100k,Suburban,None,4.4,3.6,3.7,3.8,3.7,2.8,3.6
+1098,31-45,Bachelor's,30k-60k,Suburban,None,3.6,3.7,2.8,3.0,4.5,3.4,2.8
+1099,31-45,Some College,30k-60k,Suburban,None,3.1,3.1,3.9,3.2,3.8,3.7,2.8
+1100,31-45,Bachelor's,60k-100k,Suburban,Seen,3.5,2.4,3.1,4.1,4.2,3.1,3.2
+1101,31-45,High School,60k-100k,Suburban,Seen,4.3,4.0,3.8,3.7,4.7,3.1,3.7
+1102,31-45,Some College,60k-100k,Urban,Seen,3.3,2.8,2.9,2.8,4.2,3.2,2.8
+1103,31-45,Some College,100k-150k,Urban,Interacted,3.4,3.6,4.1,3.9,3.8,2.3,3.3
+1104,31-45,Bachelor's,60k-100k,Urban,Interacted,3.6,3.9,3.7,3.0,4.3,3.1,1.4
+1105,31-45,Graduate Degree,60k-100k,Urban,Seen,3.0,2.6,3.3,3.3,3.4,2.5,2.1
+1106,31-45,Bachelor's,100k-150k,Suburban,None,5.0,2.9,4.0,3.5,4.5,3.1,2.7
+1107,31-45,Graduate Degree,>150k,Suburban,None,2.1,3.2,3.7,3.8,4.4,2.7,2.0
+1108,31-45,High School,60k-100k,Urban,None,2.9,4.4,3.0,3.6,4.0,3.3,2.7
+1109,31-45,High School,<30k,Rural,None,2.7,2.9,3.2,4.4,3.3,3.0,3.4
+1110,31-45,Bachelor's,<30k,Urban,Seen,4.2,4.0,3.9,3.7,4.6,3.3,3.1
+1111,31-45,Graduate Degree,100k-150k,Urban,Seen,4.1,2.3,3.4,4.1,3.8,2.9,2.7
+1112,31-45,Graduate Degree,30k-60k,Suburban,None,3.9,3.4,4.0,3.6,4.8,3.8,2.5
+1113,31-45,High School,100k-150k,Urban,None,4.0,3.1,4.4,3.8,4.5,2.8,3.2
+1114,31-45,Bachelor's,<30k,Urban,Interacted,4.8,4.1,3.2,4.3,3.8,3.6,3.7
+1115,31-45,High School,30k-60k,Urban,None,5.0,3.8,3.1,4.0,4.0,2.1,2.5
+1116,31-45,High School,60k-100k,Urban,None,3.6,3.3,4.2,4.7,4.4,2.9,2.0
+1117,31-45,Some College,30k-60k,Suburban,Seen,4.4,3.1,4.1,3.6,4.1,2.7,2.3
+1118,31-45,High School,<30k,Rural,Seen,4.3,3.6,4.0,4.4,4.3,3.6,1.9
+1119,31-45,Bachelor's,60k-100k,Urban,Seen,2.5,2.8,3.0,4.9,4.1,3.2,2.5
+1120,31-45,Graduate Degree,60k-100k,Suburban,Seen,3.7,3.8,3.6,3.4,4.6,2.7,2.8
+1121,31-45,Some College,30k-60k,Suburban,Seen,2.3,2.9,3.5,3.0,4.4,3.3,2.6
+1122,31-45,Bachelor's,60k-100k,Suburban,None,3.5,3.8,4.0,4.0,3.2,2.8,3.1
+1123,31-45,High School,100k-150k,Urban,None,4.8,2.8,3.4,3.7,4.8,2.3,1.7
+1124,31-45,Some College,>150k,Suburban,Seen,3.6,2.4,3.6,3.7,4.6,3.8,2.9
+1125,31-45,Graduate Degree,60k-100k,Urban,None,3.2,3.4,3.6,3.5,3.8,3.6,2.4
+1126,31-45,Graduate Degree,30k-60k,Urban,Interacted,3.0,1.9,3.7,2.9,4.4,2.8,2.5
+1127,31-45,High School,<30k,Urban,None,4.4,3.4,3.3,4.1,5.0,2.1,2.6
+1128,31-45,Bachelor's,<30k,Urban,None,2.0,2.1,3.2,2.8,4.1,3.3,3.3
+1129,31-45,Some College,<30k,Rural,None,3.0,3.1,4.4,4.3,4.4,3.4,3.9
+1130,31-45,Some College,60k-100k,Suburban,Seen,5.0,3.9,4.8,4.3,5.0,3.5,3.5
+1131,31-45,Some College,30k-60k,Urban,None,3.4,3.4,4.8,4.4,4.2,3.2,2.2
+1132,31-45,Bachelor's,30k-60k,Rural,None,3.8,3.5,3.1,2.8,4.0,3.0,2.6
+1133,31-45,Some College,100k-150k,Suburban,Interacted,3.9,3.9,4.0,3.6,4.3,3.2,3.5
+1134,31-45,Graduate Degree,30k-60k,Suburban,Seen,3.2,3.4,3.2,3.4,4.2,2.8,3.1
+1135,31-45,Graduate Degree,30k-60k,Urban,None,3.0,2.8,4.3,4.1,2.5,3.1,2.9
+1136,31-45,High School,100k-150k,Urban,None,3.4,3.0,4.5,3.4,3.9,3.8,2.9
+1137,31-45,Some College,60k-100k,Urban,Seen,3.7,3.8,3.5,4.0,3.9,2.5,2.9
+1138,31-45,High School,>150k,Suburban,None,3.6,2.9,4.2,3.5,4.1,3.7,3.4
+1139,31-45,Graduate Degree,60k-100k,Suburban,Interacted,4.4,3.7,3.3,3.3,3.9,2.8,1.9
+1140,31-45,Some College,<30k,Suburban,Interacted,3.2,3.9,4.0,3.7,4.9,3.2,2.4
+1141,31-45,Bachelor's,100k-150k,Suburban,Interacted,4.1,3.3,3.9,3.8,4.1,3.4,3.5
+1142,31-45,High School,60k-100k,Urban,Interacted,4.9,4.4,3.4,4.1,4.7,2.7,2.4
+1143,31-45,Graduate Degree,100k-150k,Rural,None,3.0,2.5,4.2,3.8,4.9,3.0,2.7
+1144,31-45,High School,100k-150k,Urban,None,3.7,2.4,3.3,3.2,3.9,2.3,3.1
+1145,31-45,Bachelor's,<30k,Urban,Seen,3.2,3.5,4.6,2.9,4.2,2.3,1.6
+1146,31-45,Graduate Degree,30k-60k,Suburban,None,3.2,2.8,3.4,4.5,4.1,3.1,2.3
+1147,31-45,Some College,<30k,Suburban,Seen,3.4,3.3,4.7,2.5,4.3,3.1,2.7
+1148,31-45,Some College,30k-60k,Urban,None,3.3,3.5,4.3,4.0,4.0,3.6,3.4
+1149,31-45,Bachelor's,30k-60k,Suburban,Seen,3.2,3.9,4.3,3.0,4.1,3.6,2.8
+1150,31-45,Graduate Degree,30k-60k,Suburban,None,4.3,2.9,3.2,3.3,4.3,3.2,2.7
+1151,31-45,Bachelor's,100k-150k,Urban,Seen,3.4,3.5,3.8,4.1,4.6,3.9,2.6
+1152,31-45,Bachelor's,60k-100k,Urban,Interacted,5.0,4.0,4.4,3.5,4.5,3.6,2.9
+1153,31-45,Bachelor's,60k-100k,Rural,Seen,4.7,3.7,3.2,3.6,4.3,2.5,1.9
+1154,31-45,High School,60k-100k,Suburban,None,3.8,3.2,3.9,4.2,4.1,2.9,2.4
+1155,31-45,High School,>150k,Urban,Seen,2.9,2.5,4.4,2.5,4.0,3.2,3.6
+1156,31-45,Bachelor's,>150k,Urban,Seen,4.0,2.8,3.4,4.1,4.7,3.2,3.6
+1157,31-45,Bachelor's,100k-150k,Suburban,None,4.3,3.1,4.0,3.1,4.1,3.0,2.6
+1158,31-45,High School,<30k,Suburban,Seen,3.8,3.9,3.6,3.4,3.6,3.0,3.3
+1159,31-45,Some College,100k-150k,Urban,Seen,4.4,3.6,3.9,3.4,4.9,3.1,2.7
+1160,31-45,Graduate Degree,100k-150k,Rural,Seen,3.3,3.7,5.0,4.1,3.8,2.7,2.5
+1161,31-45,Some College,30k-60k,Suburban,None,3.8,3.5,4.5,3.1,4.1,2.7,2.8
+1162,31-45,Bachelor's,30k-60k,Urban,Seen,3.4,2.8,3.0,3.1,4.2,2.8,2.9
+1163,31-45,High School,<30k,Rural,Seen,4.8,3.6,4.6,3.2,3.5,3.3,2.8
+1164,31-45,Graduate Degree,100k-150k,Rural,None,3.8,3.3,4.4,2.2,5.0,3.3,3.0
+1165,31-45,Bachelor's,30k-60k,Suburban,Seen,3.2,2.6,3.5,3.2,4.8,4.0,2.6
+1166,31-45,Bachelor's,>150k,Urban,None,3.8,3.1,3.9,3.6,3.5,2.7,3.3
+1167,31-45,Graduate Degree,30k-60k,Urban,Seen,4.6,4.2,4.0,4.6,4.4,3.4,2.3
+1168,31-45,Some College,60k-100k,Urban,Interacted,3.0,2.9,3.5,3.9,4.8,3.2,2.1
+1169,31-45,Some College,<30k,Rural,Seen,2.9,3.6,3.8,3.6,4.9,2.5,3.5
+1170,31-45,High School,60k-100k,Urban,Interacted,3.0,4.0,4.4,3.7,4.0,2.5,1.6
+1171,31-45,Some College,<30k,Suburban,Interacted,1.3,3.7,2.8,4.1,4.4,4.0,3.4
+1172,31-45,Some College,<30k,Urban,Seen,4.3,3.9,4.4,4.1,4.4,2.5,2.6
+1173,31-45,Graduate Degree,60k-100k,Suburban,None,3.6,3.1,3.9,3.4,4.2,2.7,1.8
+1174,31-45,Some College,100k-150k,Urban,Interacted,3.7,3.6,3.9,4.2,4.5,3.5,1.9
+1175,31-45,High School,30k-60k,Rural,None,5.0,3.6,4.2,2.7,3.5,1.9,2.2
+1176,31-45,Bachelor's,<30k,Urban,Seen,4.6,3.6,3.4,3.9,3.9,3.3,3.6
+1177,31-45,Bachelor's,100k-150k,Suburban,Interacted,3.3,4.5,3.5,4.8,4.1,3.6,2.6
+1178,31-45,Graduate Degree,30k-60k,Suburban,None,4.0,3.0,3.7,5.0,5.0,3.0,2.8
+1179,31-45,High School,100k-150k,Rural,Seen,3.5,3.1,3.8,2.8,4.4,2.9,3.6
+1180,31-45,Graduate Degree,<30k,Suburban,Seen,4.8,3.6,4.6,4.3,4.2,3.2,2.8
+1181,31-45,Some College,100k-150k,Suburban,Seen,3.4,3.0,3.8,2.7,3.6,3.0,2.2
+1182,31-45,Some College,100k-150k,Suburban,Interacted,5.0,3.9,3.5,3.8,4.6,3.6,3.4
+1183,31-45,High School,100k-150k,Suburban,Interacted,3.6,3.3,4.2,3.3,4.6,3.4,2.8
+1184,31-45,Bachelor's,<30k,Urban,None,3.3,2.7,4.0,4.8,4.0,2.9,2.6
+1185,31-45,High School,30k-60k,Suburban,Interacted,3.6,3.8,4.5,3.5,3.9,3.3,2.8
+1186,31-45,Graduate Degree,30k-60k,Urban,None,4.0,3.3,3.8,3.3,4.0,2.9,2.6
+1187,31-45,Some College,30k-60k,Urban,Interacted,3.5,2.8,3.6,3.6,3.6,2.9,2.3
+1188,31-45,Some College,<30k,Urban,Interacted,4.1,4.2,3.6,4.2,4.4,3.1,2.4
+1189,31-45,Bachelor's,60k-100k,Rural,None,4.4,3.5,4.0,3.9,3.6,3.6,2.0
+1190,31-45,Bachelor's,100k-150k,Suburban,Seen,5.0,4.1,3.7,3.0,3.7,3.2,2.4
+1191,31-45,Graduate Degree,<30k,Suburban,Interacted,4.2,4.7,3.5,3.6,4.3,3.8,3.4
+1192,31-45,Bachelor's,60k-100k,Urban,Interacted,3.8,4.1,2.8,4.5,4.9,3.5,3.5
+1193,31-45,Bachelor's,<30k,Urban,Interacted,3.1,4.5,4.2,4.2,4.2,2.8,3.5
+1194,31-45,Some College,30k-60k,Urban,Interacted,3.8,4.2,3.4,3.8,4.1,2.5,2.0
+1195,31-45,Some College,>150k,Rural,None,3.4,3.3,3.7,3.1,4.2,3.2,2.2
+1196,31-45,Bachelor's,>150k,Suburban,Seen,4.2,2.4,3.5,4.0,4.1,2.4,3.0
+1197,31-45,Graduate Degree,>150k,Urban,None,3.7,3.0,3.7,3.7,3.8,3.0,2.6
+1198,31-45,Some College,100k-150k,Suburban,Interacted,3.3,2.6,4.1,3.3,5.0,2.9,3.6
+1199,31-45,Bachelor's,>150k,Urban,None,3.6,3.5,3.5,3.7,4.7,3.1,3.1
+1200,31-45,Bachelor's,<30k,Urban,Interacted,3.7,4.0,3.9,3.1,4.0,1.4,2.5
+1201,31-45,Bachelor's,>150k,Rural,Seen,3.4,4.0,3.8,3.0,3.6,2.3,3.3
+1202,31-45,Graduate Degree,<30k,Suburban,Seen,3.5,3.8,2.5,3.4,4.4,2.4,3.1
+1203,31-45,Some College,60k-100k,Urban,Interacted,5.0,3.4,3.5,2.9,4.4,2.0,3.5
+1204,31-45,High School,100k-150k,Suburban,Interacted,3.5,3.7,4.3,3.4,3.4,4.7,2.7
+1205,31-45,Bachelor's,<30k,Suburban,Seen,3.5,3.4,3.7,4.3,4.3,3.3,2.2
+1206,31-45,Graduate Degree,30k-60k,Urban,None,3.3,3.1,4.1,3.7,4.4,2.9,2.6
+1207,31-45,Some College,30k-60k,Suburban,None,5.0,3.4,4.0,3.1,4.3,2.9,2.4
+1208,31-45,Some College,100k-150k,Suburban,None,4.7,3.3,3.7,4.0,4.8,4.0,2.9
+1209,31-45,Bachelor's,60k-100k,Suburban,Seen,3.8,2.8,3.6,3.9,4.9,2.8,3.3
+1210,31-45,Graduate Degree,30k-60k,Suburban,None,4.0,3.5,3.1,3.1,3.7,2.7,3.0
+1211,31-45,High School,60k-100k,Suburban,None,5.0,4.0,3.5,3.3,5.0,2.7,3.1
+1212,31-45,Bachelor's,100k-150k,Urban,Seen,4.0,2.8,4.2,3.8,4.7,3.2,3.4
+1213,31-45,Some College,60k-100k,Suburban,Seen,4.7,3.1,4.0,4.2,3.7,3.4,2.5
+1214,31-45,Some College,<30k,Suburban,Seen,3.9,3.4,3.9,3.1,5.0,3.6,2.8
+1215,31-45,High School,<30k,Urban,Seen,3.6,3.1,3.5,4.4,4.2,3.6,2.9
+1216,31-45,Bachelor's,>150k,Urban,None,3.3,2.6,3.3,3.5,4.4,3.4,3.3
+1217,31-45,High School,30k-60k,Urban,Interacted,4.1,3.0,3.8,3.6,4.6,3.2,4.3
+1218,31-45,High School,30k-60k,Urban,Interacted,3.4,3.1,3.7,2.8,4.4,2.5,2.9
+1219,31-45,Bachelor's,<30k,Urban,Interacted,3.8,4.0,4.0,3.6,4.3,3.7,3.2
+1220,31-45,High School,<30k,Rural,Seen,3.5,4.0,4.8,3.5,4.7,3.2,3.3
+1221,31-45,High School,30k-60k,Suburban,None,5.0,3.6,3.3,3.8,4.3,2.4,1.6
+1222,31-45,Bachelor's,60k-100k,Urban,Seen,3.6,3.7,4.6,4.2,4.3,3.1,2.7
+1223,31-45,Some College,>150k,Urban,None,4.5,3.4,3.8,4.2,4.8,3.1,2.4
+1224,31-45,Graduate Degree,100k-150k,Rural,None,4.0,4.1,3.6,3.8,4.7,3.8,2.6
+1225,31-45,High School,>150k,Suburban,None,4.5,3.2,4.5,3.0,3.7,3.4,2.5
+1226,31-45,Bachelor's,>150k,Suburban,None,3.7,2.4,3.2,3.8,3.8,3.5,2.5
+1227,31-45,Some College,30k-60k,Suburban,None,2.6,2.9,2.9,2.7,3.2,3.2,2.4
+1228,31-45,Bachelor's,60k-100k,Suburban,None,3.3,4.0,3.2,4.3,2.8,2.9,3.5
+1229,31-45,Some College,100k-150k,Urban,Seen,4.1,3.2,3.2,3.4,3.6,2.8,3.5
+1230,31-45,Graduate Degree,60k-100k,Urban,Interacted,4.7,4.0,4.4,4.0,4.6,2.7,3.1
+1231,31-45,Some College,60k-100k,Suburban,None,4.5,3.5,3.6,4.1,3.7,3.2,3.4
+1232,31-45,Some College,<30k,Urban,Seen,4.2,4.2,3.7,3.5,3.5,3.8,2.5
+1233,31-45,High School,>150k,Suburban,None,4.6,3.6,4.0,3.0,3.0,2.6,2.7
+1234,31-45,Some College,<30k,Suburban,Seen,3.7,3.4,4.1,3.1,4.3,3.1,2.7
+1235,31-45,High School,30k-60k,Suburban,Seen,3.6,4.2,3.7,4.4,3.9,3.1,2.7
+1236,31-45,Bachelor's,30k-60k,Urban,None,4.1,3.5,4.0,3.4,4.8,3.1,3.7
+1237,31-45,Graduate Degree,60k-100k,Suburban,None,3.7,4.6,3.9,3.7,3.7,3.0,2.3
+1238,31-45,Some College,<30k,Rural,None,2.7,2.9,3.9,4.0,4.4,3.8,2.5
+1239,31-45,High School,30k-60k,Urban,Seen,3.4,3.8,2.9,2.6,4.5,2.2,3.0
+1240,31-45,Bachelor's,100k-150k,Suburban,Seen,4.9,3.5,2.9,2.9,5.0,3.9,2.8
+1241,31-45,Some College,30k-60k,Urban,Interacted,3.0,3.1,3.1,3.7,5.0,4.2,3.1
+1242,31-45,Some College,>150k,Urban,Seen,4.5,3.9,4.2,3.6,5.0,3.4,3.2
+1243,31-45,Graduate Degree,60k-100k,Urban,None,3.5,3.2,4.5,3.4,3.7,3.3,2.9
+1244,31-45,Bachelor's,60k-100k,Urban,None,2.6,2.9,3.0,3.4,3.9,3.3,2.0
+1245,31-45,High School,<30k,Rural,Interacted,4.3,3.3,4.3,3.7,4.2,3.7,2.3
+1246,31-45,Bachelor's,<30k,Suburban,None,4.2,3.4,4.3,4.2,3.5,2.0,2.7
+1247,31-45,High School,>150k,Suburban,Seen,1.9,3.5,3.6,4.3,4.7,3.1,3.3
+1248,31-45,Bachelor's,<30k,Urban,None,5.0,3.5,4.2,3.7,3.1,3.3,3.0
+1249,31-45,High School,60k-100k,Urban,None,4.1,3.6,3.6,3.7,4.0,3.0,2.3
+1250,31-45,High School,>150k,Suburban,None,3.5,4.2,3.1,3.6,4.0,3.0,2.4
+1251,31-45,Some College,<30k,Urban,Seen,5.0,4.6,3.9,3.2,3.6,2.8,2.5
+1252,31-45,Some College,30k-60k,Suburban,Seen,3.7,3.0,3.0,3.4,4.2,3.2,2.1
+1253,31-45,Bachelor's,<30k,Suburban,Seen,5.0,3.8,4.0,3.8,4.5,3.6,3.5
+1254,31-45,Bachelor's,<30k,Urban,Seen,3.5,3.5,3.5,3.5,5.0,2.9,3.3
+1255,31-45,High School,30k-60k,Urban,Seen,3.3,3.3,4.1,4.1,5.0,2.8,3.0
+1256,31-45,Bachelor's,30k-60k,Suburban,Seen,3.5,1.8,3.1,3.3,3.6,3.7,1.5
+1257,31-45,Some College,<30k,Urban,Seen,3.4,3.4,4.0,3.0,3.9,3.3,2.9
+1258,31-45,Bachelor's,30k-60k,Urban,None,4.1,2.0,3.7,3.3,4.2,3.1,3.6
+1259,31-45,High School,60k-100k,Rural,None,3.4,4.2,3.7,3.5,3.8,2.7,3.4
+1260,31-45,Some College,30k-60k,Urban,Seen,3.9,3.9,4.1,2.4,4.0,3.4,3.2
+1261,31-45,Graduate Degree,<30k,Suburban,Interacted,3.6,4.2,4.4,3.8,4.1,2.9,3.3
+1262,31-45,Graduate Degree,<30k,Suburban,None,4.7,2.6,3.6,3.7,4.6,3.0,2.3
+1263,31-45,Some College,<30k,Rural,Seen,3.3,2.6,3.0,5.0,4.5,2.8,3.2
+1264,31-45,Bachelor's,60k-100k,Rural,Seen,4.6,3.9,3.8,3.4,4.5,3.4,3.4
+1265,31-45,Bachelor's,30k-60k,Suburban,None,4.8,3.2,3.4,3.4,3.5,3.4,2.0
+1266,31-45,Some College,30k-60k,Suburban,Seen,5.0,3.9,4.5,3.9,4.1,3.1,3.2
+1267,31-45,Bachelor's,100k-150k,Suburban,None,3.9,3.6,4.1,4.1,3.7,3.7,2.9
+1268,31-45,Some College,>150k,Suburban,Seen,4.3,3.7,3.2,3.4,3.5,2.8,2.9
+1269,31-45,Graduate Degree,<30k,Rural,Seen,4.1,3.4,3.4,4.0,4.6,2.7,3.5
+1270,31-45,Bachelor's,60k-100k,Urban,Seen,4.8,3.8,4.0,3.7,4.4,3.9,3.2
+1271,31-45,High School,30k-60k,Suburban,None,4.7,2.8,3.9,3.5,3.4,2.7,2.6
+1272,31-45,Bachelor's,<30k,Suburban,None,4.4,3.5,4.0,4.0,4.3,3.8,2.5
+1273,31-45,Some College,30k-60k,Rural,Seen,4.6,3.4,3.7,3.7,3.6,2.9,3.5
+1274,31-45,Bachelor's,100k-150k,Suburban,None,3.9,3.5,3.8,3.5,4.5,2.9,3.2
+1275,31-45,High School,30k-60k,Suburban,None,4.9,4.1,3.5,4.1,3.2,2.6,2.9
+1276,31-45,High School,100k-150k,Urban,Seen,2.9,2.6,4.6,3.7,4.2,2.6,3.3
+1277,31-45,Bachelor's,60k-100k,Rural,None,1.8,2.0,4.4,3.1,3.9,3.3,2.6
+1278,31-45,Bachelor's,30k-60k,Suburban,Seen,3.5,3.7,3.2,3.8,4.6,2.8,2.9
+1279,31-45,Bachelor's,>150k,Suburban,Interacted,5.0,3.9,3.6,4.6,4.2,2.5,2.3
+1280,31-45,Some College,30k-60k,Urban,Seen,3.7,2.7,2.8,2.9,4.4,3.1,3.0
+1281,31-45,Graduate Degree,<30k,Suburban,Seen,3.4,3.7,3.2,3.8,4.0,3.7,3.2
+1282,31-45,Bachelor's,60k-100k,Suburban,Seen,4.1,4.4,3.9,3.4,4.3,2.7,2.8
+1283,31-45,Graduate Degree,<30k,Suburban,None,4.0,3.2,4.1,3.1,4.7,3.6,3.0
+1284,31-45,Bachelor's,30k-60k,Urban,Seen,3.5,3.3,3.5,2.6,4.8,3.7,2.6
+1285,31-45,High School,100k-150k,Rural,Interacted,4.3,3.7,3.3,4.4,4.3,3.3,3.0
+1286,31-45,High School,30k-60k,Suburban,Seen,3.7,3.1,2.6,3.9,4.5,2.7,2.8
+1287,31-45,Some College,60k-100k,Urban,None,5.0,3.2,3.9,4.3,4.3,2.9,2.9
+1288,31-45,Bachelor's,>150k,Urban,Interacted,5.0,4.5,3.8,3.9,4.1,3.6,2.2
+1289,31-45,Some College,30k-60k,Urban,Seen,4.9,3.5,4.2,4.1,4.8,3.8,2.8
+1290,31-45,High School,30k-60k,Suburban,Seen,3.1,2.8,3.6,2.9,4.3,2.8,3.1
+1291,31-45,Some College,30k-60k,Urban,None,3.5,2.6,4.3,3.6,4.7,3.2,2.6
+1292,31-45,Bachelor's,100k-150k,Suburban,None,3.5,2.9,5.0,3.6,4.5,3.2,2.1
+1293,31-45,High School,30k-60k,Urban,None,4.1,3.0,3.8,3.6,5.0,3.5,2.4
+1294,31-45,Bachelor's,60k-100k,Urban,Interacted,3.1,3.2,3.6,3.8,4.2,3.7,3.0
+1295,31-45,Bachelor's,60k-100k,Suburban,Interacted,3.5,3.9,4.8,4.6,3.7,3.6,3.2
+1296,31-45,Bachelor's,>150k,Urban,None,2.2,2.6,2.9,4.3,4.1,3.4,3.2
+1297,31-45,Bachelor's,100k-150k,Rural,Interacted,5.0,4.1,3.7,3.2,4.4,3.1,2.4
+1298,31-45,High School,100k-150k,Suburban,None,4.2,3.6,3.6,2.5,3.5,2.9,3.1
+1299,31-45,High School,<30k,Urban,Seen,2.6,2.4,4.2,3.3,4.6,2.6,2.5
+1300,31-45,High School,30k-60k,Urban,Seen,3.4,3.4,3.3,4.2,4.5,2.9,2.8
+1301,31-45,Bachelor's,60k-100k,Urban,Seen,3.4,3.7,3.5,4.2,4.6,3.2,3.3
+1302,31-45,Bachelor's,>150k,Urban,Interacted,3.1,3.6,4.2,3.8,4.1,3.4,2.3
+1303,31-45,Some College,60k-100k,Suburban,Seen,3.0,2.2,4.2,4.4,3.2,3.1,2.7
+1304,31-45,High School,60k-100k,Suburban,Seen,5.0,3.7,3.0,4.4,3.8,2.8,2.7
+1305,31-45,Some College,30k-60k,Suburban,Interacted,4.8,3.1,3.9,2.5,3.5,2.7,2.4
+1306,31-45,Bachelor's,>150k,Suburban,None,4.8,3.5,3.1,4.5,4.1,2.8,2.9
+1307,31-45,Some College,30k-60k,Rural,Interacted,2.4,3.5,4.0,4.2,3.9,2.9,3.0
+1308,31-45,Bachelor's,60k-100k,Urban,Interacted,4.0,4.1,3.2,3.3,4.1,3.3,2.7
+1309,31-45,High School,>150k,Urban,None,3.5,2.5,3.2,4.1,5.0,2.5,2.0
+1310,31-45,Graduate Degree,100k-150k,Suburban,Seen,4.5,3.5,3.2,4.0,3.9,2.9,2.5
+1311,31-45,High School,<30k,Suburban,Seen,3.6,3.4,4.1,2.9,3.1,2.3,2.6
+1312,31-45,Bachelor's,30k-60k,Suburban,Seen,3.6,3.2,3.5,3.9,4.3,3.3,3.5
+1313,31-45,Some College,60k-100k,Urban,Seen,3.5,3.8,3.9,3.5,4.0,2.2,2.9
+1314,31-45,Some College,>150k,Rural,None,3.9,3.0,3.9,4.1,4.3,2.6,2.1
+1315,31-45,Bachelor's,100k-150k,Urban,None,4.0,3.7,3.2,3.6,3.7,3.3,2.7
+1316,31-45,Some College,<30k,Suburban,Seen,3.5,3.8,3.6,2.9,4.5,2.7,2.9
+1317,31-45,Some College,<30k,Suburban,Seen,3.2,3.6,2.7,4.7,3.2,3.1,3.1
+1318,31-45,Some College,60k-100k,Rural,Seen,3.2,2.5,3.3,3.7,3.9,3.2,3.3
+1319,31-45,Bachelor's,100k-150k,Urban,None,3.3,2.9,3.7,3.4,3.8,2.7,2.5
+1320,31-45,High School,>150k,Suburban,None,4.2,2.6,3.6,3.6,4.3,2.9,3.4
+1321,46-60,Bachelor's,100k-150k,Rural,None,3.7,3.6,3.1,4.3,4.4,4.3,3.0
+1322,46-60,High School,30k-60k,Urban,None,2.5,2.6,3.0,3.7,4.4,4.2,3.0
+1323,46-60,Bachelor's,<30k,Urban,Seen,3.2,2.8,2.4,4.4,4.6,4.9,3.0
+1324,46-60,Bachelor's,100k-150k,Suburban,Seen,2.5,3.3,3.0,4.0,4.6,4.6,3.3
+1325,46-60,Bachelor's,30k-60k,Suburban,Seen,3.9,3.4,2.0,4.2,4.9,4.1,4.2
+1326,46-60,Bachelor's,<30k,Urban,Seen,2.2,3.1,3.8,4.7,4.8,4.0,3.6
+1327,46-60,Graduate Degree,30k-60k,Suburban,None,3.9,3.3,4.4,4.6,4.8,3.9,3.5
+1328,46-60,Bachelor's,60k-100k,Rural,None,1.9,2.9,3.1,4.1,4.6,3.5,3.2
+1329,46-60,High School,30k-60k,Urban,None,4.1,4.0,3.3,4.3,4.6,4.2,2.9
+1330,46-60,Some College,60k-100k,Suburban,Interacted,3.6,4.2,3.1,4.6,4.4,3.2,3.1
+1331,46-60,Bachelor's,60k-100k,Urban,Seen,4.5,4.0,3.4,4.9,4.2,3.8,3.0
+1332,46-60,High School,60k-100k,Suburban,None,4.2,3.7,3.3,4.4,5.0,4.6,3.5
+1333,46-60,Some College,>150k,Urban,Seen,4.0,3.4,3.2,4.2,4.5,3.9,3.0
+1334,46-60,Bachelor's,>150k,Rural,None,2.5,3.0,3.1,4.2,4.7,3.7,3.1
+1335,46-60,High School,>150k,Suburban,Seen,3.9,4.3,3.3,4.9,4.8,4.3,3.2
+1336,46-60,Some College,100k-150k,Rural,Seen,3.5,3.4,3.6,3.1,4.5,4.5,3.2
+1337,46-60,Some College,<30k,Suburban,None,2.9,2.3,3.0,3.3,4.4,3.3,2.9
+1338,46-60,High School,100k-150k,Suburban,None,3.6,3.6,2.7,4.0,3.9,5.0,3.6
+1339,46-60,Graduate Degree,30k-60k,Suburban,None,3.0,3.0,1.9,3.9,4.9,4.0,3.1
+1340,46-60,Graduate Degree,30k-60k,Urban,None,3.8,3.5,3.2,4.6,5.0,4.3,3.0
+1341,46-60,Bachelor's,30k-60k,Suburban,Seen,2.7,3.9,2.3,4.0,4.6,3.9,3.3
+1342,46-60,Some College,30k-60k,Suburban,Seen,3.9,3.3,4.0,4.5,4.6,4.9,2.8
+1343,46-60,Graduate Degree,>150k,Rural,None,3.7,3.2,3.5,3.5,5.0,3.1,3.3
+1344,46-60,Some College,<30k,Suburban,Seen,3.3,3.3,3.6,4.6,4.5,4.5,3.9
+1345,46-60,Graduate Degree,60k-100k,Rural,None,4.4,3.0,4.1,4.5,4.7,3.6,3.6
+1346,46-60,Graduate Degree,>150k,Urban,None,1.6,2.5,3.6,4.2,4.8,3.4,3.8
+1347,46-60,Some College,60k-100k,Urban,None,3.8,3.1,3.4,4.5,3.9,3.3,2.9
+1348,46-60,High School,60k-100k,Urban,Seen,5.0,3.8,3.4,4.5,5.0,4.7,3.0
+1349,46-60,Some College,30k-60k,Suburban,None,3.5,2.7,2.2,3.7,5.0,4.4,3.1
+1350,46-60,High School,<30k,Rural,Seen,3.9,3.8,3.1,4.1,4.7,4.6,3.0
+1351,46-60,High School,100k-150k,Rural,None,3.9,3.9,4.1,4.7,4.0,3.1,3.3
+1352,46-60,High School,30k-60k,Suburban,Seen,3.7,4.1,3.5,4.5,4.0,4.4,2.9
+1353,46-60,High School,60k-100k,Rural,Seen,4.3,3.0,3.0,4.4,4.9,3.6,3.0
+1354,46-60,Graduate Degree,60k-100k,Suburban,None,4.8,4.4,2.8,5.0,4.0,3.1,2.6
+1355,46-60,Some College,<30k,Urban,Seen,3.9,3.0,4.1,3.7,4.2,3.6,1.8
+1356,46-60,Bachelor's,100k-150k,Rural,Seen,4.2,3.0,3.6,4.2,4.7,4.1,3.3
+1357,46-60,Bachelor's,>150k,Suburban,None,4.5,3.0,3.2,4.4,4.9,2.9,3.7
+1358,46-60,Some College,30k-60k,Urban,None,4.1,3.3,3.8,3.8,4.7,4.0,3.1
+1359,46-60,High School,60k-100k,Urban,None,3.8,4.0,3.0,4.8,4.9,3.7,3.2
+1360,46-60,Some College,30k-60k,Urban,Seen,3.7,2.8,2.6,5.0,4.9,3.1,2.3
+1361,46-60,Some College,>150k,Urban,None,4.8,4.0,3.5,5.0,5.0,3.9,2.6
+1362,46-60,High School,30k-60k,Suburban,None,2.6,1.8,2.4,4.5,4.6,4.6,3.4
+1363,46-60,Graduate Degree,100k-150k,Urban,None,4.6,3.6,3.2,3.6,4.5,4.2,3.9
+1364,46-60,Some College,>150k,Suburban,Interacted,4.5,3.4,3.9,3.9,5.0,3.3,3.6
+1365,46-60,Some College,60k-100k,Urban,Seen,4.3,3.2,2.6,5.0,3.8,4.3,3.6
+1366,46-60,Bachelor's,60k-100k,Suburban,Interacted,4.2,3.4,2.7,3.8,5.0,3.2,2.9
+1367,46-60,High School,>150k,Suburban,Seen,3.9,3.3,3.8,4.2,4.2,4.3,3.1
+1368,46-60,Bachelor's,30k-60k,Urban,None,4.5,2.5,3.4,3.7,4.6,3.4,3.6
+1369,46-60,Some College,30k-60k,Suburban,None,2.9,3.1,2.8,3.4,3.5,4.3,2.2
+1370,46-60,Some College,>150k,Urban,Interacted,3.1,3.4,3.2,3.5,4.1,3.8,2.8
+1371,46-60,Some College,100k-150k,Urban,Interacted,2.4,2.7,3.6,5.0,3.8,3.7,3.8
+1372,46-60,High School,100k-150k,Urban,Seen,4.4,3.6,2.9,4.2,5.0,4.0,3.7
+1373,46-60,Bachelor's,<30k,Urban,Seen,5.0,3.4,3.5,4.5,5.0,4.8,2.7
+1374,46-60,Graduate Degree,100k-150k,Suburban,None,2.7,3.7,3.4,3.9,4.4,4.8,2.7
+1375,46-60,Bachelor's,100k-150k,Urban,None,3.8,3.2,4.0,4.1,5.0,4.2,3.3
+1376,46-60,High School,<30k,Urban,None,4.2,3.9,2.9,4.2,4.8,4.2,4.3
+1377,46-60,High School,100k-150k,Suburban,None,2.8,2.7,3.7,4.3,4.6,4.3,2.7
+1378,46-60,Graduate Degree,60k-100k,Suburban,Seen,4.6,4.0,3.3,4.3,4.3,4.1,4.1
+1379,46-60,Some College,100k-150k,Urban,None,3.2,3.8,2.5,3.5,4.9,4.5,4.2
+1380,46-60,Bachelor's,30k-60k,Suburban,Seen,3.9,2.8,3.9,4.3,4.6,4.0,2.5
+1381,46-60,Some College,60k-100k,Urban,None,3.7,3.3,3.2,4.0,4.1,3.6,3.0
+1382,46-60,Bachelor's,30k-60k,Rural,Seen,2.5,3.3,3.5,5.0,4.3,4.8,3.2
+1383,46-60,High School,60k-100k,Suburban,Seen,3.3,3.5,3.1,3.9,5.0,3.9,3.1
+1384,46-60,Some College,100k-150k,Suburban,Interacted,3.5,3.2,3.7,4.5,4.6,3.8,3.4
+1385,46-60,High School,<30k,Urban,Seen,3.0,3.3,4.6,4.5,4.0,4.2,3.4
+1386,46-60,Some College,60k-100k,Urban,Interacted,3.7,3.5,3.5,3.7,5.0,3.1,3.8
+1387,46-60,Graduate Degree,60k-100k,Urban,Seen,5.0,4.7,3.0,4.6,4.2,3.4,3.9
+1388,46-60,Some College,100k-150k,Urban,None,3.3,3.2,3.2,4.6,5.0,3.8,4.2
+1389,46-60,Graduate Degree,<30k,Urban,None,3.7,3.2,4.0,4.6,4.6,4.1,4.0
+1390,46-60,Graduate Degree,>150k,Rural,None,3.0,2.3,2.2,3.9,4.2,3.6,2.3
+1391,46-60,Bachelor's,100k-150k,Suburban,Seen,4.5,4.3,4.4,4.8,5.0,4.1,3.2
+1392,46-60,Some College,60k-100k,Rural,Interacted,4.2,4.5,3.3,4.4,3.8,3.6,3.5
+1393,46-60,High School,30k-60k,Suburban,Seen,3.8,4.1,2.7,5.0,4.6,4.4,2.8
+1394,46-60,High School,60k-100k,Urban,None,2.1,3.2,3.3,4.5,5.0,4.6,3.6
+1395,46-60,Bachelor's,>150k,Urban,Seen,2.9,2.3,2.7,3.5,4.2,3.8,1.2
+1396,46-60,Bachelor's,100k-150k,Rural,None,3.6,3.1,3.8,4.0,4.6,3.4,3.0
+1397,46-60,High School,>150k,Suburban,None,4.2,3.5,3.6,4.6,4.8,4.0,3.2
+1398,46-60,Bachelor's,>150k,Urban,Seen,4.9,3.8,3.0,4.2,4.6,3.7,3.1
+1399,46-60,High School,60k-100k,Urban,Seen,4.8,3.8,3.2,3.8,4.7,3.5,4.3
+1400,46-60,Bachelor's,60k-100k,Urban,Seen,5.0,4.3,3.0,5.0,5.0,4.2,3.6
+1401,46-60,Bachelor's,60k-100k,Urban,None,2.4,2.3,3.6,4.2,4.6,3.9,3.0
+1402,46-60,Some College,30k-60k,Suburban,Seen,4.3,3.7,2.7,4.0,5.0,4.2,2.6
+1403,46-60,High School,100k-150k,Suburban,Seen,2.5,3.3,2.8,4.4,3.9,3.7,3.2
+1404,46-60,Bachelor's,60k-100k,Urban,Seen,4.2,4.7,3.6,4.3,4.8,3.5,2.8
+1405,46-60,High School,100k-150k,Suburban,None,4.4,3.3,2.9,4.4,4.9,3.8,3.0
+1406,46-60,Some College,60k-100k,Rural,Seen,3.8,3.1,2.6,4.0,4.5,4.0,3.4
+1407,46-60,Some College,30k-60k,Rural,None,5.0,3.5,3.5,4.8,4.9,3.5,2.9
+1408,46-60,Bachelor's,60k-100k,Urban,Interacted,3.8,4.3,3.2,4.2,4.0,3.5,2.8
+1409,46-60,Bachelor's,<30k,Urban,None,3.3,2.5,2.5,4.3,4.8,3.8,3.3
+1410,46-60,High School,100k-150k,Rural,Interacted,4.2,4.3,3.1,5.0,4.9,4.3,3.8
+1411,46-60,Some College,30k-60k,Suburban,Interacted,4.4,4.5,2.3,4.2,4.9,4.4,2.6
+1412,46-60,Some College,>150k,Suburban,None,3.1,3.1,3.5,3.8,4.1,3.9,2.8
+1413,46-60,Some College,30k-60k,Suburban,Interacted,4.1,4.3,3.8,4.8,4.7,3.7,3.6
+1414,46-60,Graduate Degree,30k-60k,Urban,None,3.3,3.0,3.1,4.4,4.8,3.4,3.3
+1415,46-60,Bachelor's,60k-100k,Urban,None,4.7,3.6,3.1,3.4,5.0,3.7,3.5
+1416,46-60,Some College,30k-60k,Suburban,Seen,5.0,4.5,2.2,4.9,4.6,3.9,3.4
+1417,46-60,High School,60k-100k,Urban,None,2.9,3.0,4.1,5.0,4.6,4.3,3.3
+1418,46-60,High School,30k-60k,Rural,Interacted,4.0,4.5,2.9,4.1,4.7,4.2,2.6
+1419,46-60,Some College,>150k,Suburban,Seen,2.3,2.7,3.0,4.8,5.0,4.4,3.6
+1420,46-60,Some College,60k-100k,Rural,Seen,3.3,3.7,3.0,5.0,4.3,4.6,3.4
+1421,46-60,Some College,>150k,Urban,None,3.9,2.9,3.3,4.3,5.0,3.7,3.2
+1422,46-60,High School,100k-150k,Suburban,Seen,4.1,3.7,2.6,3.6,5.0,4.0,3.1
+1423,46-60,Bachelor's,100k-150k,Suburban,None,3.7,3.4,2.7,5.0,4.7,4.3,2.8
+1424,46-60,Some College,30k-60k,Suburban,None,3.5,2.7,2.3,4.5,4.4,5.0,2.9
+1425,46-60,Some College,100k-150k,Suburban,Seen,4.3,4.1,3.5,3.6,4.6,4.2,3.7
+1426,46-60,Graduate Degree,60k-100k,Suburban,None,3.0,2.8,3.7,4.5,5.0,3.5,3.6
+1427,46-60,Some College,30k-60k,Rural,None,4.5,3.7,3.9,4.6,5.0,3.7,4.0
+1428,46-60,Bachelor's,60k-100k,Rural,Interacted,2.4,3.0,2.3,4.0,5.0,3.1,3.0
+1429,46-60,Bachelor's,100k-150k,Rural,None,2.7,2.6,2.9,5.0,4.1,3.5,3.0
+1430,46-60,Bachelor's,30k-60k,Suburban,Seen,3.9,3.4,2.9,4.2,4.1,3.9,2.7
+1431,46-60,Bachelor's,60k-100k,Urban,Interacted,3.6,3.9,2.8,4.2,5.0,5.0,4.0
+1432,46-60,High School,60k-100k,Urban,None,3.8,3.0,3.5,3.8,5.0,3.1,3.8
+1433,46-60,Graduate Degree,60k-100k,Rural,None,3.1,3.8,3.3,3.8,4.7,4.6,3.3
+1434,46-60,Bachelor's,100k-150k,Suburban,Seen,3.0,2.8,3.6,4.1,3.9,3.9,2.8
+1435,46-60,Some College,60k-100k,Urban,None,2.3,3.2,3.5,4.6,3.9,4.8,3.6
+1436,46-60,Some College,100k-150k,Urban,None,4.7,3.5,3.6,4.5,3.7,3.5,2.3
+1437,46-60,Some College,30k-60k,Urban,None,2.8,2.3,3.4,3.0,4.3,4.1,2.9
+1438,46-60,Bachelor's,30k-60k,Suburban,Interacted,4.9,3.9,2.4,3.6,4.9,4.1,4.1
+1439,46-60,High School,100k-150k,Suburban,Seen,5.0,3.4,3.7,4.4,4.8,4.5,3.0
+1440,46-60,High School,100k-150k,Urban,None,3.8,4.0,3.2,4.5,4.3,4.8,4.0
+1441,46-60,Some College,60k-100k,Suburban,None,3.4,3.2,3.6,4.4,3.8,3.2,3.2
+1442,46-60,Some College,100k-150k,Urban,None,3.3,3.5,3.9,4.6,5.0,4.4,3.7
+1443,46-60,Some College,60k-100k,Urban,None,4.8,3.3,3.7,5.0,4.7,3.7,3.7
+1444,46-60,Some College,30k-60k,Urban,Seen,2.9,3.5,2.8,4.6,5.0,3.2,3.4
+1445,46-60,High School,30k-60k,Urban,None,3.8,3.6,2.6,4.7,4.4,4.5,3.5
+1446,46-60,Bachelor's,30k-60k,Suburban,Seen,3.2,3.6,2.7,4.9,4.3,3.7,4.4
+1447,46-60,Bachelor's,100k-150k,Rural,Seen,4.1,3.9,3.0,5.0,4.6,4.0,2.7
+1448,46-60,Bachelor's,30k-60k,Suburban,None,3.4,2.8,3.6,4.3,4.1,3.5,2.6
+1449,46-60,High School,>150k,Suburban,Seen,3.1,3.2,3.6,3.1,4.9,4.0,2.9
+1450,46-60,High School,<30k,Urban,Interacted,5.0,3.4,3.3,4.1,4.6,3.9,2.8
+1451,46-60,Some College,>150k,Suburban,Seen,3.9,3.6,3.5,4.5,4.4,3.6,2.2
+1452,46-60,High School,60k-100k,Urban,None,3.7,2.9,3.2,4.5,3.6,3.8,3.5
+1453,46-60,High School,30k-60k,Suburban,None,3.3,3.0,3.2,3.9,3.9,4.8,3.8
+1454,46-60,Some College,30k-60k,Urban,Seen,4.5,3.8,2.2,4.7,4.5,3.5,3.4
+1455,46-60,Bachelor's,<30k,Suburban,None,5.0,3.4,3.0,3.4,5.0,3.9,1.8
+1456,46-60,Graduate Degree,30k-60k,Urban,Seen,4.0,3.4,4.4,5.0,5.0,4.9,3.2
+1457,46-60,High School,30k-60k,Urban,None,3.0,2.2,4.2,4.6,5.0,3.9,4.5
+1458,46-60,Bachelor's,<30k,Suburban,Interacted,2.8,4.3,4.0,4.5,4.7,3.9,3.7
+1459,46-60,Some College,>150k,Rural,Seen,4.0,3.9,3.4,3.2,4.8,4.6,3.2
+1460,46-60,Some College,100k-150k,Suburban,Seen,3.7,3.5,3.5,3.8,4.5,4.6,2.9
+1461,46-60,Some College,<30k,Suburban,None,3.5,4.0,3.3,4.5,5.0,5.0,3.3
+1462,46-60,Graduate Degree,100k-150k,Suburban,None,3.9,3.1,3.7,3.8,4.7,4.6,3.1
+1463,46-60,Some College,30k-60k,Urban,Seen,4.5,3.0,2.8,4.9,5.0,3.3,2.2
+1464,46-60,Bachelor's,30k-60k,Urban,Interacted,4.2,4.1,3.6,4.7,5.0,3.9,3.2
+1465,46-60,Some College,60k-100k,Urban,Seen,3.1,3.0,3.0,4.3,4.2,3.8,1.9
+1466,46-60,Some College,100k-150k,Urban,Seen,3.9,3.3,3.2,3.9,5.0,4.7,2.2
+1467,46-60,Graduate Degree,>150k,Suburban,None,4.2,1.8,4.3,4.1,5.0,4.3,3.4
+1468,46-60,Bachelor's,30k-60k,Suburban,Seen,3.2,3.1,3.1,5.0,4.6,4.0,2.3
+1469,46-60,Graduate Degree,100k-150k,Urban,None,4.2,3.2,2.7,4.9,4.8,3.1,3.0
+1470,46-60,Graduate Degree,<30k,Rural,Seen,5.0,4.1,3.3,2.8,4.3,3.5,3.4
+1471,46-60,Some College,60k-100k,Urban,None,4.3,3.5,3.7,4.8,4.7,3.4,4.1
+1472,46-60,Some College,60k-100k,Suburban,Seen,3.9,3.4,2.8,4.0,4.8,4.1,3.2
+1473,46-60,Bachelor's,100k-150k,Urban,None,4.0,3.6,3.5,4.2,4.3,3.8,2.7
+1474,46-60,Graduate Degree,100k-150k,Urban,Seen,4.1,3.2,3.8,5.0,4.3,4.1,3.2
+1475,46-60,Graduate Degree,60k-100k,Urban,Seen,4.0,3.0,2.5,3.7,4.0,3.5,3.6
+1476,46-60,Bachelor's,60k-100k,Rural,Seen,5.0,3.6,2.9,4.2,4.5,5.0,3.6
+1477,46-60,High School,30k-60k,Suburban,None,2.5,2.6,4.1,4.0,3.6,3.6,2.8
+1478,46-60,High School,>150k,Urban,None,2.3,3.6,3.7,4.1,4.1,3.5,3.7
+1479,46-60,High School,30k-60k,Suburban,None,4.7,2.9,2.7,4.4,4.8,3.4,2.9
+1480,46-60,Some College,<30k,Suburban,Seen,3.1,2.9,3.4,4.9,4.4,4.3,3.5
+1481,46-60,Graduate Degree,60k-100k,Suburban,None,3.5,2.5,3.1,4.4,3.7,4.8,2.9
+1482,46-60,Some College,100k-150k,Suburban,Seen,4.7,3.3,3.5,5.0,4.2,5.0,2.7
+1483,46-60,Graduate Degree,>150k,Urban,None,3.5,3.5,2.5,4.2,4.1,4.4,3.5
+1484,46-60,High School,30k-60k,Suburban,Interacted,3.2,4.5,2.5,4.1,4.9,3.6,3.5
+1485,46-60,High School,60k-100k,Urban,None,3.0,3.7,3.0,3.8,4.0,4.2,1.9
+1486,46-60,Bachelor's,100k-150k,Urban,Seen,4.6,3.5,3.0,4.3,4.7,2.8,3.0
+1487,46-60,Bachelor's,>150k,Suburban,Seen,5.0,4.1,2.8,4.3,4.6,3.9,2.8
+1488,46-60,High School,30k-60k,Urban,Seen,4.2,4.4,3.2,4.2,4.4,2.6,3.4
+1489,46-60,High School,30k-60k,Suburban,Interacted,4.2,2.9,2.4,4.0,4.6,4.6,2.7
+1490,46-60,Some College,100k-150k,Suburban,None,4.2,2.9,3.4,5.0,4.1,4.0,3.5
+1491,46-60,High School,100k-150k,Suburban,None,3.5,3.1,2.9,4.2,5.0,3.8,3.2
+1492,46-60,Some College,60k-100k,Suburban,None,4.7,3.3,3.5,4.7,4.7,3.8,3.1
+1493,46-60,Some College,100k-150k,Urban,None,4.2,3.3,3.2,4.6,4.0,4.6,2.9
+1494,46-60,Graduate Degree,100k-150k,Suburban,Seen,3.4,4.4,2.9,3.8,4.7,4.1,3.5
+1495,46-60,Graduate Degree,100k-150k,Suburban,Seen,2.5,2.2,3.9,3.5,3.7,4.6,2.8
+1496,46-60,Some College,100k-150k,Suburban,None,4.2,3.3,4.1,4.2,4.3,4.1,3.4
+1497,46-60,High School,>150k,Urban,None,4.1,2.6,3.2,4.2,4.9,2.8,3.4
+1498,46-60,High School,<30k,Suburban,None,2.7,3.0,2.2,4.4,4.5,3.2,3.3
+1499,46-60,Some College,100k-150k,Suburban,None,2.8,3.2,3.4,3.9,4.9,3.5,1.8
+1500,46-60,High School,30k-60k,Rural,Seen,4.4,4.1,3.6,4.3,4.4,4.3,3.9
+1501,46-60,Bachelor's,100k-150k,Suburban,Interacted,2.8,3.5,2.9,3.1,4.9,4.1,2.8
+1502,46-60,High School,60k-100k,Rural,None,4.6,3.5,3.6,4.6,5.0,4.1,3.1
+1503,46-60,Some College,<30k,Suburban,Seen,4.6,4.0,3.7,3.8,4.6,4.0,3.1
+1504,46-60,Bachelor's,60k-100k,Suburban,Seen,4.5,4.3,3.4,3.8,5.0,4.8,3.0
+1505,46-60,Some College,100k-150k,Urban,Seen,4.1,3.9,3.6,4.5,4.8,4.1,2.8
+1506,46-60,Some College,30k-60k,Urban,Seen,4.4,3.8,3.4,5.0,4.9,4.2,2.7
+1507,46-60,Bachelor's,>150k,Suburban,Seen,4.8,4.7,3.4,4.8,4.3,3.8,2.6
+1508,46-60,Graduate Degree,100k-150k,Suburban,None,3.9,3.5,3.0,3.6,4.3,3.5,3.1
+1509,46-60,High School,30k-60k,Suburban,None,3.4,2.7,2.9,4.3,4.1,4.0,3.1
+1510,46-60,Some College,30k-60k,Urban,Seen,3.5,3.2,3.3,3.9,4.6,3.9,2.9
+1511,46-60,Some College,>150k,Suburban,None,3.0,3.0,3.3,4.4,3.8,4.5,3.5
+1512,46-60,Bachelor's,30k-60k,Urban,None,4.1,3.2,3.3,4.4,3.3,4.6,2.8
+1513,46-60,Some College,30k-60k,Suburban,None,2.6,3.5,3.1,4.2,5.0,3.5,3.7
+1514,46-60,Graduate Degree,30k-60k,Urban,None,4.8,4.0,3.6,4.0,3.7,4.4,2.9
+1515,46-60,Bachelor's,100k-150k,Suburban,None,2.9,2.9,3.4,4.3,3.9,4.1,3.7
+1516,46-60,Some College,60k-100k,Urban,Seen,3.2,2.9,3.4,4.0,4.4,4.6,2.6
+1517,46-60,Bachelor's,60k-100k,Suburban,Seen,2.4,3.2,3.6,4.9,5.0,3.8,3.6
+1518,46-60,Bachelor's,30k-60k,Urban,Seen,3.4,3.4,4.1,4.4,4.3,3.3,3.8
+1519,46-60,High School,60k-100k,Urban,None,3.7,3.6,3.7,4.5,4.5,4.0,4.1
+1520,46-60,High School,<30k,Suburban,Seen,3.1,3.0,3.5,3.9,5.0,4.1,2.9
+1521,46-60,High School,30k-60k,Suburban,None,4.0,2.8,3.2,4.3,4.5,3.6,2.8
+1522,46-60,High School,<30k,Urban,None,3.2,3.6,3.3,4.1,5.0,3.7,2.8
+1523,46-60,Some College,30k-60k,Urban,Seen,3.8,2.9,3.2,4.6,4.9,4.5,2.8
+1524,46-60,Some College,60k-100k,Suburban,Seen,3.8,3.0,3.4,4.9,5.0,3.7,2.7
+1525,46-60,Graduate Degree,60k-100k,Urban,None,3.9,3.6,2.1,3.9,5.0,3.8,3.0
+1526,46-60,High School,<30k,Rural,None,2.3,2.7,3.9,5.0,4.1,4.8,3.2
+1527,46-60,Some College,100k-150k,Suburban,None,3.1,3.5,3.0,4.0,5.0,4.3,2.8
+1528,46-60,High School,<30k,Suburban,Interacted,4.2,3.8,2.4,4.3,5.0,3.4,2.2
+1529,46-60,Bachelor's,30k-60k,Urban,Seen,5.0,4.0,4.3,4.7,5.0,3.8,3.2
+1530,46-60,Bachelor's,>150k,Urban,Seen,3.8,2.9,3.5,4.6,4.4,4.0,2.9
+1531,46-60,High School,<30k,Urban,None,2.8,3.2,2.5,5.0,4.4,3.6,2.6
+1532,46-60,Bachelor's,60k-100k,Rural,Interacted,3.8,4.0,3.7,4.5,5.0,4.5,3.9
+1533,46-60,Some College,100k-150k,Suburban,None,4.9,4.1,2.8,4.6,4.1,3.8,2.4
+1534,46-60,High School,100k-150k,Suburban,Interacted,4.2,3.9,3.0,4.3,4.7,4.5,2.4
+1535,46-60,Graduate Degree,>150k,Suburban,Seen,4.2,3.7,3.2,4.4,4.9,4.3,3.2
+1536,46-60,Bachelor's,30k-60k,Urban,Seen,4.9,3.0,2.8,3.5,5.0,3.4,3.0
+1537,46-60,Some College,100k-150k,Urban,Seen,3.6,2.8,3.6,3.8,4.4,3.5,2.5
+1538,46-60,Bachelor's,60k-100k,Urban,None,3.7,1.6,3.1,4.2,4.7,4.2,2.6
+1539,46-60,High School,100k-150k,Suburban,None,3.1,3.1,3.0,3.8,4.7,4.6,3.1
+1540,46-60,Bachelor's,30k-60k,Urban,None,4.9,4.5,2.4,4.4,5.0,3.1,3.4
+1541,46-60,Some College,>150k,Rural,None,3.2,3.6,3.3,5.0,3.9,3.8,3.7
+1542,46-60,High School,60k-100k,Suburban,Seen,3.3,4.1,3.1,4.8,4.6,3.4,3.9
+1543,46-60,Bachelor's,100k-150k,Suburban,None,3.7,3.9,2.8,4.3,5.0,2.8,3.7
+1544,46-60,Some College,30k-60k,Urban,Seen,4.3,3.4,2.8,4.2,4.3,4.2,3.2
+1545,46-60,High School,<30k,Suburban,None,3.0,2.4,3.0,4.4,4.5,3.2,3.8
+1546,46-60,Graduate Degree,30k-60k,Suburban,Seen,1.9,2.2,3.2,5.0,4.6,4.5,2.6
+1547,46-60,Graduate Degree,<30k,Rural,None,4.5,3.0,3.2,4.9,3.5,3.8,4.1
+1548,46-60,Some College,<30k,Rural,Interacted,3.4,3.2,3.4,4.7,5.0,4.0,4.3
+1549,46-60,High School,60k-100k,Urban,Seen,2.9,2.8,3.7,4.9,4.0,3.8,2.6
+1550,46-60,Bachelor's,100k-150k,Urban,Seen,3.4,3.0,3.4,4.8,5.0,3.5,3.5
+1551,46-60,Some College,100k-150k,Suburban,Interacted,4.7,4.5,2.7,3.7,4.1,4.0,2.5
+1552,46-60,High School,>150k,Suburban,None,4.5,3.4,3.4,3.5,5.0,4.2,3.9
+1553,46-60,Some College,30k-60k,Suburban,None,4.1,3.5,2.7,5.0,4.9,3.9,2.9
+1554,46-60,Some College,60k-100k,Suburban,Seen,4.1,3.7,3.3,4.5,3.7,3.7,4.4
+1555,46-60,Graduate Degree,100k-150k,Suburban,None,3.8,2.7,3.8,4.1,3.8,3.9,2.6
+1556,46-60,Some College,>150k,Suburban,Seen,4.2,3.6,3.8,4.6,5.0,4.1,3.5
+1557,46-60,High School,>150k,Urban,Interacted,4.0,3.8,2.7,4.3,5.0,4.3,3.2
+1558,46-60,Graduate Degree,30k-60k,Suburban,None,3.2,3.2,3.3,4.8,4.9,4.2,2.8
+1559,46-60,High School,<30k,Suburban,Seen,4.7,2.2,3.1,3.7,5.0,2.9,3.7
+1560,46-60,Some College,100k-150k,Urban,None,4.8,3.0,3.8,4.7,4.2,4.4,3.0
+1561,46-60,High School,30k-60k,Urban,None,3.7,3.8,3.8,4.2,4.8,4.8,3.1
+1562,46-60,Graduate Degree,60k-100k,Rural,Interacted,3.6,4.1,3.2,4.8,4.6,3.0,3.0
+1563,46-60,Some College,30k-60k,Suburban,None,3.4,2.8,2.7,4.1,3.7,4.1,3.4
+1564,46-60,Some College,60k-100k,Suburban,None,2.6,3.5,2.9,3.4,4.2,4.0,3.4
+1565,46-60,Bachelor's,100k-150k,Suburban,Interacted,4.3,4.2,3.5,4.7,3.7,4.2,2.8
+1566,46-60,Bachelor's,30k-60k,Urban,None,3.8,3.3,3.5,4.4,4.4,4.1,3.6
+1567,46-60,Bachelor's,100k-150k,Suburban,Seen,4.8,3.0,4.1,4.7,4.6,4.1,3.1
+1568,46-60,Bachelor's,>150k,Urban,Seen,3.1,3.2,3.0,4.5,4.7,3.8,3.2
+1569,46-60,Some College,<30k,Urban,None,4.5,3.9,3.0,3.4,4.8,4.2,3.9
+1570,46-60,Some College,30k-60k,Rural,Seen,3.9,4.0,3.3,4.7,4.6,3.8,3.0
+1571,46-60,Bachelor's,100k-150k,Suburban,Seen,4.2,2.7,3.2,4.3,3.5,3.4,2.9
+1572,46-60,Bachelor's,<30k,Urban,Seen,3.7,3.0,2.9,3.9,4.9,4.3,2.9
+1573,46-60,High School,30k-60k,Suburban,None,4.9,3.6,4.1,3.7,5.0,3.7,2.7
+1574,46-60,High School,30k-60k,Suburban,None,4.6,4.4,3.2,5.0,4.5,4.4,2.6
+1575,46-60,High School,30k-60k,Urban,Seen,3.6,3.4,3.6,4.3,4.4,3.9,3.8
+1576,46-60,High School,30k-60k,Suburban,Seen,4.0,3.5,4.0,4.3,5.0,4.5,2.9
+1577,46-60,Some College,<30k,Suburban,Seen,5.0,3.8,3.8,3.9,4.4,3.9,2.5
+1578,46-60,Bachelor's,30k-60k,Suburban,None,3.3,3.2,3.6,4.6,4.7,3.9,2.9
+1579,46-60,Some College,>150k,Urban,None,4.5,3.4,3.5,5.0,4.8,3.9,2.7
+1580,46-60,Bachelor's,30k-60k,Suburban,None,2.8,2.8,3.6,3.8,4.8,3.3,3.5
+1581,46-60,High School,30k-60k,Suburban,None,4.9,3.7,3.3,2.5,5.0,3.3,2.7
+1582,46-60,Bachelor's,30k-60k,Urban,None,4.8,4.2,3.6,4.4,4.7,3.7,2.7
+1583,46-60,Graduate Degree,<30k,Urban,None,2.6,2.7,3.1,3.9,5.0,3.9,2.9
+1584,46-60,High School,<30k,Urban,None,4.5,3.9,3.8,4.1,5.0,4.4,3.8
+1585,46-60,Some College,<30k,Urban,None,4.2,2.8,3.0,3.6,4.7,4.3,3.1
+1586,46-60,Bachelor's,<30k,Urban,None,3.0,2.2,3.5,4.3,5.0,3.8,3.5
+1587,46-60,Bachelor's,60k-100k,Rural,Seen,3.5,2.5,2.7,4.0,5.0,5.0,3.0
+1588,46-60,Some College,<30k,Urban,None,4.6,3.7,2.4,4.4,4.6,3.6,3.3
+1589,46-60,Graduate Degree,30k-60k,Urban,None,2.9,3.2,3.0,3.7,3.6,3.6,2.0
+1590,46-60,High School,<30k,Suburban,None,4.0,3.6,3.3,5.0,4.6,4.2,3.0
+1591,46-60,High School,100k-150k,Suburban,None,2.8,2.5,3.0,4.5,4.8,3.2,3.6
+1592,46-60,Bachelor's,>150k,Urban,Seen,3.6,3.4,3.3,3.5,5.0,3.0,3.0
+1593,46-60,Graduate Degree,60k-100k,Suburban,None,3.6,3.3,3.6,3.2,3.8,3.3,2.3
+1594,46-60,Bachelor's,<30k,Urban,None,4.3,2.8,2.6,4.5,5.0,3.9,3.6
+1595,46-60,Some College,60k-100k,Urban,None,3.9,3.0,2.5,4.7,5.0,4.5,2.7
+1596,46-60,Graduate Degree,<30k,Rural,None,3.1,2.7,2.8,5.0,4.7,3.7,2.9
+1597,46-60,High School,30k-60k,Suburban,None,3.7,3.5,4.3,3.4,4.7,3.8,2.9
+1598,46-60,Graduate Degree,30k-60k,Suburban,Interacted,4.1,4.7,3.6,4.1,4.0,3.6,3.2
+1599,46-60,Bachelor's,30k-60k,Rural,Interacted,4.6,4.0,3.5,4.6,3.9,4.1,3.8
+1600,46-60,Some College,60k-100k,Rural,Interacted,5.0,3.9,3.4,4.0,4.1,3.3,3.3
+1601,46-60,Graduate Degree,>150k,Urban,Seen,2.6,2.9,3.6,4.9,4.6,3.1,3.9
+1602,46-60,Graduate Degree,100k-150k,Rural,None,4.2,3.0,3.0,3.9,4.3,2.1,4.2
+1603,46-60,Some College,<30k,Urban,None,4.2,3.4,4.0,4.5,5.0,2.9,3.3
+1604,46-60,Bachelor's,>150k,Rural,None,3.5,2.2,3.0,4.4,4.9,3.7,3.8
+1605,46-60,High School,30k-60k,Suburban,None,5.0,3.3,3.1,3.8,5.0,4.5,3.2
+1606,46-60,Some College,>150k,Suburban,None,5.0,4.2,2.5,4.2,4.3,4.1,3.2
+1607,46-60,Bachelor's,100k-150k,Suburban,None,2.8,2.1,3.4,4.1,5.0,4.3,3.2
+1608,46-60,Bachelor's,100k-150k,Suburban,None,4.0,3.7,3.6,4.5,5.0,3.5,3.0
+1609,46-60,Bachelor's,60k-100k,Urban,None,4.2,2.9,2.6,3.5,4.6,4.0,3.2
+1610,46-60,Some College,<30k,Suburban,None,3.4,4.4,3.2,4.7,4.7,5.0,3.3
+1611,46-60,Bachelor's,60k-100k,Suburban,None,4.5,4.0,2.9,4.6,4.0,4.2,4.1
+1612,46-60,Bachelor's,60k-100k,Rural,None,2.9,2.2,3.0,4.0,4.5,4.4,3.7
+1613,46-60,Graduate Degree,<30k,Suburban,None,4.6,4.2,3.2,4.3,4.2,4.5,3.7
+1614,46-60,Bachelor's,30k-60k,Suburban,Seen,4.1,2.1,3.3,4.2,4.6,4.0,3.7
+1615,46-60,Some College,30k-60k,Rural,Seen,4.8,4.4,3.0,4.4,5.0,4.1,2.9
+1616,46-60,Some College,60k-100k,Suburban,None,2.1,2.8,2.8,3.9,5.0,3.7,2.8
+1617,46-60,Bachelor's,<30k,Suburban,None,4.0,3.8,3.5,3.2,3.8,3.6,3.5
+1618,46-60,High School,30k-60k,Suburban,None,3.3,2.1,3.3,4.3,4.5,4.6,2.6
+1619,46-60,Some College,100k-150k,Urban,Interacted,3.2,3.9,3.2,4.8,4.0,4.0,2.8
+1620,46-60,Some College,<30k,Urban,None,2.6,3.1,3.1,5.0,3.9,2.9,2.6
+1621,46-60,High School,<30k,Urban,Seen,4.1,3.8,3.1,4.0,5.0,4.4,3.7
+1622,46-60,Some College,30k-60k,Urban,Seen,4.4,3.4,3.0,4.1,4.2,3.6,3.1
+1623,46-60,Some College,<30k,Suburban,None,3.6,3.1,3.2,3.6,4.2,3.1,3.4
+1624,46-60,Bachelor's,<30k,Urban,None,2.4,3.0,3.6,3.6,5.0,4.0,3.3
+1625,46-60,Graduate Degree,60k-100k,Suburban,Seen,5.0,4.5,3.6,4.5,5.0,4.1,2.8
+1626,46-60,Bachelor's,60k-100k,Urban,Seen,4.5,3.5,2.8,4.3,5.0,3.6,3.5
+1627,46-60,High School,60k-100k,Suburban,Interacted,2.8,3.9,2.8,4.8,4.1,4.0,3.4
+1628,46-60,Bachelor's,60k-100k,Urban,None,3.5,3.2,3.1,4.2,5.0,3.9,3.6
+1629,46-60,Bachelor's,30k-60k,Urban,None,4.0,3.0,2.9,3.8,4.5,4.3,3.0
+1630,46-60,Graduate Degree,100k-150k,Suburban,Interacted,2.8,3.1,4.5,4.0,4.9,3.5,3.3
+1631,46-60,Bachelor's,30k-60k,Suburban,None,4.5,3.9,2.8,4.3,5.0,4.2,3.3
+1632,46-60,High School,<30k,Urban,None,5.0,3.8,3.6,4.2,3.6,4.4,3.7
+1633,46-60,Graduate Degree,30k-60k,Rural,Interacted,3.2,3.8,4.0,3.8,4.3,4.0,3.9
+1634,46-60,Some College,100k-150k,Suburban,Interacted,3.3,3.2,2.6,4.4,5.0,4.3,2.9
+1635,46-60,High School,60k-100k,Suburban,None,4.1,3.2,2.7,5.0,3.3,4.0,2.6
+1636,46-60,High School,30k-60k,Rural,Seen,2.9,3.3,2.7,3.5,5.0,4.0,3.3
+1637,46-60,Some College,30k-60k,Suburban,None,3.8,3.9,3.3,3.5,4.3,4.8,3.4
+1638,46-60,Bachelor's,30k-60k,Urban,Seen,4.6,4.5,2.4,4.4,4.5,4.1,3.6
+1639,46-60,High School,30k-60k,Suburban,None,4.0,3.9,3.0,4.3,4.9,3.2,1.6
+1640,46-60,Some College,<30k,Urban,None,4.9,4.1,3.0,4.2,4.3,3.5,3.5
+1641,46-60,Some College,60k-100k,Suburban,Seen,2.8,2.7,2.2,4.1,4.7,3.9,2.2
+1642,46-60,Bachelor's,30k-60k,Urban,None,2.4,3.0,3.2,4.2,4.6,3.5,3.1
+1643,46-60,Some College,30k-60k,Urban,None,1.2,1.4,2.8,4.5,4.6,5.0,3.1
+1644,46-60,Some College,60k-100k,Suburban,Seen,2.0,3.8,2.6,3.9,5.0,3.0,2.6
+1645,46-60,Graduate Degree,60k-100k,Rural,Seen,3.5,4.4,3.4,4.4,4.7,3.9,2.5
+1646,46-60,Some College,60k-100k,Rural,Seen,3.1,3.1,3.4,4.1,4.9,3.4,2.5
+1647,46-60,Bachelor's,30k-60k,Rural,Seen,4.0,2.8,2.0,4.5,3.6,4.0,2.8
+1648,46-60,High School,60k-100k,Suburban,Seen,3.8,2.9,3.6,3.9,4.5,4.0,3.6
+1649,46-60,Some College,<30k,Suburban,Interacted,3.7,3.7,3.5,4.7,4.8,3.7,3.4
+1650,46-60,Bachelor's,30k-60k,Suburban,None,3.6,3.5,2.8,4.2,4.6,3.8,4.4
+1651,46-60,Some College,30k-60k,Suburban,Seen,3.7,1.8,3.1,4.6,4.6,4.6,3.5
+1652,46-60,Bachelor's,30k-60k,Urban,None,4.2,3.4,3.7,4.4,4.8,3.6,3.6
+1653,46-60,Some College,<30k,Suburban,None,4.4,3.0,2.7,4.1,5.0,4.1,3.4
+1654,46-60,High School,<30k,Suburban,Seen,4.4,4.1,2.4,4.7,4.3,4.0,3.3
+1655,46-60,Some College,60k-100k,Suburban,Seen,3.4,3.2,3.9,4.7,4.5,3.6,2.4
+1656,46-60,Some College,30k-60k,Urban,Seen,4.7,3.8,3.1,3.9,4.9,4.2,4.4
+1657,46-60,High School,<30k,Suburban,None,3.3,2.2,2.8,4.8,5.0,4.0,2.7
+1658,46-60,Bachelor's,100k-150k,Suburban,None,2.9,2.6,2.9,3.8,4.6,3.4,3.9
+1659,46-60,Graduate Degree,>150k,Urban,Seen,3.9,3.7,3.7,3.4,4.5,3.9,3.5
+1660,46-60,Graduate Degree,30k-60k,Suburban,None,4.5,3.7,3.1,4.7,4.2,3.6,3.6
+1661,46-60,Some College,<30k,Urban,Seen,4.0,3.5,3.4,4.3,4.5,4.5,2.3
+1662,46-60,Some College,60k-100k,Rural,Seen,3.9,2.1,2.6,5.0,5.0,4.1,3.4
+1663,46-60,Some College,<30k,Suburban,Seen,4.7,3.8,3.3,4.1,5.0,3.2,2.7
+1664,46-60,Graduate Degree,100k-150k,Suburban,None,3.4,3.6,3.9,4.2,4.2,3.9,3.7
+1665,46-60,Some College,100k-150k,Urban,Interacted,3.9,4.3,2.9,4.7,4.7,4.2,3.1
+1666,46-60,Graduate Degree,<30k,Urban,None,4.8,2.9,3.2,3.7,4.5,3.5,3.5
+1667,46-60,Some College,60k-100k,Rural,None,2.8,3.1,3.4,4.0,4.4,3.2,2.6
+1668,46-60,Graduate Degree,60k-100k,Urban,Seen,1.9,3.2,3.4,3.7,4.0,4.5,2.6
+1669,46-60,High School,<30k,Urban,Interacted,3.7,3.9,3.3,4.2,4.8,3.6,2.9
+1670,46-60,High School,100k-150k,Urban,Seen,3.0,2.9,3.8,4.6,4.2,3.4,3.7
+1671,46-60,Some College,>150k,Urban,Seen,5.0,4.6,3.4,5.0,5.0,3.7,2.9
+1672,46-60,Bachelor's,>150k,Urban,Seen,2.9,3.0,3.4,4.8,3.9,4.8,2.4
+1673,46-60,Some College,60k-100k,Suburban,None,3.2,2.3,2.6,4.3,5.0,3.7,4.0
+1674,46-60,Bachelor's,<30k,Suburban,Seen,3.3,4.1,3.2,4.0,5.0,4.4,3.6
+1675,46-60,Bachelor's,60k-100k,Urban,Seen,2.6,3.3,3.5,4.4,4.5,3.7,3.6
+1676,46-60,Some College,>150k,Suburban,Seen,3.4,2.3,3.7,5.0,4.6,4.9,3.9
+1677,46-60,High School,30k-60k,Suburban,None,3.5,2.5,4.3,4.9,4.9,3.4,3.1
+1678,46-60,High School,100k-150k,Urban,Seen,3.4,3.6,3.7,3.9,4.3,3.5,3.7
+1679,46-60,Some College,60k-100k,Suburban,Seen,4.4,3.5,3.6,4.4,4.6,3.1,2.5
+1680,46-60,Bachelor's,30k-60k,Urban,None,2.7,2.5,2.5,4.6,4.7,4.4,3.5
+1681,46-60,Some College,100k-150k,Suburban,Seen,4.2,3.2,3.0,3.8,4.9,4.0,3.2
+1682,46-60,High School,60k-100k,Urban,None,4.7,3.3,2.9,4.4,4.3,4.6,3.8
+1683,46-60,Some College,<30k,Suburban,Interacted,5.0,3.8,3.1,3.1,5.0,3.5,3.7
+1684,46-60,High School,30k-60k,Urban,Seen,4.2,3.4,2.9,4.1,5.0,3.7,4.0
+1685,46-60,Bachelor's,100k-150k,Suburban,None,3.4,2.7,2.5,4.1,4.6,3.5,3.7
+1686,46-60,High School,<30k,Rural,Seen,2.7,3.4,3.7,4.0,5.0,4.4,2.9
+1687,46-60,Some College,30k-60k,Suburban,Interacted,2.3,2.9,3.8,4.1,5.0,3.7,2.9
+1688,46-60,Graduate Degree,60k-100k,Suburban,None,2.4,3.4,3.3,4.3,4.6,4.3,3.2
+1689,46-60,Some College,30k-60k,Urban,None,3.4,3.3,3.4,4.9,4.1,3.4,3.7
+1690,46-60,High School,30k-60k,Suburban,None,4.3,3.7,3.6,4.2,4.8,4.5,3.1
+1691,46-60,Some College,>150k,Urban,Seen,2.8,3.2,3.4,3.9,5.0,4.0,3.7
+1692,46-60,Bachelor's,30k-60k,Urban,Seen,4.4,4.1,3.0,4.9,4.7,3.3,2.8
+1693,46-60,High School,>150k,Suburban,Seen,3.5,3.6,2.0,4.3,4.5,4.1,2.9
+1694,46-60,Bachelor's,30k-60k,Suburban,Seen,4.2,3.6,3.9,4.0,5.0,3.6,3.8
+1695,46-60,Graduate Degree,30k-60k,Urban,None,3.1,3.4,2.2,4.9,3.7,4.0,2.6
+1696,46-60,Graduate Degree,30k-60k,Suburban,None,3.8,3.6,3.3,3.5,4.4,4.1,2.9
+1697,46-60,High School,30k-60k,Urban,Seen,5.0,3.6,3.9,4.1,3.6,3.0,4.2
+1698,46-60,Bachelor's,60k-100k,Urban,Seen,3.9,3.9,3.6,3.8,3.9,3.2,3.5
+1699,46-60,Graduate Degree,<30k,Urban,Seen,4.4,3.9,2.7,4.2,5.0,3.8,3.9
+1700,46-60,Bachelor's,30k-60k,Urban,None,4.4,3.0,3.1,4.4,5.0,3.6,4.0
+1701,46-60,Bachelor's,60k-100k,Suburban,None,4.8,3.9,3.5,4.0,4.2,3.1,3.4
+1702,46-60,Some College,60k-100k,Urban,None,5.0,4.4,3.2,4.2,5.0,4.5,3.1
+1703,46-60,Some College,100k-150k,Urban,None,4.0,3.3,2.7,3.8,4.0,4.2,2.9
+1704,46-60,Graduate Degree,100k-150k,Rural,Interacted,3.9,3.2,2.6,5.0,5.0,4.6,3.9
+1705,46-60,Some College,30k-60k,Suburban,None,4.6,3.3,3.0,3.9,4.4,3.6,3.2
+1706,46-60,High School,30k-60k,Urban,Interacted,3.3,3.0,2.7,5.0,4.5,4.8,3.9
+1707,46-60,Bachelor's,<30k,Suburban,None,4.4,4.2,3.8,4.3,4.0,3.3,3.6
+1708,46-60,Graduate Degree,30k-60k,Urban,None,3.8,2.9,3.5,3.5,5.0,3.7,1.8
+1709,46-60,Some College,60k-100k,Suburban,None,5.0,2.8,2.9,4.0,4.2,3.6,3.8
+1710,46-60,Graduate Degree,>150k,Suburban,None,3.6,3.3,2.8,4.8,4.2,4.1,2.9
+1711,46-60,Graduate Degree,>150k,Rural,None,2.7,2.6,2.4,4.3,3.8,4.8,3.0
+1712,46-60,Some College,<30k,Suburban,None,3.2,4.4,3.3,4.0,4.7,4.6,3.4
+1713,46-60,High School,60k-100k,Urban,None,3.3,3.3,3.0,5.0,4.3,4.1,3.2
+1714,46-60,Bachelor's,60k-100k,Urban,Seen,3.8,3.4,3.8,3.6,4.1,3.5,3.5
+1715,46-60,Graduate Degree,60k-100k,Suburban,None,2.9,2.8,3.2,5.0,5.0,4.2,2.9
+1716,46-60,Graduate Degree,30k-60k,Urban,None,5.0,3.5,2.5,4.3,5.0,4.5,3.3
+1717,46-60,High School,<30k,Urban,Seen,5.0,3.9,3.5,4.3,4.6,3.9,2.8
+1718,46-60,Bachelor's,30k-60k,Suburban,None,2.9,1.7,3.1,4.4,5.0,3.4,3.1
+1719,46-60,Some College,100k-150k,Suburban,Seen,4.0,3.7,2.8,5.0,5.0,4.1,2.7
+1720,46-60,Some College,100k-150k,Urban,Seen,3.7,3.2,3.2,3.7,3.9,4.1,3.0
+1721,46-60,High School,60k-100k,Suburban,Seen,4.0,2.7,2.6,5.0,4.9,3.5,3.0
+1722,46-60,High School,60k-100k,Suburban,None,2.6,3.6,3.2,4.0,4.1,3.8,3.7
+1723,46-60,High School,30k-60k,Suburban,Interacted,3.0,3.2,3.6,4.1,4.4,3.4,3.1
+1724,46-60,Some College,30k-60k,Suburban,None,4.1,3.3,2.0,3.3,4.6,4.0,3.8
+1725,46-60,Bachelor's,>150k,Suburban,None,2.4,2.9,2.5,3.9,5.0,4.0,2.7
+1726,46-60,Graduate Degree,100k-150k,Urban,None,4.4,2.0,3.4,4.8,4.6,3.1,3.4
+1727,46-60,High School,60k-100k,Urban,Seen,3.7,3.6,3.8,4.1,5.0,3.8,3.4
+1728,46-60,High School,>150k,Suburban,Interacted,4.1,2.8,3.5,4.3,4.9,2.6,2.5
+1729,46-60,Some College,<30k,Urban,None,4.1,3.1,3.4,4.1,5.0,4.2,3.3
+1730,46-60,Some College,100k-150k,Suburban,None,4.5,3.5,2.6,4.8,4.2,3.3,3.2
+1731,46-60,Bachelor's,60k-100k,Urban,None,4.7,3.6,3.2,3.9,4.2,4.5,3.4
+1732,46-60,High School,100k-150k,Rural,Seen,4.2,3.2,2.8,3.9,3.5,4.1,3.3
+1733,46-60,Bachelor's,<30k,Suburban,None,3.0,3.7,2.9,4.6,4.9,4.6,3.8
+1734,46-60,Bachelor's,60k-100k,Rural,None,4.9,3.5,2.7,3.6,4.7,4.0,3.6
+1735,46-60,Some College,60k-100k,Urban,Seen,2.3,4.2,2.7,4.1,4.5,4.9,3.0
+1736,46-60,Some College,>150k,Urban,None,2.8,2.3,3.3,4.3,5.0,3.7,2.5
+1737,46-60,Bachelor's,60k-100k,Urban,Seen,3.1,3.0,3.0,4.6,4.7,3.1,2.8
+1738,46-60,Graduate Degree,>150k,Urban,None,3.5,2.3,3.3,2.8,5.0,4.1,3.6
+1739,46-60,Some College,>150k,Urban,Seen,3.8,3.7,4.3,4.4,4.2,4.0,3.1
+1740,46-60,Some College,>150k,Urban,None,3.6,3.6,3.1,4.8,3.9,3.9,4.0
+1741,46-60,Bachelor's,60k-100k,Urban,Seen,3.6,4.0,3.1,4.4,5.0,3.6,3.1
+1742,46-60,High School,60k-100k,Suburban,Seen,5.0,3.8,3.2,4.6,5.0,3.4,3.1
+1743,46-60,Bachelor's,60k-100k,Suburban,None,4.5,3.9,2.7,4.7,4.9,3.8,3.1
+1744,46-60,Bachelor's,60k-100k,Suburban,None,4.3,3.7,2.5,3.8,4.4,4.0,2.9
+1745,46-60,Bachelor's,60k-100k,Suburban,Seen,4.1,4.0,2.9,4.0,4.8,5.0,3.1
+1746,46-60,High School,>150k,Suburban,None,3.9,4.4,3.0,4.2,4.9,3.8,4.1
+1747,46-60,Graduate Degree,60k-100k,Urban,None,4.2,3.5,3.1,4.6,4.2,3.8,3.1
+1748,46-60,Bachelor's,<30k,Suburban,None,2.9,2.9,3.1,4.4,5.0,3.9,4.2
+1749,46-60,Bachelor's,30k-60k,Suburban,None,3.9,3.5,3.9,4.1,5.0,3.9,3.5
+1750,46-60,Some College,100k-150k,Urban,Seen,4.8,3.3,2.7,4.0,4.1,4.6,3.7
+1751,46-60,Some College,30k-60k,Suburban,Seen,4.7,3.5,3.0,4.9,3.8,4.2,2.6
+1752,46-60,High School,30k-60k,Urban,Seen,4.3,4.4,3.5,3.6,4.6,3.5,3.6
+1753,46-60,Graduate Degree,>150k,Suburban,Seen,2.6,4.3,2.9,5.0,4.6,3.7,3.3
+1754,46-60,Bachelor's,>150k,Suburban,Seen,3.2,2.5,2.7,4.1,5.0,3.3,1.9
+1755,46-60,Bachelor's,60k-100k,Suburban,Seen,3.7,3.2,2.5,3.8,4.1,4.0,3.2
+1756,46-60,Some College,>150k,Suburban,None,5.0,3.4,3.3,4.5,4.5,3.6,3.1
+1757,46-60,Bachelor's,<30k,Urban,Seen,4.6,3.6,3.6,4.3,4.6,3.6,3.9
+1758,46-60,Bachelor's,<30k,Urban,Seen,3.3,3.4,2.9,4.4,5.0,4.0,2.6
+1759,46-60,High School,<30k,Urban,Seen,2.5,3.3,2.9,4.7,4.0,4.8,3.2
+1760,46-60,Bachelor's,30k-60k,Suburban,Seen,3.1,3.5,3.4,4.6,4.2,4.9,2.8
+1761,46-60,Graduate Degree,60k-100k,Urban,None,3.0,3.1,4.1,5.0,4.1,4.7,3.7
+1762,46-60,Bachelor's,30k-60k,Suburban,Seen,2.6,3.6,3.4,5.0,4.9,3.6,3.4
+1763,46-60,Some College,30k-60k,Suburban,None,5.0,3.2,3.5,4.4,4.1,4.0,2.8
+1764,46-60,Bachelor's,<30k,Urban,None,4.1,3.2,3.0,3.9,4.4,3.7,3.2
+1765,46-60,Some College,30k-60k,Suburban,None,4.6,4.0,3.9,4.4,4.7,3.8,3.6
+1766,46-60,Bachelor's,30k-60k,Urban,None,4.5,3.8,3.3,4.8,5.0,4.7,2.3
+1767,46-60,Bachelor's,<30k,Suburban,None,4.5,3.4,3.0,4.7,4.9,4.1,2.6
+1768,46-60,High School,<30k,Suburban,Seen,3.1,3.6,3.5,3.9,4.5,4.3,3.5
+1769,46-60,Bachelor's,<30k,Urban,Seen,3.4,3.6,3.8,4.1,4.6,2.8,3.0
+1770,46-60,High School,<30k,Suburban,None,4.1,3.3,2.9,4.1,4.5,3.2,2.8
+1771,46-60,High School,30k-60k,Rural,None,5.0,3.8,3.1,4.8,4.3,4.0,3.1
+1772,46-60,Bachelor's,60k-100k,Urban,None,4.6,3.0,2.6,5.0,5.0,3.6,2.9
+1773,46-60,Bachelor's,100k-150k,Urban,None,2.8,3.2,3.3,4.5,4.2,3.8,2.7
+1774,46-60,Some College,30k-60k,Urban,Seen,4.2,3.8,2.9,3.3,3.9,4.6,3.2
+1775,46-60,High School,100k-150k,Urban,Seen,4.4,3.9,3.3,5.0,5.0,4.7,2.8
+1776,46-60,Some College,<30k,Urban,Seen,4.5,3.7,2.9,4.5,4.6,4.0,4.1
+1777,46-60,Some College,30k-60k,Urban,Interacted,3.9,4.2,3.2,5.0,5.0,4.4,2.5
+1778,46-60,Bachelor's,30k-60k,Suburban,Seen,3.3,3.1,4.2,4.4,5.0,4.2,2.7
+1779,46-60,Bachelor's,30k-60k,Urban,None,2.4,3.1,3.3,4.8,4.0,3.3,3.0
+1780,46-60,Bachelor's,60k-100k,Urban,None,4.3,3.0,2.2,4.9,4.7,4.9,3.6
+1781,46-60,Bachelor's,>150k,Urban,None,3.5,3.2,3.1,4.4,5.0,4.9,3.7
+1782,46-60,High School,60k-100k,Urban,None,4.2,3.7,3.1,4.5,4.8,3.8,3.3
+1783,46-60,Some College,60k-100k,Urban,None,3.6,3.8,2.3,4.4,4.7,4.0,3.6
+1784,46-60,Bachelor's,<30k,Urban,None,5.0,3.4,2.8,4.4,4.1,3.6,3.5
+1785,46-60,High School,100k-150k,Urban,None,4.6,2.8,3.3,3.6,5.0,3.8,3.2
+1786,46-60,Some College,60k-100k,Suburban,None,3.9,4.2,2.6,3.8,4.3,3.5,3.2
+1787,46-60,Some College,30k-60k,Rural,Seen,4.5,4.4,3.6,4.2,4.3,4.0,3.5
+1788,46-60,Bachelor's,60k-100k,Suburban,Interacted,3.8,3.7,3.8,4.5,5.0,4.1,3.1
+1789,46-60,Bachelor's,30k-60k,Urban,Seen,3.9,3.3,3.3,4.0,4.6,4.2,2.2
+1790,46-60,High School,<30k,Suburban,None,4.7,3.8,2.3,4.0,4.7,3.6,3.4
+1791,46-60,Bachelor's,>150k,Suburban,Seen,3.7,3.7,2.7,4.7,4.5,4.2,3.3
+1792,46-60,Bachelor's,60k-100k,Urban,None,3.5,3.0,3.0,4.1,4.0,3.7,4.4
+1793,46-60,High School,100k-150k,Urban,Seen,4.8,3.6,3.3,3.8,4.7,3.5,3.0
+1794,46-60,Graduate Degree,<30k,Suburban,None,3.7,4.1,3.0,4.0,4.6,4.6,3.1
+1795,46-60,Graduate Degree,<30k,Rural,None,5.0,4.1,3.4,4.7,4.7,4.6,3.5
+1796,46-60,Some College,30k-60k,Urban,None,3.2,3.3,2.2,4.1,4.2,3.7,3.7
+1797,46-60,Some College,<30k,Urban,Seen,4.0,3.2,3.9,5.0,4.5,3.2,3.1
+1798,46-60,Some College,60k-100k,Urban,None,5.0,4.2,4.4,4.4,4.9,4.0,2.5
+1799,46-60,Bachelor's,<30k,Suburban,None,4.3,3.4,3.3,4.0,5.0,4.2,3.4
+1800,46-60,Bachelor's,30k-60k,Urban,Seen,3.5,3.3,3.8,4.6,4.7,3.6,3.7
+1801,46-60,High School,30k-60k,Urban,None,3.5,3.2,3.4,4.1,5.0,4.4,3.4
+1802,46-60,Graduate Degree,100k-150k,Suburban,None,3.5,3.4,3.8,4.0,4.7,3.8,3.1
+1803,46-60,Graduate Degree,60k-100k,Urban,Seen,4.9,4.1,2.4,4.3,4.4,4.0,3.8
+1804,46-60,High School,30k-60k,Urban,Seen,3.9,3.7,2.8,4.1,4.1,4.1,2.9
+1805,46-60,High School,30k-60k,Suburban,Seen,3.7,3.5,4.0,4.8,3.6,4.3,4.0
+1806,46-60,Bachelor's,60k-100k,Urban,None,3.9,3.4,3.0,4.0,4.1,3.2,3.7
+1807,46-60,Some College,30k-60k,Urban,None,3.3,3.3,3.2,4.5,4.5,4.3,3.8
+1808,46-60,Some College,30k-60k,Suburban,Seen,3.8,2.5,3.3,4.0,5.0,3.6,3.5
+1809,46-60,Some College,60k-100k,Suburban,Seen,3.9,3.6,2.7,4.0,4.3,4.6,4.3
+1810,46-60,High School,100k-150k,Rural,None,4.8,2.9,3.5,4.5,4.6,3.0,4.3
+1811,46-60,High School,<30k,Urban,Seen,3.7,4.2,2.8,3.5,3.7,4.1,2.7
+1812,46-60,High School,30k-60k,Urban,None,3.7,3.5,3.4,4.5,4.9,3.8,2.9
+1813,46-60,Some College,30k-60k,Suburban,Seen,3.8,3.6,3.0,5.0,3.5,3.9,3.1
+1814,46-60,Some College,<30k,Urban,Seen,4.6,4.9,3.2,4.6,4.5,4.1,4.0
+1815,46-60,Bachelor's,30k-60k,Suburban,Interacted,4.1,4.7,3.0,4.0,4.4,3.9,3.3
+1816,46-60,Some College,30k-60k,Rural,None,4.8,4.5,2.4,4.1,4.3,3.8,3.2
+1817,46-60,High School,60k-100k,Rural,Seen,2.2,3.6,2.9,4.9,4.5,3.7,3.3
+1818,46-60,High School,30k-60k,Urban,Seen,4.8,3.6,3.6,3.9,5.0,3.8,2.0
+1819,46-60,Some College,30k-60k,Suburban,None,3.8,3.3,3.1,4.9,4.4,4.0,2.9
+1820,46-60,Some College,60k-100k,Rural,Interacted,4.7,4.8,3.0,4.5,4.3,3.4,3.2
+1821,46-60,Some College,>150k,Suburban,None,2.8,2.8,3.2,4.4,4.6,3.4,3.4
+1822,46-60,High School,30k-60k,Urban,None,4.0,3.6,4.2,4.8,4.9,5.0,3.8
+1823,61+,High School,30k-60k,Suburban,Seen,3.9,3.5,3.3,4.9,4.3,4.8,3.8
+1824,61+,High School,100k-150k,Urban,None,4.7,3.2,2.5,5.0,4.8,3.7,3.5
+1825,61+,Bachelor's,30k-60k,Suburban,Interacted,3.9,3.2,3.0,4.6,4.9,4.1,3.9
+1826,61+,Bachelor's,30k-60k,Urban,Seen,4.3,3.8,2.8,4.2,4.6,3.4,3.8
+1827,61+,High School,60k-100k,Suburban,None,4.3,4.1,2.9,4.0,4.2,4.1,4.2
+1828,61+,High School,>150k,Suburban,Seen,4.4,3.7,2.4,5.0,4.7,4.9,4.0
+1829,61+,Bachelor's,<30k,Rural,None,4.2,3.3,3.5,5.0,3.3,4.1,4.5
+1830,61+,Bachelor's,>150k,Suburban,None,3.3,2.7,3.2,5.0,3.4,4.7,4.1
+1831,61+,Graduate Degree,<30k,Urban,Seen,2.2,3.5,3.8,3.9,3.3,4.7,3.3
+1832,61+,Some College,30k-60k,Urban,Seen,3.3,3.9,3.5,4.6,3.3,4.9,4.3
+1833,61+,Bachelor's,<30k,Suburban,None,4.5,3.8,3.2,5.0,5.0,4.1,4.0
+1834,61+,High School,30k-60k,Suburban,None,4.9,3.5,3.8,4.6,4.8,4.0,4.7
+1835,61+,Some College,<30k,Suburban,None,5.0,3.4,3.6,4.8,4.9,4.7,4.0
+1836,61+,Bachelor's,60k-100k,Suburban,None,3.6,3.0,2.4,4.4,4.9,4.0,4.1
+1837,61+,Graduate Degree,<30k,Suburban,None,3.1,3.0,2.8,3.9,4.2,4.7,3.6
+1838,61+,Bachelor's,30k-60k,Urban,None,4.2,3.5,3.3,5.0,3.6,3.8,4.4
+1839,61+,Graduate Degree,<30k,Urban,None,3.7,3.6,2.7,4.9,3.7,3.4,4.5
+1840,61+,Bachelor's,60k-100k,Urban,None,5.0,2.5,2.7,5.0,3.4,4.7,3.8
+1841,61+,Some College,100k-150k,Urban,None,4.4,3.3,3.2,4.5,4.9,5.0,4.7
+1842,61+,Bachelor's,<30k,Urban,Seen,4.3,3.5,3.0,4.7,3.7,3.8,4.1
+1843,61+,Some College,100k-150k,Rural,None,4.4,3.4,3.0,4.7,4.3,4.5,4.3
+1844,61+,Graduate Degree,60k-100k,Urban,None,3.4,2.9,2.8,3.8,3.5,3.6,3.4
+1845,61+,Bachelor's,>150k,Suburban,Seen,4.2,4.6,2.5,4.5,3.4,3.8,4.6
+1846,61+,Bachelor's,>150k,Urban,Interacted,3.0,3.4,2.5,5.0,4.9,5.0,3.8
+1847,61+,Some College,60k-100k,Urban,Seen,3.8,2.7,2.3,4.6,3.1,4.5,3.1
+1848,61+,High School,100k-150k,Urban,None,3.6,3.6,3.5,4.7,4.5,4.9,3.5
+1849,61+,Some College,30k-60k,Rural,Interacted,3.2,3.2,2.4,5.0,3.8,4.0,3.5
+1850,61+,Some College,60k-100k,Urban,Seen,4.4,4.9,3.1,4.4,4.2,3.5,3.5
+1851,61+,Some College,30k-60k,Urban,Interacted,4.8,4.3,3.2,4.9,4.5,4.8,3.2
+1852,61+,Some College,60k-100k,Urban,Interacted,3.4,3.9,3.1,3.8,3.6,4.5,3.4
+1853,61+,Bachelor's,30k-60k,Rural,Seen,4.0,3.6,3.4,5.0,4.2,3.9,4.0
+1854,61+,Bachelor's,<30k,Urban,None,4.0,3.9,2.7,4.4,4.7,4.4,3.7
+1855,61+,High School,<30k,Suburban,Seen,4.5,2.8,3.9,5.0,4.0,5.0,5.0
+1856,61+,Graduate Degree,60k-100k,Urban,None,4.1,3.5,3.2,3.7,4.8,4.3,4.4
+1857,61+,Bachelor's,60k-100k,Suburban,Seen,3.3,2.8,2.5,4.6,4.1,4.9,4.1
+1858,61+,Bachelor's,30k-60k,Suburban,Seen,3.8,3.5,3.2,5.0,4.1,3.5,3.3
+1859,61+,Some College,60k-100k,Urban,Seen,3.1,3.2,3.1,4.7,4.5,3.8,4.9
+1860,61+,Graduate Degree,<30k,Suburban,Seen,3.5,3.5,2.2,5.0,5.0,4.3,5.0
+1861,61+,Some College,100k-150k,Rural,None,4.5,2.6,2.8,5.0,3.7,3.2,3.3
+1862,61+,Bachelor's,<30k,Rural,None,4.9,3.8,2.7,4.5,4.2,3.8,3.8
+1863,61+,Graduate Degree,100k-150k,Suburban,None,4.5,3.7,4.1,4.3,3.8,4.3,3.9
+1864,61+,Graduate Degree,30k-60k,Urban,None,3.8,3.1,2.7,4.4,3.8,3.7,4.3
+1865,61+,Some College,<30k,Suburban,None,3.3,2.7,3.4,4.6,3.6,4.5,3.9
+1866,61+,High School,60k-100k,Suburban,Seen,4.3,5.0,2.4,4.7,3.7,4.4,4.4
+1867,61+,High School,>150k,Suburban,Seen,2.3,2.8,3.0,4.4,4.1,5.0,4.1
+1868,61+,Some College,<30k,Rural,None,4.4,3.0,2.9,5.0,3.9,3.8,5.0
+1869,61+,Graduate Degree,30k-60k,Urban,None,4.2,2.6,2.5,5.0,3.2,3.7,4.1
+1870,61+,Graduate Degree,60k-100k,Rural,None,4.8,2.9,3.2,5.0,4.3,4.0,4.4
+1871,61+,Bachelor's,100k-150k,Suburban,Interacted,3.2,3.9,3.5,4.9,3.6,3.9,4.8
+1872,61+,Some College,100k-150k,Urban,None,2.8,3.5,2.4,5.0,4.8,4.4,4.0
+1873,61+,Graduate Degree,60k-100k,Urban,Interacted,3.4,3.5,3.3,4.9,3.7,3.4,3.8
+1874,61+,Bachelor's,60k-100k,Suburban,None,4.6,3.5,3.3,4.4,3.6,3.3,3.5
+1875,61+,Some College,100k-150k,Urban,None,3.3,3.2,2.8,5.0,3.9,4.0,4.6
+1876,61+,Bachelor's,60k-100k,Suburban,Seen,5.0,4.1,2.6,4.9,3.5,4.4,4.2
+1877,61+,Some College,60k-100k,Rural,Seen,3.3,2.5,2.8,4.0,4.2,4.5,4.9
+1878,61+,Some College,60k-100k,Suburban,Seen,2.6,1.9,2.3,5.0,4.5,4.3,3.8
+1879,61+,Bachelor's,60k-100k,Rural,None,4.1,2.7,3.1,5.0,3.3,4.1,3.9
+1880,61+,Some College,30k-60k,Suburban,Seen,3.9,3.4,3.4,5.0,2.7,5.0,4.1
+1881,61+,Bachelor's,60k-100k,Urban,None,3.9,3.3,2.2,4.5,4.1,4.5,3.9
+1882,61+,High School,>150k,Suburban,None,4.1,3.4,2.1,5.0,4.8,4.8,3.5
+1883,61+,Bachelor's,>150k,Suburban,None,3.8,3.5,2.9,4.0,4.6,4.7,3.9
+1884,61+,High School,60k-100k,Urban,None,3.8,2.9,2.7,5.0,4.0,4.1,3.8
+1885,61+,Bachelor's,30k-60k,Suburban,None,3.2,3.0,2.8,5.0,4.8,4.0,3.7
+1886,61+,Bachelor's,30k-60k,Urban,None,4.7,3.5,2.4,4.3,5.0,4.3,3.5
+1887,61+,Bachelor's,<30k,Urban,None,3.9,3.7,2.5,4.5,4.3,4.3,4.7
+1888,61+,High School,100k-150k,Rural,Seen,3.6,2.1,3.1,4.5,3.6,4.6,3.0
+1889,61+,Some College,30k-60k,Suburban,None,2.5,2.8,3.1,4.9,4.3,4.1,3.7
+1890,61+,High School,<30k,Suburban,None,4.4,3.3,3.4,4.9,4.2,4.5,4.0
+1891,61+,High School,60k-100k,Suburban,None,3.2,3.5,3.4,3.7,3.5,4.0,3.5
+1892,61+,Graduate Degree,<30k,Urban,None,5.0,4.5,3.0,4.3,3.7,4.2,3.5
+1893,61+,Some College,30k-60k,Suburban,None,2.9,2.9,2.7,5.0,4.0,4.0,3.8
+1894,61+,High School,60k-100k,Urban,Seen,4.7,4.5,2.3,4.1,4.2,4.0,4.0
+1895,61+,Some College,30k-60k,Rural,None,4.5,4.1,2.6,4.0,4.7,3.9,4.4
+1896,61+,Graduate Degree,100k-150k,Suburban,None,2.0,2.2,3.3,4.7,4.4,3.2,4.7
+1897,61+,Graduate Degree,30k-60k,Suburban,Seen,4.8,3.6,2.9,5.0,4.9,4.1,3.4
+1898,61+,High School,30k-60k,Urban,None,4.4,3.8,2.7,4.9,4.2,4.5,4.0
+1899,61+,Some College,30k-60k,Suburban,None,4.0,3.4,2.8,5.0,4.1,5.0,4.2
+1900,61+,Some College,30k-60k,Suburban,Seen,5.0,3.6,4.5,4.1,4.0,4.3,3.4
+1901,61+,Some College,<30k,Suburban,None,4.3,3.1,3.3,5.0,3.8,4.5,4.0
+1902,61+,Bachelor's,100k-150k,Urban,None,3.2,3.2,3.2,5.0,3.5,4.4,3.7
+1903,61+,Graduate Degree,100k-150k,Suburban,Interacted,4.2,3.0,3.2,4.5,3.9,3.7,4.8
+1904,61+,Bachelor's,60k-100k,Urban,None,2.8,2.4,3.5,4.9,3.6,3.7,3.8
+1905,61+,High School,60k-100k,Suburban,Seen,4.6,4.2,3.5,4.8,4.0,3.8,4.7
+1906,61+,Bachelor's,<30k,Suburban,None,3.2,3.2,3.4,5.0,4.7,4.9,3.9
+1907,61+,Bachelor's,60k-100k,Suburban,Seen,2.9,2.8,3.1,4.3,4.6,3.9,4.3
+1908,61+,Bachelor's,>150k,Rural,None,2.4,2.3,3.0,5.0,3.8,4.7,3.8
+1909,61+,Bachelor's,30k-60k,Suburban,Interacted,4.2,3.3,3.1,4.7,4.0,4.6,4.3
+1910,61+,Some College,<30k,Suburban,None,4.5,3.6,2.3,4.7,5.0,4.0,4.0
+1911,61+,High School,100k-150k,Urban,Seen,4.9,4.0,2.0,4.3,3.3,4.7,3.2
+1912,61+,High School,30k-60k,Suburban,None,3.6,2.3,3.4,5.0,3.0,3.6,4.5
+1913,61+,High School,30k-60k,Urban,None,4.2,3.8,2.4,4.1,4.1,4.5,3.3
+1914,61+,Bachelor's,<30k,Suburban,Interacted,4.4,4.2,1.7,4.4,4.5,4.8,4.3
+1915,61+,Graduate Degree,<30k,Urban,None,3.9,3.1,2.6,5.0,4.0,4.0,3.8
+1916,61+,High School,100k-150k,Suburban,None,3.9,2.4,2.5,4.3,4.5,3.6,3.9
+1917,61+,Bachelor's,<30k,Urban,None,4.1,3.7,2.8,5.0,3.2,4.4,3.6
+1918,61+,Some College,30k-60k,Suburban,Seen,4.9,3.5,2.6,4.4,4.3,3.8,3.5
+1919,61+,Bachelor's,60k-100k,Urban,None,3.7,3.6,2.7,4.4,3.8,4.1,3.5
+1920,61+,Bachelor's,<30k,Rural,Seen,5.0,2.3,3.2,5.0,4.3,3.3,4.1
+1921,61+,Some College,>150k,Suburban,Seen,3.6,2.7,3.1,4.0,3.7,4.5,4.3
+1922,61+,High School,60k-100k,Suburban,None,3.0,3.8,3.1,5.0,3.4,3.9,3.9
+1923,61+,Some College,100k-150k,Suburban,None,5.0,4.2,2.9,5.0,4.8,4.6,4.7
+1924,61+,High School,30k-60k,Urban,None,5.0,3.3,2.0,4.7,4.7,4.8,3.9
+1925,61+,Some College,30k-60k,Suburban,None,4.2,3.7,3.3,4.3,3.9,3.8,4.4
+1926,61+,Some College,<30k,Urban,Seen,3.3,3.9,3.3,5.0,4.4,4.8,4.6
+1927,61+,High School,30k-60k,Urban,None,3.5,2.5,2.5,4.6,4.6,3.6,3.6
+1928,61+,Bachelor's,30k-60k,Rural,Seen,4.0,4.0,3.0,4.4,3.4,4.8,3.9
+1929,61+,High School,30k-60k,Rural,Seen,3.3,3.3,3.6,5.0,4.9,3.1,4.8
+1930,61+,Some College,30k-60k,Urban,Interacted,4.5,4.1,3.5,4.6,4.3,4.6,4.3
+1931,61+,High School,60k-100k,Suburban,None,2.9,3.5,3.4,4.3,4.4,4.5,4.5
+1932,61+,Some College,60k-100k,Urban,None,3.7,2.9,2.5,4.5,3.9,4.4,3.6
+1933,61+,Bachelor's,<30k,Urban,None,5.0,3.7,2.6,4.0,3.8,3.7,4.3
+1934,61+,Some College,>150k,Urban,None,5.0,3.6,2.6,5.0,4.6,4.4,3.8
+1935,61+,High School,30k-60k,Suburban,Seen,3.8,3.0,2.9,3.7,4.8,3.6,3.8
+1936,61+,Some College,<30k,Urban,None,1.9,2.7,3.8,4.4,4.1,3.7,4.1
+1937,61+,Bachelor's,30k-60k,Suburban,None,1.7,2.6,2.6,5.0,4.4,4.9,4.0
+1938,61+,Graduate Degree,<30k,Suburban,Seen,4.1,3.1,3.0,4.6,4.4,4.2,4.4
+1939,61+,Graduate Degree,<30k,Suburban,None,2.7,2.9,3.2,4.3,3.9,4.1,4.0
+1940,61+,High School,60k-100k,Suburban,Seen,3.2,2.7,3.4,5.0,3.7,4.8,5.0
+1941,61+,Graduate Degree,30k-60k,Rural,Seen,3.6,3.6,2.4,4.8,4.4,4.3,4.4
+1942,61+,Bachelor's,>150k,Suburban,None,3.2,4.0,2.1,4.3,3.6,4.2,3.7
+1943,61+,Graduate Degree,<30k,Suburban,Interacted,3.7,3.8,2.7,4.8,3.8,4.4,3.8
+1944,61+,Bachelor's,60k-100k,Urban,None,3.6,3.0,3.1,4.0,5.0,4.5,3.5
+1945,61+,Bachelor's,60k-100k,Suburban,None,3.8,3.2,2.0,4.0,4.6,4.7,4.2
+1946,61+,Bachelor's,60k-100k,Suburban,None,3.4,3.3,3.2,4.8,3.8,4.4,4.0
+1947,61+,Some College,30k-60k,Urban,Seen,3.6,2.6,2.0,5.0,3.2,5.0,3.6
+1948,61+,High School,<30k,Suburban,None,3.9,3.2,3.1,5.0,3.7,4.4,3.3
+1949,61+,Bachelor's,<30k,Suburban,Seen,3.2,3.7,3.3,4.7,4.1,4.5,4.3
+1950,61+,Bachelor's,100k-150k,Urban,Seen,4.3,2.1,2.4,3.9,3.2,3.7,3.9
+1951,61+,Some College,100k-150k,Suburban,None,4.1,3.7,3.3,4.1,3.8,4.8,3.4
+1952,61+,Graduate Degree,60k-100k,Suburban,None,4.9,3.4,2.8,5.0,3.9,3.9,3.8
+1953,61+,Bachelor's,100k-150k,Urban,Seen,3.8,3.4,2.4,4.7,4.1,4.3,4.7
+1954,61+,Bachelor's,<30k,Urban,Seen,1.8,3.1,2.6,4.8,3.8,4.4,4.5
+1955,61+,Bachelor's,<30k,Urban,None,4.3,3.1,3.5,4.2,3.8,4.7,4.2
+1956,61+,High School,60k-100k,Urban,None,3.9,3.8,2.6,4.5,4.4,5.0,3.5
+1957,61+,Some College,100k-150k,Urban,Seen,4.1,3.3,2.8,4.3,5.0,5.0,3.8
+1958,61+,Some College,60k-100k,Suburban,None,4.0,4.2,2.0,5.0,4.4,4.2,4.3
+1959,61+,Bachelor's,30k-60k,Suburban,None,3.7,3.2,3.0,4.8,4.4,5.0,3.7
+1960,61+,High School,<30k,Suburban,Interacted,4.7,4.0,1.7,4.0,4.3,4.7,4.0
+1961,61+,Graduate Degree,<30k,Urban,None,3.2,3.5,4.2,4.4,3.2,3.9,3.5
+1962,61+,Bachelor's,30k-60k,Rural,None,3.8,3.4,3.1,4.6,4.6,4.5,3.9
+1963,61+,Bachelor's,30k-60k,Urban,None,2.7,2.7,2.7,4.4,4.2,5.0,3.6
+1964,61+,Graduate Degree,30k-60k,Suburban,None,4.2,2.6,3.4,4.7,4.3,3.7,4.4
+1965,61+,Graduate Degree,30k-60k,Rural,None,3.8,4.3,2.8,4.9,4.9,3.7,3.4
+1966,61+,High School,30k-60k,Rural,Seen,3.4,3.2,2.4,4.6,4.5,5.0,4.1
+1967,61+,Some College,60k-100k,Urban,Seen,3.0,3.5,2.9,4.7,4.4,3.3,3.4
+1968,61+,Bachelor's,60k-100k,Urban,Seen,3.6,2.7,2.9,4.3,4.2,4.7,3.9
+1969,61+,Some College,100k-150k,Suburban,Seen,4.6,3.7,2.6,5.0,4.0,4.0,4.5
+1970,61+,Bachelor's,60k-100k,Urban,Seen,3.8,3.6,3.2,5.0,3.1,4.2,4.1
+1971,61+,High School,<30k,Urban,Seen,4.4,3.6,2.7,4.7,4.2,4.3,4.5
+1972,61+,Some College,100k-150k,Urban,None,3.3,2.4,2.4,5.0,3.6,4.9,3.9
+1973,61+,Bachelor's,60k-100k,Urban,None,5.0,3.9,2.9,4.9,4.1,4.9,3.9
+1974,61+,Graduate Degree,60k-100k,Urban,None,3.2,2.6,3.4,4.6,3.2,3.5,4.4
+1975,61+,High School,30k-60k,Urban,Seen,3.8,3.7,2.5,5.0,4.2,3.6,4.7
+1976,61+,High School,100k-150k,Urban,None,5.0,3.3,3.1,4.6,4.2,4.4,3.9
+1977,61+,Bachelor's,>150k,Suburban,None,3.2,2.9,2.5,4.2,4.2,3.9,3.6
+1978,61+,Bachelor's,30k-60k,Urban,Seen,4.8,3.5,3.3,4.1,3.2,4.1,4.2
+1979,61+,Bachelor's,100k-150k,Rural,Interacted,2.9,3.2,2.7,5.0,4.1,5.0,3.4
+1980,61+,High School,<30k,Rural,None,3.8,3.7,2.7,4.8,4.5,4.1,4.1
+1981,61+,High School,<30k,Urban,None,4.1,3.8,2.9,4.6,3.7,3.9,4.3
+1982,61+,Some College,<30k,Urban,None,3.0,3.7,2.8,3.9,4.8,3.7,4.3
+1983,61+,Some College,60k-100k,Suburban,None,3.7,2.6,3.2,4.5,3.6,4.7,3.3
+1984,61+,Some College,30k-60k,Suburban,None,4.3,4.0,3.0,4.9,3.9,4.0,2.9
+1985,61+,Some College,30k-60k,Urban,Interacted,3.1,3.3,2.0,5.0,4.4,5.0,3.7
+1986,61+,Some College,60k-100k,Suburban,Interacted,4.9,3.7,2.2,4.1,3.6,4.8,4.2
+1987,61+,Graduate Degree,100k-150k,Urban,Interacted,4.1,3.8,3.2,5.0,4.7,4.7,3.9
+1988,61+,High School,30k-60k,Suburban,None,4.1,3.5,2.5,5.0,3.5,4.1,4.5
+1989,61+,Some College,30k-60k,Urban,Seen,2.9,3.6,3.1,4.9,4.6,3.4,3.9
+1990,61+,High School,100k-150k,Urban,None,4.6,3.3,3.6,4.6,3.6,4.2,3.7
+1991,61+,Bachelor's,30k-60k,Suburban,None,5.0,3.1,2.0,5.0,4.6,4.9,4.6
+1992,61+,Graduate Degree,<30k,Rural,Seen,3.6,4.0,3.7,4.3,3.9,3.5,4.6
+1993,61+,Bachelor's,30k-60k,Urban,Seen,3.5,3.4,3.6,3.9,4.6,5.0,3.8
+1994,61+,Some College,60k-100k,Suburban,Interacted,5.0,5.0,2.3,4.5,3.7,3.9,3.6
+1995,61+,High School,60k-100k,Suburban,Seen,3.2,3.1,2.9,4.6,4.1,4.8,3.3
+1996,61+,Bachelor's,<30k,Urban,None,3.0,2.5,2.8,4.7,4.1,3.4,4.7
+1997,61+,Bachelor's,>150k,Urban,None,5.0,3.6,3.1,5.0,4.4,4.8,3.8
+1998,61+,Some College,60k-100k,Urban,None,2.7,2.7,1.9,4.4,5.0,3.6,4.2
+1999,61+,Graduate Degree,30k-60k,Urban,None,4.5,3.2,2.9,4.6,3.2,4.4,3.3
+2000,61+,Graduate Degree,60k-100k,Suburban,None,3.4,2.5,3.4,4.6,3.8,4.7,4.5
+2001,61+,Some College,60k-100k,Urban,Seen,4.5,3.0,2.4,4.4,3.5,4.1,3.8
+2002,61+,Bachelor's,60k-100k,Suburban,None,3.4,3.0,2.6,4.7,4.3,3.8,5.0
+2003,61+,Some College,100k-150k,Urban,Seen,4.5,3.4,3.4,4.8,3.8,4.0,3.5
+2004,61+,Some College,100k-150k,Suburban,None,3.9,3.1,2.3,5.0,2.9,4.2,3.3
+2005,61+,High School,<30k,Suburban,None,3.4,1.7,2.9,5.0,3.0,4.6,3.3
+2006,61+,Some College,<30k,Urban,Seen,3.5,3.4,3.2,4.3,4.1,3.9,3.9
+2007,61+,Bachelor's,60k-100k,Suburban,None,3.7,3.5,2.7,4.8,3.8,4.5,4.1
+2008,61+,High School,30k-60k,Urban,None,3.3,3.3,2.9,4.4,4.2,4.0,3.5
+2009,61+,Bachelor's,<30k,Urban,Seen,4.3,2.7,3.0,4.7,3.7,4.8,3.5
+2010,61+,Some College,100k-150k,Suburban,None,5.0,4.3,2.8,5.0,4.1,3.9,3.5
+2011,61+,High School,60k-100k,Urban,None,2.5,2.5,3.3,5.0,4.8,4.7,3.8
+2012,61+,Bachelor's,>150k,Suburban,None,4.1,2.8,2.6,5.0,3.4,5.0,4.7
+2013,61+,Some College,<30k,Suburban,None,4.2,4.0,2.6,4.9,4.4,3.5,4.6
+2014,61+,Graduate Degree,30k-60k,Urban,Seen,4.1,2.9,3.8,4.5,3.5,3.6,4.1
+2015,61+,Bachelor's,30k-60k,Suburban,None,4.1,4.4,2.9,4.5,4.3,5.0,2.7
+2016,61+,Graduate Degree,60k-100k,Suburban,None,3.1,3.0,2.6,4.7,4.7,4.9,3.2
+2017,61+,Some College,>150k,Urban,Seen,5.0,4.7,3.3,4.9,4.5,5.0,3.6
+2018,61+,Some College,<30k,Rural,Seen,3.9,3.0,2.5,4.5,4.3,5.0,3.6
+2019,61+,High School,60k-100k,Suburban,Seen,4.9,3.9,3.1,5.0,4.3,4.1,4.9
+2020,61+,Graduate Degree,100k-150k,Rural,None,4.8,4.1,2.8,5.0,3.9,3.7,3.9
+2021,61+,Some College,<30k,Urban,Seen,3.7,3.1,2.3,4.5,3.9,3.7,4.1
+2022,61+,Some College,30k-60k,Urban,Seen,4.9,3.3,3.9,5.0,2.9,5.0,4.0
+2023,61+,Bachelor's,>150k,Urban,Seen,2.3,3.4,3.6,5.0,4.2,3.8,3.5
+2024,61+,Some College,>150k,Suburban,None,2.9,2.9,3.0,4.5,3.9,4.3,3.9
+2025,61+,Some College,60k-100k,Suburban,None,4.9,3.5,2.6,4.4,3.8,4.2,4.8
+2026,61+,Some College,30k-60k,Suburban,None,3.9,4.5,2.6,4.2,3.2,4.1,4.1
+2027,61+,Some College,60k-100k,Suburban,None,3.8,3.2,3.9,4.6,4.6,4.5,3.9
+2028,61+,Some College,60k-100k,Urban,Seen,2.6,2.5,2.8,4.6,5.0,3.4,3.6
+2029,61+,Bachelor's,<30k,Urban,None,3.5,3.3,3.2,5.0,3.5,4.2,4.6
+2030,61+,High School,60k-100k,Urban,Seen,5.0,4.3,3.2,4.2,3.8,4.6,4.5
+2031,61+,High School,30k-60k,Suburban,Seen,3.3,3.6,3.5,5.0,4.6,3.9,4.9
+2032,61+,High School,60k-100k,Suburban,None,4.5,4.7,2.9,4.5,4.3,3.8,4.3
+2033,61+,Bachelor's,60k-100k,Suburban,Seen,3.7,3.6,3.2,4.1,4.7,4.4,3.7
+2034,61+,Bachelor's,60k-100k,Urban,Seen,4.4,4.0,3.0,5.0,3.9,5.0,2.8
+2035,61+,Bachelor's,>150k,Rural,None,3.6,3.2,3.4,5.0,4.0,4.0,3.3
+2036,61+,Bachelor's,100k-150k,Rural,Interacted,3.9,4.5,2.8,4.0,3.8,3.9,4.4
+2037,61+,Bachelor's,30k-60k,Suburban,None,4.5,3.7,3.2,4.7,4.2,4.3,4.2
+2038,61+,High School,<30k,Suburban,Seen,3.9,2.9,3.6,4.3,4.4,3.8,5.0
+2039,61+,Some College,<30k,Suburban,Seen,3.6,3.2,2.6,4.8,3.4,4.0,3.8
+2040,61+,High School,<30k,Urban,None,3.4,3.2,3.6,4.4,4.7,4.1,3.3
+2041,61+,Bachelor's,30k-60k,Urban,None,4.3,3.7,3.5,5.0,3.4,4.9,2.7
+2042,61+,High School,60k-100k,Suburban,Seen,3.7,3.9,3.7,5.0,3.9,4.1,4.1
+2043,61+,Bachelor's,100k-150k,Suburban,None,3.5,2.9,3.3,4.6,3.7,3.9,4.4
+2044,61+,Graduate Degree,60k-100k,Urban,Seen,4.0,3.4,3.2,5.0,3.8,5.0,4.4
+2045,61+,Bachelor's,100k-150k,Rural,Seen,4.6,3.7,3.1,4.8,3.2,4.9,3.2
+2046,61+,High School,30k-60k,Rural,None,4.7,3.5,2.1,4.4,4.7,4.4,4.1
+2047,61+,Some College,60k-100k,Urban,Seen,4.8,3.2,2.7,3.9,3.6,4.5,3.6
+2048,61+,Bachelor's,30k-60k,Suburban,None,3.5,2.5,3.4,4.0,4.6,4.0,3.9
+2049,61+,Bachelor's,30k-60k,Suburban,None,2.9,2.6,2.7,5.0,4.5,4.5,3.6
+2050,61+,Some College,60k-100k,Rural,Seen,4.5,3.5,2.1,5.0,3.9,3.9,3.9
+2051,61+,High School,60k-100k,Urban,None,4.0,3.0,2.9,4.4,3.9,4.9,4.3
+2052,61+,Bachelor's,60k-100k,Suburban,None,4.6,3.5,3.2,4.2,4.1,4.1,5.0
+2053,61+,Graduate Degree,30k-60k,Suburban,None,2.4,3.5,4.3,5.0,4.2,4.5,4.0
+2054,61+,Bachelor's,<30k,Urban,None,2.7,2.9,3.6,4.3,3.2,4.6,3.8
+2055,61+,Graduate Degree,<30k,Urban,None,3.8,3.9,2.8,5.0,4.0,4.0,3.2
+2056,61+,Graduate Degree,<30k,Urban,None,3.4,3.3,2.8,5.0,3.3,4.8,3.7
+2057,61+,Bachelor's,<30k,Urban,None,3.7,3.3,2.7,4.5,4.7,5.0,3.5
+2058,61+,Graduate Degree,60k-100k,Rural,None,4.6,3.3,2.4,3.7,3.2,5.0,3.9
+2059,61+,High School,30k-60k,Suburban,None,4.4,3.0,2.1,5.0,3.8,2.9,4.4
+2060,61+,Graduate Degree,100k-150k,Urban,None,4.2,3.6,3.5,4.4,3.6,4.9,3.8
+2061,61+,Some College,60k-100k,Urban,Seen,4.2,3.7,3.1,4.4,4.3,3.9,4.5
+2062,61+,Graduate Degree,100k-150k,Suburban,None,4.8,3.8,2.7,4.3,5.0,4.8,4.4
+2063,61+,Some College,<30k,Suburban,None,4.9,3.6,2.5,4.0,4.1,4.2,4.0
+2064,61+,Some College,30k-60k,Urban,None,2.9,3.0,2.8,5.0,4.3,4.0,3.9
+2065,61+,Bachelor's,<30k,Suburban,Seen,3.5,3.8,3.1,4.7,3.5,4.8,3.6
+2066,61+,Bachelor's,<30k,Suburban,None,2.9,2.8,3.4,4.9,4.2,3.5,4.3
+2067,61+,Bachelor's,60k-100k,Urban,None,3.3,3.0,2.8,4.8,3.5,3.8,4.7
+2068,61+,Bachelor's,30k-60k,Rural,None,3.6,4.0,3.0,4.1,4.1,4.3,3.8
+2069,61+,Bachelor's,60k-100k,Suburban,None,2.2,2.5,3.7,5.0,3.8,3.9,3.0
+2070,61+,High School,30k-60k,Urban,Interacted,4.5,4.1,3.5,4.6,5.0,4.0,4.7
+2071,61+,Some College,>150k,Suburban,Seen,4.8,4.2,3.0,5.0,3.7,3.7,3.0
+2072,61+,Graduate Degree,60k-100k,Urban,None,2.3,3.0,2.8,3.5,3.8,3.9,3.8
+2073,61+,Bachelor's,30k-60k,Urban,Interacted,4.6,4.2,2.7,4.7,4.6,4.4,4.3
+2074,61+,Bachelor's,60k-100k,Rural,Seen,5.0,4.3,2.5,4.2,3.7,4.5,4.4
+2075,61+,Some College,30k-60k,Suburban,None,4.3,3.0,2.9,4.2,3.7,4.4,5.0
+2076,61+,Some College,60k-100k,Rural,None,3.7,2.9,3.3,5.0,4.4,4.2,3.6
+2077,61+,Graduate Degree,<30k,Suburban,None,3.5,3.9,2.7,4.6,4.7,4.0,3.8
+2078,61+,Bachelor's,<30k,Suburban,Seen,4.3,4.0,3.2,4.6,3.6,5.0,4.9
+2079,61+,High School,<30k,Rural,None,3.4,4.3,2.9,3.9,4.4,3.6,4.0
+2080,61+,Graduate Degree,60k-100k,Suburban,None,3.8,2.3,2.8,4.7,4.3,4.3,3.7
+2081,61+,Bachelor's,30k-60k,Suburban,None,4.4,3.4,2.5,5.0,3.4,3.9,4.2
+2082,61+,High School,<30k,Urban,None,3.3,2.6,3.0,4.9,4.1,4.5,3.8
+2083,61+,Some College,30k-60k,Suburban,Interacted,5.0,4.0,2.9,4.9,3.9,4.4,3.5
+2084,61+,Bachelor's,30k-60k,Urban,None,1.0,2.9,3.3,4.0,3.6,4.4,3.5
+2085,61+,Bachelor's,30k-60k,Suburban,Seen,3.5,3.4,1.8,4.7,4.4,4.7,4.4
+2086,61+,High School,>150k,Urban,Interacted,4.2,3.9,3.3,4.6,3.9,4.5,4.0
+2087,61+,High School,<30k,Suburban,Interacted,4.0,4.3,2.9,5.0,3.7,3.7,4.9
+2088,61+,Some College,100k-150k,Suburban,None,4.5,3.4,3.0,4.3,5.0,4.0,3.1
+2089,61+,High School,30k-60k,Suburban,None,3.4,3.4,3.4,5.0,3.4,4.4,4.8
+2090,61+,High School,<30k,Urban,None,5.0,4.0,4.1,4.6,3.8,4.9,3.2
+2091,61+,Some College,30k-60k,Rural,Seen,2.5,2.7,3.0,3.7,4.9,4.1,4.1
+2092,61+,Graduate Degree,100k-150k,Suburban,None,4.8,2.9,2.2,4.3,3.8,4.1,4.5
+2093,61+,Graduate Degree,>150k,Suburban,None,3.6,4.4,3.1,5.0,4.4,4.5,5.0
+2094,61+,Graduate Degree,30k-60k,Urban,None,4.6,3.7,3.6,4.0,4.0,4.8,3.9
+2095,61+,High School,>150k,Suburban,None,3.5,2.9,2.9,4.5,4.5,4.4,2.8
+2096,61+,Bachelor's,<30k,Urban,None,4.6,3.5,3.0,3.5,4.1,4.7,3.6
+2097,61+,Graduate Degree,30k-60k,Urban,None,4.1,3.3,2.9,4.2,4.1,4.6,3.5
+2098,61+,Graduate Degree,30k-60k,Rural,Seen,5.0,5.0,2.3,4.8,3.6,4.8,4.0
+2099,61+,Bachelor's,>150k,Suburban,None,5.0,3.1,3.0,4.9,4.2,4.2,3.4
+2100,61+,High School,60k-100k,Suburban,None,3.7,2.9,3.7,4.3,4.5,3.7,3.5
+2101,61+,Bachelor's,100k-150k,Rural,None,3.7,2.0,2.8,5.0,4.5,4.5,4.6
+2102,61+,Some College,60k-100k,Suburban,Seen,3.1,4.1,2.7,5.0,3.1,4.0,3.6
+2103,61+,High School,30k-60k,Suburban,None,2.6,2.9,2.9,5.0,5.0,3.9,4.0
+2104,61+,Some College,60k-100k,Suburban,Interacted,3.7,2.7,2.8,5.0,3.4,4.9,4.3
+2105,61+,Graduate Degree,>150k,Urban,Seen,4.4,4.3,3.1,5.0,4.1,4.5,4.3
+2106,61+,Some College,<30k,Urban,None,3.6,2.7,2.9,4.7,4.4,5.0,4.6
+2107,61+,Bachelor's,>150k,Urban,None,4.0,3.7,2.5,4.6,3.8,3.6,3.1
+2108,61+,Graduate Degree,30k-60k,Suburban,None,3.9,3.0,2.5,4.8,4.0,4.8,4.2
+2109,61+,Some College,30k-60k,Urban,None,3.6,2.4,3.7,5.0,4.1,4.1,3.8
+2110,61+,Some College,30k-60k,Suburban,None,3.8,2.4,3.4,5.0,4.1,4.9,3.5
+2111,61+,Bachelor's,30k-60k,Suburban,Seen,3.7,3.8,3.2,4.2,3.7,4.8,3.7
+2112,61+,Bachelor's,30k-60k,Urban,Seen,2.6,4.3,2.5,4.4,4.4,4.9,3.3
+2113,61+,Graduate Degree,30k-60k,Suburban,Interacted,4.3,4.1,3.1,4.2,4.0,4.8,4.3
+2114,61+,Graduate Degree,60k-100k,Urban,None,2.9,1.7,2.5,4.5,3.8,4.3,3.4
+2115,61+,Bachelor's,60k-100k,Urban,Seen,4.4,4.3,2.6,4.7,3.7,4.7,3.9
+2116,61+,Bachelor's,60k-100k,Rural,Seen,3.1,2.7,2.8,5.0,3.9,4.8,3.7
+2117,61+,Bachelor's,30k-60k,Urban,Seen,4.8,2.8,3.4,4.1,4.3,4.7,4.0
+2118,61+,High School,30k-60k,Suburban,None,4.6,3.7,3.2,5.0,3.9,4.7,4.4
+2119,61+,Bachelor's,100k-150k,Urban,None,4.6,3.7,2.6,4.8,4.3,4.7,3.8
+2120,61+,Some College,60k-100k,Suburban,None,4.2,3.3,2.1,5.0,4.3,4.0,3.4
+2121,61+,Some College,30k-60k,Suburban,None,3.9,3.8,3.2,4.6,4.1,4.8,3.6
+2122,61+,Some College,30k-60k,Rural,None,3.5,3.7,3.4,5.0,3.7,4.3,3.7
+2123,61+,Bachelor's,30k-60k,Urban,Interacted,5.0,4.1,3.0,5.0,4.0,4.1,3.2
+2124,61+,Some College,100k-150k,Urban,Seen,2.1,2.8,2.7,4.3,3.7,4.7,3.1
+2125,61+,Some College,30k-60k,Rural,None,4.1,3.7,3.2,4.4,3.7,5.0,3.1
+2126,61+,High School,30k-60k,Urban,Interacted,4.4,4.3,3.3,5.0,4.3,4.4,3.5
+2127,61+,High School,60k-100k,Suburban,Seen,4.3,3.6,2.5,3.8,3.9,4.7,3.4
+2128,61+,Some College,30k-60k,Suburban,None,3.8,2.9,3.3,4.2,4.0,4.2,4.4
+2129,61+,Bachelor's,30k-60k,Suburban,Seen,2.5,3.6,3.5,5.0,4.4,4.3,4.2
+2130,61+,High School,<30k,Suburban,None,3.4,2.8,2.5,3.7,3.7,5.0,4.3
+2131,61+,Graduate Degree,60k-100k,Urban,Interacted,3.6,3.0,3.0,5.0,3.7,4.0,4.4
+2132,61+,Bachelor's,30k-60k,Urban,None,5.0,3.6,3.2,5.0,4.5,4.8,4.6
+2133,61+,Bachelor's,60k-100k,Suburban,None,4.0,2.5,2.3,4.8,3.8,3.9,4.0
+2134,61+,High School,100k-150k,Rural,None,4.3,4.1,3.1,4.8,4.0,3.3,3.6
+2135,61+,Bachelor's,<30k,Urban,Seen,3.1,3.6,2.3,4.1,3.2,4.3,2.9
+2136,61+,Bachelor's,30k-60k,Urban,None,4.4,3.6,3.6,4.6,4.0,4.5,3.5
+2137,61+,High School,30k-60k,Urban,None,3.9,2.7,3.3,4.6,4.5,4.8,4.4
+2138,61+,Bachelor's,30k-60k,Urban,None,4.5,3.8,2.8,4.8,3.6,3.6,4.2
+2139,61+,Graduate Degree,60k-100k,Suburban,Interacted,3.7,3.7,2.5,5.0,4.0,3.3,3.4
+2140,61+,Bachelor's,100k-150k,Suburban,None,3.7,3.9,2.4,3.5,3.8,4.1,3.7
+2141,61+,Bachelor's,60k-100k,Urban,None,2.5,2.9,1.5,5.0,4.7,3.1,3.7
+2142,61+,Graduate Degree,>150k,Urban,None,4.4,3.6,4.0,4.7,4.7,5.0,3.8
+2143,61+,Graduate Degree,60k-100k,Urban,Seen,2.3,4.6,2.7,4.2,3.7,4.6,2.6
+2144,61+,High School,60k-100k,Suburban,Seen,3.4,2.9,2.6,5.0,4.4,3.5,3.7
+2145,61+,Some College,30k-60k,Suburban,Seen,3.8,3.7,3.4,4.5,4.4,4.3,3.0
+2146,61+,Some College,60k-100k,Suburban,None,3.0,3.2,2.4,4.8,4.8,4.7,2.8
+2147,61+,Some College,30k-60k,Urban,None,3.2,2.8,2.7,4.2,4.0,4.4,3.0
+2148,61+,Graduate Degree,60k-100k,Urban,None,5.0,3.6,2.6,4.3,3.8,4.4,3.7
+2149,61+,Some College,60k-100k,Urban,None,2.5,2.4,3.4,4.0,4.3,3.8,4.5
+2150,61+,Bachelor's,>150k,Urban,Seen,2.9,2.9,3.0,4.8,4.6,4.5,4.3
+2151,61+,Bachelor's,60k-100k,Urban,None,4.4,2.9,3.5,4.6,3.8,4.2,3.8
+2152,61+,Graduate Degree,30k-60k,Suburban,None,2.9,3.4,2.6,4.5,4.7,3.7,4.6
+2153,61+,High School,>150k,Urban,None,3.5,2.0,2.7,4.9,4.7,4.1,4.1
+2154,61+,Bachelor's,30k-60k,Urban,None,3.8,3.9,2.9,4.3,4.7,4.6,3.6
+2155,61+,Some College,60k-100k,Suburban,None,4.4,3.8,3.0,4.2,4.3,4.7,3.7
+2156,61+,Some College,60k-100k,Urban,None,4.3,4.5,2.7,4.9,4.9,4.3,3.0
+2157,61+,High School,100k-150k,Urban,Interacted,3.0,4.4,2.8,3.8,4.4,4.4,3.8
+2158,61+,Some College,100k-150k,Suburban,None,3.7,2.4,2.7,5.0,4.1,4.1,3.9
+2159,61+,Some College,100k-150k,Urban,None,4.7,3.3,3.6,3.5,4.5,4.2,3.8
+2160,61+,High School,<30k,Suburban,None,3.1,3.3,2.6,5.0,4.1,4.3,3.1
+2161,61+,Bachelor's,30k-60k,Suburban,None,3.2,2.4,3.7,5.0,4.5,4.9,3.9
+2162,61+,Some College,<30k,Urban,None,2.9,2.3,3.4,5.0,4.2,4.8,3.8
+2163,61+,Bachelor's,<30k,Suburban,Seen,2.8,3.0,3.0,4.6,4.1,5.0,4.2
+2164,61+,Bachelor's,>150k,Rural,Seen,3.5,3.3,2.7,5.0,5.0,4.7,3.8
+2165,61+,Bachelor's,<30k,Urban,Seen,4.4,2.8,3.6,3.6,3.6,4.1,4.6
+2166,61+,Bachelor's,60k-100k,Urban,None,4.2,3.5,2.8,4.0,3.1,4.6,4.1
+2167,61+,High School,30k-60k,Suburban,Seen,2.8,3.7,2.3,4.9,3.5,3.7,3.5
+2168,61+,Bachelor's,100k-150k,Rural,None,4.2,3.3,2.9,3.8,3.6,4.3,3.8
+2169,61+,Some College,100k-150k,Urban,None,4.9,3.0,3.3,3.9,4.1,4.4,3.8
+2170,61+,Graduate Degree,>150k,Suburban,None,4.8,3.4,2.7,4.2,3.7,4.1,4.4
+2171,61+,High School,30k-60k,Rural,None,2.4,2.7,3.4,5.0,4.1,3.6,3.3
+2172,61+,Bachelor's,<30k,Suburban,None,2.8,3.0,2.6,4.2,4.5,4.7,3.9
+2173,61+,Bachelor's,60k-100k,Urban,Seen,4.5,3.7,2.7,4.4,3.0,3.9,4.0
+2174,61+,High School,30k-60k,Suburban,None,4.5,2.9,3.4,4.2,3.3,3.9,3.7
+2175,61+,Some College,60k-100k,Suburban,Interacted,2.4,3.0,2.1,4.9,3.9,4.3,4.8
+2176,61+,High School,<30k,Urban,None,4.1,3.5,2.5,5.0,3.8,4.5,4.0
+2177,61+,Graduate Degree,30k-60k,Suburban,None,3.2,3.0,3.0,5.0,4.3,4.3,4.6
+2178,61+,High School,<30k,Rural,None,4.6,3.1,3.2,4.4,4.3,4.2,4.0
+2179,61+,Some College,>150k,Suburban,Seen,2.9,3.2,3.0,5.0,4.0,4.6,3.5
+2180,61+,Some College,60k-100k,Urban,None,3.7,2.7,3.5,5.0,4.5,5.0,3.6
+2181,61+,High School,30k-60k,Suburban,None,3.3,2.8,3.3,3.7,3.5,4.1,4.0
+2182,61+,Some College,100k-150k,Urban,Seen,3.6,3.4,3.5,4.7,3.6,4.9,4.7
+2183,61+,Some College,30k-60k,Suburban,None,3.3,3.3,2.7,5.0,4.0,4.1,3.7
+2184,61+,Some College,30k-60k,Urban,None,2.1,3.1,2.9,4.5,3.9,4.3,4.0

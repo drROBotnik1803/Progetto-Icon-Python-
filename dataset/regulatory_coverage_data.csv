@@ -1,0 +1,211 @@
+Jurisdiction Type,Jurisdiction Name,Concern Area,Coverage Percentage,Regulatory Instruments Count,Implementation Score (1-5),Most Recent Update,Enforcement Mechanism
+Municipal,New York City,Data Security,70.6,3,2.7,2024,Yes
+Municipal,New York City,Physical Security,74.7,2,3.4,2024,No
+Municipal,New York City,Privacy Protection,37.0,1,1.5,2021,Yes
+Municipal,New York City,Algorithmic Transparency,7.7,1,1.8,2018,No
+Municipal,New York City,Service Equity,37.0,2,1.7,2024,Yes
+Municipal,New York City,Labor Protection,26.1,3,2.4,2021,No
+Municipal,San Francisco,Data Security,62.2,5,3.5,2023,Yes
+Municipal,San Francisco,Physical Security,60.9,3,2.9,2024,No
+Municipal,San Francisco,Privacy Protection,46.0,1,2.7,2022,No
+Municipal,San Francisco,Algorithmic Transparency,7.3,1,1.4,2022,No
+Municipal,San Francisco,Service Equity,44.9,1,2.1,2022,Yes
+Municipal,San Francisco,Labor Protection,21.7,3,3.3,2022,No
+Municipal,Chicago,Data Security,67.5,2,4.0,2025,Yes
+Municipal,Chicago,Physical Security,68.1,5,3.0,2025,Yes
+Municipal,Chicago,Privacy Protection,51.0,5,2.9,2021,Yes
+Municipal,Chicago,Algorithmic Transparency,14.1,0,1.0,2020,Yes
+Municipal,Chicago,Service Equity,44.3,2,2.6,2022,No
+Municipal,Chicago,Labor Protection,32.4,1,2.0,2022,Yes
+Municipal,Austin,Data Security,67.4,2,3.6,2023,Yes
+Municipal,Austin,Physical Security,69.7,5,3.0,2023,Yes
+Municipal,Austin,Privacy Protection,35.4,3,2.1,2023,No
+Municipal,Austin,Algorithmic Transparency,14.1,0,1.7,2020,No
+Municipal,Austin,Service Equity,37.6,3,1.8,2022,No
+Municipal,Austin,Labor Protection,30.2,2,2.6,2022,No
+Municipal,Seattle,Data Security,77.9,4,3.1,2025,Yes
+Municipal,Seattle,Physical Security,67.8,5,2.5,2025,Yes
+Municipal,Seattle,Privacy Protection,44.5,1,2.2,2022,No
+Municipal,Seattle,Algorithmic Transparency,14.5,1,1.1,2019,No
+Municipal,Seattle,Service Equity,38.3,1,3.0,2023,No
+Municipal,Seattle,Labor Protection,23.7,2,2.9,2021,No
+Municipal,Boston,Data Security,79.2,6,3.6,2023,No
+Municipal,Boston,Physical Security,72.8,5,3.7,2024,Yes
+Municipal,Boston,Privacy Protection,42.3,1,2.9,2023,Yes
+Municipal,Boston,Algorithmic Transparency,13.2,0,1.4,2020,Yes
+Municipal,Boston,Service Equity,38.4,3,1.5,2024,No
+Municipal,Boston,Labor Protection,15.9,0,1.2,2020,No
+Municipal,Los Angeles,Data Security,70.3,3,3.5,2023,No
+Municipal,Los Angeles,Physical Security,73.0,3,3.0,2023,Yes
+Municipal,Los Angeles,Privacy Protection,39.3,2,1.8,2021,No
+Municipal,Los Angeles,Algorithmic Transparency,22.6,3,2.8,2020,No
+Municipal,Los Angeles,Service Equity,43.9,2,1.9,2021,Yes
+Municipal,Los Angeles,Labor Protection,26.0,1,2.9,2018,No
+Municipal,Denver,Data Security,74.8,5,4.0,2024,Yes
+Municipal,Denver,Physical Security,60.4,5,3.0,2024,Yes
+Municipal,Denver,Privacy Protection,41.7,2,3.1,2022,Yes
+Municipal,Denver,Algorithmic Transparency,19.2,0,1.8,2018,No
+Municipal,Denver,Service Equity,34.9,2,2.0,2021,Yes
+Municipal,Denver,Labor Protection,29.3,1,3.3,2019,No
+Municipal,Atlanta,Data Security,65.1,2,3.0,2025,No
+Municipal,Atlanta,Physical Security,59.0,2,3.1,2022,No
+Municipal,Atlanta,Privacy Protection,52.5,5,2.7,2021,Yes
+Municipal,Atlanta,Algorithmic Transparency,11.9,0,1.4,2022,No
+Municipal,Atlanta,Service Equity,35.3,3,2.6,2023,Yes
+Municipal,Atlanta,Labor Protection,30.8,1,1.6,2024,Yes
+Municipal,Portland,Data Security,78.2,6,3.0,2023,Yes
+Municipal,Portland,Physical Security,69.6,5,2.8,2023,Yes
+Municipal,Portland,Privacy Protection,40.2,3,2.1,2021,No
+Municipal,Portland,Algorithmic Transparency,10.6,0,1.3,2021,No
+Municipal,Portland,Service Equity,39.6,3,2.0,2024,Yes
+Municipal,Portland,Labor Protection,27.5,2,2.2,2021,Yes
+State/Provincial,California,Data Security,55.5,5,3.2,2022,No
+State/Provincial,California,Physical Security,47.9,3,1.6,2021,Yes
+State/Provincial,California,Privacy Protection,69.3,4,3.7,2024,No
+State/Provincial,California,Algorithmic Transparency,33.4,3,2.0,2021,No
+State/Provincial,California,Service Equity,34.8,3,2.3,2024,No
+State/Provincial,California,Labor Protection,44.5,1,2.5,2021,Yes
+State/Provincial,New York,Data Security,56.9,2,3.3,2022,Yes
+State/Provincial,New York,Physical Security,42.4,2,1.8,2022,No
+State/Provincial,New York,Privacy Protection,70.8,3,2.7,2024,Yes
+State/Provincial,New York,Algorithmic Transparency,31.6,3,2.4,2022,No
+State/Provincial,New York,Service Equity,31.5,2,2.1,2021,Yes
+State/Provincial,New York,Labor Protection,50.7,5,3.3,2023,No
+State/Provincial,Texas,Data Security,58.3,2,3.7,2024,Yes
+State/Provincial,Texas,Physical Security,48.0,1,1.8,2021,No
+State/Provincial,Texas,Privacy Protection,64.8,2,3.7,2025,No
+State/Provincial,Texas,Algorithmic Transparency,20.9,2,2.0,2021,No
+State/Provincial,Texas,Service Equity,20.7,2,1.6,2020,No
+State/Provincial,Texas,Labor Protection,58.3,5,2.6,2023,No
+State/Provincial,Massachusetts,Data Security,60.5,2,3.6,2024,No
+State/Provincial,Massachusetts,Physical Security,48.8,1,2.2,2023,Yes
+State/Provincial,Massachusetts,Privacy Protection,74.3,5,3.8,2025,Yes
+State/Provincial,Massachusetts,Algorithmic Transparency,20.7,1,1.8,2021,No
+State/Provincial,Massachusetts,Service Equity,22.3,2,2.0,2021,No
+State/Provincial,Massachusetts,Labor Protection,53.9,2,2.8,2022,No
+State/Provincial,Washington,Data Security,59.5,5,3.6,2023,No
+State/Provincial,Washington,Physical Security,38.3,3,3.1,2021,Yes
+State/Provincial,Washington,Privacy Protection,69.8,5,2.7,2025,No
+State/Provincial,Washington,Algorithmic Transparency,25.0,1,1.8,2019,No
+State/Provincial,Washington,Service Equity,27.0,1,1.6,2018,No
+State/Provincial,Washington,Labor Protection,50.3,3,2.9,2024,No
+State/Provincial,Illinois,Data Security,45.8,3,3.3,2021,Yes
+State/Provincial,Illinois,Physical Security,44.0,2,2.7,2022,No
+State/Provincial,Illinois,Privacy Protection,64.5,5,3.4,2024,Yes
+State/Provincial,Illinois,Algorithmic Transparency,29.8,2,3.0,2018,Yes
+State/Provincial,Illinois,Service Equity,30.2,2,1.6,2022,No
+State/Provincial,Illinois,Labor Protection,55.2,3,3.5,2023,No
+State/Provincial,Florida,Data Security,45.3,3,1.5,2021,No
+State/Provincial,Florida,Physical Security,42.8,1,2.8,2021,Yes
+State/Provincial,Florida,Privacy Protection,70.8,4,3.6,2025,Yes
+State/Provincial,Florida,Algorithmic Transparency,25.5,2,3.3,2020,No
+State/Provincial,Florida,Service Equity,35.2,1,2.4,2024,No
+State/Provincial,Florida,Labor Protection,43.0,1,2.5,2023,No
+State/Provincial,Ontario,Data Security,61.7,4,2.9,2023,Yes
+State/Provincial,Ontario,Physical Security,43.8,2,3.5,2023,No
+State/Provincial,Ontario,Privacy Protection,64.3,4,3.5,2025,Yes
+State/Provincial,Ontario,Algorithmic Transparency,32.0,1,2.5,2022,No
+State/Provincial,Ontario,Service Equity,36.8,3,2.3,2023,No
+State/Provincial,Ontario,Labor Protection,57.2,2,3.5,2023,Yes
+State/Provincial,British Columbia,Data Security,68.2,5,3.1,2025,Yes
+State/Provincial,British Columbia,Physical Security,53.3,3,3.0,2022,No
+State/Provincial,British Columbia,Privacy Protection,64.0,5,3.9,2025,Yes
+State/Provincial,British Columbia,Algorithmic Transparency,27.7,2,3.2,2022,Yes
+State/Provincial,British Columbia,Service Equity,29.2,1,2.4,2020,No
+State/Provincial,British Columbia,Labor Protection,62.1,3,3.9,2024,No
+State/Provincial,Queensland,Data Security,63.5,3,3.0,2025,No
+State/Provincial,Queensland,Physical Security,46.1,2,3.1,2023,Yes
+State/Provincial,Queensland,Privacy Protection,72.4,4,3.2,2023,Yes
+State/Provincial,Queensland,Algorithmic Transparency,20.8,3,2.7,2022,Yes
+State/Provincial,Queensland,Service Equity,32.3,1,2.5,2024,No
+State/Provincial,Queensland,Labor Protection,47.3,2,1.6,2022,Yes
+National,United States,Data Security,33.6,1,2.2,2024,Yes
+National,United States,Physical Security,41.9,3,1.9,2021,No
+National,United States,Privacy Protection,91.5,5,3.6,2023,Yes
+National,United States,Algorithmic Transparency,37.3,2,1.9,2022,No
+National,United States,Service Equity,18.1,0,1.5,2018,Yes
+National,United States,Labor Protection,54.7,5,3.5,2024,Yes
+National,Canada,Data Security,36.2,2,2.3,2021,No
+National,Canada,Physical Security,33.2,3,2.2,2021,No
+National,Canada,Privacy Protection,85.8,8,3.4,2025,Yes
+National,Canada,Algorithmic Transparency,40.4,3,2.0,2023,Yes
+National,Canada,Service Equity,24.3,1,2.3,2022,No
+National,Canada,Labor Protection,52.8,2,3.7,2023,No
+National,United Kingdom,Data Security,38.5,2,3.0,2023,No
+National,United Kingdom,Physical Security,34.4,3,3.5,2023,No
+National,United Kingdom,Privacy Protection,74.3,5,3.0,2023,Yes
+National,United Kingdom,Algorithmic Transparency,37.8,2,1.5,2022,No
+National,United Kingdom,Service Equity,17.8,0,1.2,2018,No
+National,United Kingdom,Labor Protection,60.4,3,2.7,2025,No
+National,Germany,Data Security,48.7,1,2.3,2023,No
+National,Germany,Physical Security,38.4,3,1.6,2021,No
+National,Germany,Privacy Protection,84.8,4,3.1,2023,Yes
+National,Germany,Algorithmic Transparency,37.9,2,1.7,2023,No
+National,Germany,Service Equity,24.3,1,1.9,2018,No
+National,Germany,Labor Protection,62.5,2,3.5,2024,Yes
+National,Japan,Data Security,45.4,3,1.8,2021,No
+National,Japan,Physical Security,37.3,3,1.7,2021,No
+National,Japan,Privacy Protection,86.6,7,3.4,2023,Yes
+National,Japan,Algorithmic Transparency,35.6,3,3.4,2023,No
+National,Japan,Service Equity,15.2,1,1.2,2022,No
+National,Japan,Labor Protection,58.2,3,3.5,2024,Yes
+National,Australia,Data Security,48.9,1,1.5,2021,No
+National,Australia,Physical Security,48.0,3,2.8,2022,No
+National,Australia,Privacy Protection,95.0,8,3.2,2025,Yes
+National,Australia,Algorithmic Transparency,28.4,2,2.8,2021,No
+National,Australia,Service Equity,11.9,1,1.3,2018,Yes
+National,Australia,Labor Protection,55.0,3,3.8,2023,Yes
+National,France,Data Security,42.7,3,2.1,2021,Yes
+National,France,Physical Security,24.0,1,1.5,2019,No
+National,France,Privacy Protection,84.1,5,3.7,2024,No
+National,France,Algorithmic Transparency,42.0,2,3.3,2021,Yes
+National,France,Service Equity,23.9,2,1.9,2021,No
+National,France,Labor Protection,58.5,5,2.9,2024,No
+National,South Korea,Data Security,39.8,2,3.1,2022,Yes
+National,South Korea,Physical Security,40.8,3,3.0,2022,Yes
+National,South Korea,Privacy Protection,91.7,8,4.0,2025,Yes
+National,South Korea,Algorithmic Transparency,32.3,1,2.7,2023,No
+National,South Korea,Service Equity,17.8,0,1.5,2021,Yes
+National,South Korea,Labor Protection,58.2,5,3.2,2021,Yes
+National,Singapore,Data Security,35.3,2,1.5,2022,No
+National,Singapore,Physical Security,36.9,3,3.2,2021,No
+National,Singapore,Privacy Protection,85.5,5,4.0,2025,Yes
+National,Singapore,Algorithmic Transparency,28.7,2,1.8,2022,No
+National,Singapore,Service Equity,22.2,3,1.6,2019,No
+National,Singapore,Labor Protection,63.4,5,3.8,2023,Yes
+National,Sweden,Data Security,45.5,2,2.1,2023,No
+National,Sweden,Physical Security,34.2,1,2.5,2024,No
+National,Sweden,Privacy Protection,77.1,5,3.2,2024,No
+National,Sweden,Algorithmic Transparency,37.3,2,1.7,2024,No
+National,Sweden,Service Equity,15.7,0,2.0,2018,Yes
+National,Sweden,Labor Protection,56.5,5,2.6,2021,No
+International,European Union,Data Security,24.7,3,3.4,2020,No
+International,European Union,Physical Security,20.6,3,1.9,2021,No
+International,European Union,Privacy Protection,80.9,6,4.7,2023,No
+International,European Union,Algorithmic Transparency,46.5,2,2.6,2024,No
+International,European Union,Service Equity,22.6,2,2.9,2018,Yes
+International,European Union,Labor Protection,49.3,3,1.9,2023,Yes
+International,OECD,Data Security,31.9,3,3.4,2023,No
+International,OECD,Physical Security,11.4,1,1.7,2018,No
+International,OECD,Privacy Protection,76.3,7,3.3,2025,Yes
+International,OECD,Algorithmic Transparency,59.6,5,2.7,2022,Yes
+International,OECD,Service Equity,15.0,1,1.2,2019,No
+International,OECD,Labor Protection,39.8,1,3.0,2021,No
+International,UN Standards,Data Security,16.8,0,1.8,2021,No
+International,UN Standards,Physical Security,21.6,3,3.4,2019,No
+International,UN Standards,Privacy Protection,78.0,4,4.1,2023,Yes
+International,UN Standards,Algorithmic Transparency,49.5,2,3.2,2024,No
+International,UN Standards,Service Equity,35.0,1,2.9,2022,No
+International,UN Standards,Labor Protection,50.2,3,2.7,2023,No
+International,ISO,Data Security,39.5,2,2.3,2022,Yes
+International,ISO,Physical Security,27.8,2,3.4,2021,No
+International,ISO,Privacy Protection,71.0,3,3.1,2025,No
+International,ISO,Algorithmic Transparency,49.3,3,2.1,2023,No
+International,ISO,Service Equity,23.7,3,2.8,2019,Yes
+International,ISO,Labor Protection,44.8,3,2.1,2023,No
+International,Asia-Pacific Economic Cooperation,Data Security,31.3,1,3.5,2022,No
+International,Asia-Pacific Economic Cooperation,Physical Security,21.6,3,2.8,2018,No
+International,Asia-Pacific Economic Cooperation,Privacy Protection,79.7,8,4.0,2025,No
+International,Asia-Pacific Economic Cooperation,Algorithmic Transparency,47.3,3,2.3,2023,No
+International,Asia-Pacific Economic Cooperation,Service Equity,23.3,2,3.1,2022,Yes
+International,Asia-Pacific Economic Cooperation,Labor Protection,41.7,2,1.8,2021,Yes
